@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Researcher profile</title>
+    <link>https://wmkouw.github.io/project/</link>
+    <description>Recent content in Projects on Researcher profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://wmkouw.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LibTLDA</title>
+      <link>https://wmkouw.github.io/project/libtlda/</link>
+      <pubDate>Sat, 09 Jun 2018 19:06:57 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/libtlda/</guid>
+      <description>LibTLDA is a library of classifiers designed for domain adaptation and transfer learning, available in Matlab and Python. It started out as the collection of classifiers that I implemented during my PhD, but is now being expanded with more methods and algorithms.
+Installation has been made easy, and there are demos to help you get started. Coders familiar with sci-kit will find it easy to employ.
+More information is available on its github page and its documentation page.</description>
+    </item>
+    
+    <item>
+      <title>MFS-boneCNN</title>
+      <link>https://wmkouw.github.io/project/mfs-bonecnn/</link>
+      <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/mfs-bonecnn/</guid>
+      <description>My first project at the Netherlands eScience Center was with the winner of the Young eScientist Award 2016, dr. Maureen van Eijnatten. She worked at the 3D Innovation Lab under the department of Maxillo-Facial Surgery at the Vrije Universiteit medical center (VUmc), together with PhD student Jordi Minnema and medical engineer Niels Liberton.
+During the project, we developed a method for automatically detecting bone tissue in medical CT-scanner images. This method consisted of an artificial neural network, called a convolutional neural network (CNN), which looks at individual voxels in the image plus their surroundings.</description>
+    </item>
+    
+  </channel>
+</rss>

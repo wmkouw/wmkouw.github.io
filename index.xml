@@ -11,24 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Target contrastive pessimistic discriminant analysis</title>
-      <link>https://wmkouw.github.io/publication/tcpr/</link>
-      <pubDate>Sat, 08 Sep 2018 14:45:35 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/tcpr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MR Acquisition-invariant feature extraction using Siamese neural networks.</title>
-      <link>https://wmkouw.github.io/publication/mrainet/</link>
-      <pubDate>Sat, 08 Sep 2018 14:38:45 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/mrainet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Big Data &amp; Trust</title>
       <link>https://wmkouw.github.io/talk/nsfworkshop-bigdata/</link>
       <pubDate>Sat, 08 Sep 2018 13:18:06 +0200</pubDate>
@@ -55,6 +37,85 @@
       
       <guid>https://wmkouw.github.io/publication/covshift-skew/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>LibTLDA</title>
+      <link>https://wmkouw.github.io/project/libtlda/</link>
+      <pubDate>Sat, 09 Jun 2018 19:06:57 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/libtlda/</guid>
+      <description>&lt;p&gt;LibTLDA is a library of classifiers designed for domain adaptation and transfer learning, available in Matlab and Python. It started out as the collection of classifiers that I implemented during my PhD, but is now being expanded with more methods and algorithms.&lt;/p&gt;
+
+&lt;p&gt;Installation has been made easy, and there are demos to help you get started. Coders familiar with sci-kit will find it easy to employ.&lt;/p&gt;
+
+&lt;p&gt;More information is available on its github &lt;a href=&#34;https://github.com/wmkouw/libTLDA&#34; target=&#34;_blank&#34;&gt;page&lt;/a&gt; and its documentation &lt;a href=&#34;https://libtlda.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34;&gt;page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Target contrastive pessimistic discriminant analysis</title>
+      <link>https://wmkouw.github.io/publication/tcpr/</link>
+      <pubDate>Fri, 08 Jun 2018 14:45:35 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/tcpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MR Acquisition-invariant representation learning</title>
+      <link>https://wmkouw.github.io/talk/nvphbv2018/</link>
+      <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/talk/nvphbv2018/</guid>
+      <description>&lt;p&gt;NVPHBV is the Dutch Society for Pattern Recognition and Image Processing. During their meetings, researchers from the Netherlands have a chance to present some of their work and catch up on developments in their fields.&lt;/p&gt;
+
+&lt;p&gt;I presented my work on removing MRI-scanner based varation from images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reducing sampling variance in covariate shift using control variates</title>
+      <link>https://wmkouw.github.io/publication/covshift-ctrl/</link>
+      <pubDate>Sun, 01 Oct 2017 14:45:44 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/covshift-ctrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MFS-boneCNN</title>
+      <link>https://wmkouw.github.io/project/mfs-bonecnn/</link>
+      <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/mfs-bonecnn/</guid>
+      <description>&lt;p&gt;My first project at the Netherlands eScience Center was with the winner of the Young eScientist Award 2016, dr. Maureen van Eijnatten. She worked at the 3D Innovation Lab under the department of Maxillo-Facial Surgery at the Vrije Universiteit medical center (VUmc), together with PhD student Jordi Minnema and medical engineer Niels Liberton.&lt;/p&gt;
+
+&lt;p&gt;During the project, we developed a method for automatically detecting bone tissue in medical CT-scanner images. This method consisted of an artificial neural network, called a convolutional neural network (CNN), which looks at individual voxels in the image plus their surroundings. If a voxel shows an intensity value suitable for bone tissue and is surrounded voxels with similar intensity values (noisy signal voxels are often isolated), then the network classifies that voxel as bone. It performs its function for a whole CT-scan, which allows us to automatically reconstruct a 3D model of the skull. This 3D model is later used to design and 3D-print saw templates and other constructs to aid surgeons.&lt;/p&gt;
+
+&lt;p&gt;Link to the &lt;a href=&#34;https://github.com/NLeSC/yeap16-ai-3d-printing&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; and the eScience Center &lt;a href=&#34;https://www.esciencecenter.nl/project/3d-printing-of-human-body-parts&#34; target=&#34;_blank&#34;&gt;page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MR Acquisition-invariant feature extraction using Siamese neural networks.</title>
+      <link>https://wmkouw.github.io/publication/mrainet/</link>
+      <pubDate>Fri, 08 Sep 2017 14:38:45 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/mrainet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance reduction techniques for importance-weighted cross-validation</title>
+      <link>https://wmkouw.github.io/talk/ictopen2017/</link>
+      <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/talk/ictopen2017/</guid>
+      <description>&lt;p&gt;ICT.OPEN is the Dutch national conference for computer science in general. Researchers from various universities and companies present their work along different tracks.&lt;/p&gt;
+
+&lt;p&gt;I presented my work in the Machine Learning track. My topic was cross-validation under covariate shift and how to reduce variance in the importance-weighted risk estimator.&lt;/p&gt;
+</description>
     </item>
     
     <item>

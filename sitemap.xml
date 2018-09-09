@@ -4,22 +4,6 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication/tcpr/</loc>
-      <lastmod>2018-09-08T14:45:35+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication/mrainet/</loc>
-      <lastmod>2018-09-08T14:38:45+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/talk/nsfworkshop-bigdata/</loc>
       <lastmod>2018-09-08T13:18:06+02:00</lastmod>
     </url>
@@ -36,7 +20,71 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/project/libtlda/</loc>
+      <lastmod>2018-06-09T19:06:57+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication/tcpr/</loc>
+      <lastmod>2018-06-08T14:45:35+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/talk/nvphbv2018/</loc>
+      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication/covshift-ctrl/</loc>
+      <lastmod>2017-10-01T14:45:44+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/project/mfs-bonecnn/</loc>
+      <lastmod>2017-09-09T19:12:54+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication/mrainet/</loc>
+      <lastmod>2017-09-08T14:38:45+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/talk/ictopen2017/</loc>
+      <lastmod>2017-03-09T19:16:44+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/project/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -95,7 +143,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication_types/3/</loc>
-      <lastmod>2018-09-08T14:45:35+02:00</lastmod>
+      <lastmod>2018-06-08T14:45:35+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -104,6 +152,51 @@
     <url>
     
       <loc>https://wmkouw.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/deep-learning/</loc>
+      <lastmod>2017-09-09T19:12:54+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
+      <lastmod>2018-06-09T19:06:57+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
+      <lastmod>2018-06-09T19:06:57+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/maxillo-facial-surgery/</loc>
+      <lastmod>2017-09-09T19:12:54+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/medical-imaging/</loc>
+      <lastmod>2017-09-09T19:12:54+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -130,6 +223,16 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/</loc>
+      <lastmod>2017-09-09T19:12:54+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/transfer-learning/</loc>
+      <lastmod>2018-06-09T19:06:57+02:00</lastmod>
       <priority>0</priority>
     </url>
     
