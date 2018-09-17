@@ -44,6 +44,14 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/project/evidence/</loc>
+      <lastmod>2017-10-09T19:11:44+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/publication/covshift-ctrl/</loc>
       <lastmod>2017-10-01T14:45:44+02:00</lastmod>
     </url>
@@ -177,6 +185,15 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/historical-research/</loc>
+      <lastmod>2017-10-09T19:11:44+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
       <lastmod>2018-06-09T19:06:57+02:00</lastmod>
       <priority>0</priority>
@@ -197,6 +214,15 @@
     
       <loc>https://wmkouw.github.io/tags/medical-imaging/</loc>
       <lastmod>2017-09-09T19:12:54+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/natural-language-processing/</loc>
+      <lastmod>2017-10-09T19:11:44+02:00</lastmod>
       <priority>0</priority>
     </url>
     

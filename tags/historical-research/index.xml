@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Historical research on Researcher profile</title>
+    <link>https://wmkouw.github.io/tags/historical-research/</link>
+    <description>Recent content in Historical research on Researcher profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 09 Oct 2017 19:11:44 +0200</lastBuildDate>
+    
+	<atom:link href="https://wmkouw.github.io/tags/historical-research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EviDENce</title>
+      <link>https://wmkouw.github.io/project/evidence/</link>
+      <pubDate>Mon, 09 Oct 2017 19:11:44 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/evidence/</guid>
+      <description>For my second project at the Netherlands eScience Center, I worked on a collaboration project between Susan Hogervorst at the Open University, Marieke van Erp at the Digital Humanities Lab of the KNAW, and Hennie Brugman of the Meertens Institute, along with my partner engineer Martine de Vos.
+Much of our historical knowledge is based on oral or written accounts of eyewitnesses, particularly in cases of war and mass violence, when regular ways of documentation and record keeping are often absent.</description>
+    </item>
+    
+  </channel>
+</rss>
