@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 09 Sep 2017 19:12:54 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 Mar 2017 19:16:44 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Covariate shift</title>
+      <link>https://wmkouw.github.io/tags/covariate-shift/</link>
+      <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/covariate-shift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://wmkouw.github.io/tags/data/</link>
+      <pubDate>Sat, 08 Sep 2018 13:18:06 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep learning</title>
@@ -31,11 +49,29 @@
     </item>
     
     <item>
+      <title>GDPR</title>
+      <link>https://wmkouw.github.io/tags/gdpr/</link>
+      <pubDate>Sat, 08 Sep 2018 13:18:06 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/gdpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Historical research</title>
       <link>https://wmkouw.github.io/tags/historical-research/</link>
       <pubDate>Mon, 09 Oct 2017 19:11:44 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/historical-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importance-weighting</title>
+      <link>https://wmkouw.github.io/tags/importance-weighting/</link>
+      <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/importance-weighting/</guid>
       <description></description>
     </item>
     
@@ -76,11 +112,38 @@
     </item>
     
     <item>
+      <title>Robust estimator</title>
+      <link>https://wmkouw.github.io/tags/robust-estimator/</link>
+      <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/robust-estimator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Transfer learning</title>
       <link>https://wmkouw.github.io/tags/transfer-learning/</link>
       <pubDate>Sat, 09 Jun 2018 19:06:57 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust</title>
+      <link>https://wmkouw.github.io/tags/trust/</link>
+      <pubDate>Sat, 08 Sep 2018 13:18:06 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/trust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance reduction</title>
+      <link>https://wmkouw.github.io/tags/variance-reduction/</link>
+      <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/variance-reduction/</guid>
       <description></description>
     </item>
     

@@ -132,6 +132,14 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/talk/nvphbv2016/</loc>
+      <lastmod>2016-05-27T19:18:33+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/publication_types/1/</loc>
       <lastmod>2018-09-08T13:01:29+02:00</lastmod>
       <priority>0</priority>
@@ -167,6 +175,24 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/covariate-shift/</loc>
+      <lastmod>2017-03-09T19:16:44+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/data/</loc>
+      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/tags/deep-learning/</loc>
       <lastmod>2017-09-09T19:12:54+02:00</lastmod>
       <priority>0</priority>
@@ -185,8 +211,26 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/gdpr/</loc>
+      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/tags/historical-research/</loc>
       <lastmod>2017-10-09T19:11:44+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/importance-weighting/</loc>
+      <lastmod>2017-03-09T19:16:44+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -248,8 +292,17 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/robust-estimator/</loc>
+      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/tags/</loc>
-      <lastmod>2017-09-09T19:12:54+02:00</lastmod>
+      <lastmod>2017-03-09T19:16:44+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -259,6 +312,24 @@
     
       <loc>https://wmkouw.github.io/tags/transfer-learning/</loc>
       <lastmod>2018-06-09T19:06:57+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/trust/</loc>
+      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/variance-reduction/</loc>
+      <lastmod>2017-03-09T19:16:44+02:00</lastmod>
       <priority>0</priority>
     </url>
     

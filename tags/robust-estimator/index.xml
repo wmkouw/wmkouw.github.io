@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Domain adaptation on Researcher profile</title>
-    <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
-    <description>Recent content in Domain adaptation on Researcher profile</description>
+    <title>Robust estimator on Researcher profile</title>
+    <link>https://wmkouw.github.io/tags/robust-estimator/</link>
+    <description>Recent content in Robust estimator on Researcher profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 09 Jun 2018 19:06:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 May 2018 19:38:51 +0200</lastBuildDate>
     
-	<atom:link href="https://wmkouw.github.io/tags/domain-adaptation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wmkouw.github.io/tags/robust-estimator/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>LibTLDA</title>
-      <link>https://wmkouw.github.io/project/libtlda/</link>
-      <pubDate>Sat, 09 Jun 2018 19:06:57 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/project/libtlda/</guid>
-      <description>LibTLDA is a library of classifiers designed for domain adaptation and transfer learning, available in Matlab and Python. It started out as the collection of classifiers that I implemented during my PhD, but is now being expanded with more methods and algorithms.
-Installation has been made easy, and there are demos to help you get started. Coders familiar with sci-kit will find it easy to employ.
-More information is available on its github page and its documentation page.</description>
-    </item>
     
     <item>
       <title>MR Acquisition-invariant representation learning</title>
