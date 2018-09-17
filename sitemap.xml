@@ -52,14 +52,6 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication/covshift-ctrl/</loc>
-      <lastmod>2017-10-01T14:45:44+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/project/mfs-bonecnn/</loc>
       <lastmod>2017-09-09T19:12:54+02:00</lastmod>
     </url>
@@ -176,7 +168,16 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/covariate-shift/</loc>
-      <lastmod>2017-03-09T19:16:44+02:00</lastmod>
+      <lastmod>2018-09-08T13:01:29+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/cross-validation/</loc>
+      <lastmod>2018-09-08T13:01:29+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -211,6 +212,24 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/estimator/</loc>
+      <lastmod>2018-06-08T14:45:35+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/feature-extraction/</loc>
+      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/tags/gdpr/</loc>
       <lastmod>2018-09-08T13:18:06+02:00</lastmod>
       <priority>0</priority>
@@ -231,6 +250,15 @@
     
       <loc>https://wmkouw.github.io/tags/importance-weighting/</loc>
       <lastmod>2017-03-09T19:16:44+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/mri/</loc>
+      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -283,6 +311,15 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/representation-learning/</loc>
+      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -293,7 +330,25 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/robust-estimator/</loc>
-      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
+      <lastmod>2016-05-27T19:18:33+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/robustness/</loc>
+      <lastmod>2018-06-08T14:45:35+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/sampling-skewness/</loc>
+      <lastmod>2018-09-08T13:01:29+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -302,7 +357,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/</loc>
-      <lastmod>2017-03-09T19:16:44+02:00</lastmod>
+      <lastmod>2018-09-08T13:01:29+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -312,6 +367,15 @@
     
       <loc>https://wmkouw.github.io/tags/transfer-learning/</loc>
       <lastmod>2018-06-09T19:06:57+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/transfer-models/</loc>
+      <lastmod>2016-11-01T12:33:22+02:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -7,17 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 09 Mar 2017 19:16:44 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Sep 2018 13:01:29 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Covariate shift</title>
+      <title>Covariate-shift</title>
       <link>https://wmkouw.github.io/tags/covariate-shift/</link>
-      <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>
+      <pubDate>Sat, 08 Sep 2018 13:01:29 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/covariate-shift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-validation</title>
+      <link>https://wmkouw.github.io/tags/cross-validation/</link>
+      <pubDate>Sat, 08 Sep 2018 13:01:29 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/cross-validation/</guid>
       <description></description>
     </item>
     
@@ -31,7 +40,7 @@
     </item>
     
     <item>
-      <title>Deep learning</title>
+      <title>Deep-learning</title>
       <link>https://wmkouw.github.io/tags/deep-learning/</link>
       <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
       
@@ -40,11 +49,29 @@
     </item>
     
     <item>
-      <title>Domain adaptation</title>
+      <title>Domain-adaptation</title>
       <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
       <pubDate>Sat, 09 Jun 2018 19:06:57 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimator</title>
+      <link>https://wmkouw.github.io/tags/estimator/</link>
+      <pubDate>Fri, 08 Jun 2018 14:45:35 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/estimator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature-extraction</title>
+      <link>https://wmkouw.github.io/tags/feature-extraction/</link>
+      <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/feature-extraction/</guid>
       <description></description>
     </item>
     
@@ -58,7 +85,7 @@
     </item>
     
     <item>
-      <title>Historical research</title>
+      <title>Historical-research</title>
       <link>https://wmkouw.github.io/tags/historical-research/</link>
       <pubDate>Mon, 09 Oct 2017 19:11:44 +0200</pubDate>
       
@@ -76,7 +103,16 @@
     </item>
     
     <item>
-      <title>Machine learning</title>
+      <title>MRI</title>
+      <link>https://wmkouw.github.io/tags/mri/</link>
+      <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-learning</title>
       <link>https://wmkouw.github.io/tags/machine-learning/</link>
       <pubDate>Sat, 09 Jun 2018 19:06:57 +0200</pubDate>
       
@@ -85,7 +121,7 @@
     </item>
     
     <item>
-      <title>Maxillo-facial surgery</title>
+      <title>Maxillo-facial-surgery</title>
       <link>https://wmkouw.github.io/tags/maxillo-facial-surgery/</link>
       <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
       
@@ -94,7 +130,7 @@
     </item>
     
     <item>
-      <title>Medical imaging</title>
+      <title>Medical-imaging</title>
       <link>https://wmkouw.github.io/tags/medical-imaging/</link>
       <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
       
@@ -103,7 +139,7 @@
     </item>
     
     <item>
-      <title>Natural language processing</title>
+      <title>Natural-language-processing</title>
       <link>https://wmkouw.github.io/tags/natural-language-processing/</link>
       <pubDate>Mon, 09 Oct 2017 19:11:44 +0200</pubDate>
       
@@ -112,20 +148,56 @@
     </item>
     
     <item>
-      <title>Robust estimator</title>
-      <link>https://wmkouw.github.io/tags/robust-estimator/</link>
+      <title>Representation-learning</title>
+      <link>https://wmkouw.github.io/tags/representation-learning/</link>
       <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/representation-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust-estimator</title>
+      <link>https://wmkouw.github.io/tags/robust-estimator/</link>
+      <pubDate>Fri, 27 May 2016 19:18:33 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/robust-estimator/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Transfer learning</title>
+      <title>Robustness</title>
+      <link>https://wmkouw.github.io/tags/robustness/</link>
+      <pubDate>Fri, 08 Jun 2018 14:45:35 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/robustness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling-skewness</title>
+      <link>https://wmkouw.github.io/tags/sampling-skewness/</link>
+      <pubDate>Sat, 08 Sep 2018 13:01:29 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/sampling-skewness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer-learning</title>
       <link>https://wmkouw.github.io/tags/transfer-learning/</link>
       <pubDate>Sat, 09 Jun 2018 19:06:57 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer-models</title>
+      <link>https://wmkouw.github.io/tags/transfer-models/</link>
+      <pubDate>Tue, 01 Nov 2016 12:33:22 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/transfer-models/</guid>
       <description></description>
     </item>
     
@@ -139,7 +211,7 @@
     </item>
     
     <item>
-      <title>Variance reduction</title>
+      <title>Variance-reduction</title>
       <link>https://wmkouw.github.io/tags/variance-reduction/</link>
       <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>
       
