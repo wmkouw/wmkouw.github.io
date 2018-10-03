@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>MFS-boneCNN</title>
+      <title>boneCTCNN</title>
       <link>https://wmkouw.github.io/project/mfs-bonecnn/</link>
       <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
       
@@ -113,6 +113,28 @@
       
       <guid>https://wmkouw.github.io/publication/mrainet/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>IWcrossval</title>
+      <link>https://wmkouw.github.io/project/iwcv/</link>
+      <pubDate>Tue, 01 Aug 2017 17:35:11 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/iwcv/</guid>
+      <description>&lt;p&gt;During my PhD, I got interested in the question:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;How should you do cross-validation when facing shifts in your covariates and you have no labels for your target data?&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ms.k.u-tokyo.ac.jp/index.html&#34; target=&#34;_blank&#34;&gt;Sugiyama&amp;rsquo;s group&lt;/a&gt; has worked on this question extensively, and proposes a technique called &amp;ldquo;importance-weighted cross-validation&amp;rdquo;. I&amp;rsquo;ve used this estimator before, but found that it behaves unusually in certain cases. That led me to start investigating the difference between the importance-weighted source risk estimator and the target risk estimator in greater detail. That has led to three papers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;In the &lt;a href=&#34;https://wmkouw.github.io/publication/covshift-l2reg/&#34; target=&#34;_blank&#34;&gt;first paper&lt;/a&gt;, we empirically show that &lt;em&gt;even&lt;/em&gt; with the true, underlying importance weight function, the risk estimator does not produce the optimal regularization parameter.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In the &lt;a href=&#34;https://wmkouw.github.io/publication/covshift-skew/&#34; target=&#34;_blank&#34;&gt;second paper&lt;/a&gt;, we show that the importance-weighted risk estimator is severly skewed for small sample sizes. In most data sets, the weights are small and the risk estimate is low. This means that it will underestimate the regularization parameter.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In the third paper, we combat the influence that a rare large weight has on the importance-weighted risk estimator.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>

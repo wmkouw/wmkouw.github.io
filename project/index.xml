@@ -34,13 +34,24 @@ Much of our historical knowledge is based on oral or written accounts of eyewitn
     </item>
     
     <item>
-      <title>MFS-boneCNN</title>
+      <title>boneCTCNN</title>
       <link>https://wmkouw.github.io/project/mfs-bonecnn/</link>
       <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/mfs-bonecnn/</guid>
       <description>My first project at the Netherlands eScience Center was with the winner of the Young eScientist Award 2016, dr. Maureen van Eijnatten. She worked at the 3D Innovation Lab under the department of Maxillo-Facial Surgery at the Vrije Universiteit medical center (VUmc), together with PhD student Jordi Minnema and medical engineer Niels Liberton.
 During the project, we developed a method for automatically detecting bone tissue in medical CT-scanner images. This method consisted of an artificial neural network, called a convolutional neural network (CNN), which looks at individual voxels in the image plus their surroundings.</description>
+    </item>
+    
+    <item>
+      <title>IWcrossval</title>
+      <link>https://wmkouw.github.io/project/iwcv/</link>
+      <pubDate>Tue, 01 Aug 2017 17:35:11 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/iwcv/</guid>
+      <description>During my PhD, I got interested in the question:
+&amp;ldquo;How should you do cross-validation when facing shifts in your covariates and you have no labels for your target data?&amp;rdquo;
+Sugiyama&amp;rsquo;s group has worked on this question extensively, and proposes a technique called &amp;ldquo;importance-weighted cross-validation&amp;rdquo;. I&amp;rsquo;ve used this estimator before, but found that it behaves unusually in certain cases. That led me to start investigating the difference between the importance-weighted source risk estimator and the target risk estimator in greater detail.</description>
     </item>
     
   </channel>

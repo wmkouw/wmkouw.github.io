@@ -13,10 +13,12 @@
   
   
   
-  <meta name="description" content="Post-doctoral Fellow">
+    
+  
+  <meta name="description" content="Importance-weighted cross-validation under covariate shift.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/post/">
+  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/project/iwcv/">
 
   
 
@@ -45,6 +47,13 @@
       
     
     
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+      
+    
 
     
 
@@ -65,32 +74,34 @@
   
 
   
-  <link rel="alternate" href="https://wmkouw.github.io/post/index.xml" type="application/rss+xml" title="Researcher profile">
-  <link rel="feed" href="https://wmkouw.github.io/post/index.xml" type="application/rss+xml" title="Researcher profile">
+  <link rel="alternate" href="https://wmkouw.github.io/index.xml" type="application/rss+xml" title="Researcher profile">
+  <link rel="feed" href="https://wmkouw.github.io/index.xml" type="application/rss+xml" title="Researcher profile">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://wmkouw.github.io/post/">
+  <link rel="canonical" href="https://wmkouw.github.io/project/iwcv/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Researcher profile">
-  <meta property="og:url" content="https://wmkouw.github.io/post/">
-  <meta property="og:title" content="Notes | Researcher profile">
-  <meta property="og:description" content="Post-doctoral Fellow">
+  <meta property="og:url" content="https://wmkouw.github.io/project/iwcv/">
+  <meta property="og:title" content="IWcrossval | Researcher profile">
+  <meta property="og:description" content="Importance-weighted cross-validation under covariate shift.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2017-01-01T00:00:00&#43;01:00">
+  <meta property="article:published_time" content="2017-08-01T17:35:11&#43;02:00">
+  
+  <meta property="article:modified_time" content="2017-08-01T17:35:11&#43;02:00">
   
 
   
 
   
 
-  <title>Notes | Researcher profile</title>
+  <title>IWcrossval | Researcher profile</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -224,25 +235,78 @@
 </nav>
 
 
-
-
-
-<div class="universal-wrapper">
-
-  <h1>Notes</h1>
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
 
   
-  <div class="article-style" itemprop="articleBody"><p>Coming soon.</p>
+
+
+  <div class="article-container">
+
+    <div class="pub-title">
+      <h1 itemprop="name">IWcrossval</h1>
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+      <span class="pull-right">
+        
+
+      </span>
+    </div>
+
+    
+
+    <div class="article-style" itemprop="articleBody">
+      <p>During my PhD, I got interested in the question:</p>
+
+<p><strong>&ldquo;How should you do cross-validation when facing shifts in your covariates and you have no labels for your target data?&rdquo;</strong></p>
+
+<p><a href="http://www.ms.k.u-tokyo.ac.jp/index.html" target="_blank">Sugiyama&rsquo;s group</a> has worked on this question extensively, and proposes a technique called &ldquo;importance-weighted cross-validation&rdquo;. I&rsquo;ve used this estimator before, but found that it behaves unusually in certain cases. That led me to start investigating the difference between the importance-weighted source risk estimator and the target risk estimator in greater detail. That has led to three papers:</p>
+
+<ul>
+<li><p>In the <a href="https://wmkouw.github.io/publication/covshift-l2reg/" target="_blank">first paper</a>, we empirically show that <em>even</em> with the true, underlying importance weight function, the risk estimator does not produce the optimal regularization parameter.</p></li>
+
+<li><p>In the <a href="https://wmkouw.github.io/publication/covshift-skew/" target="_blank">second paper</a>, we show that the importance-weighted risk estimator is severly skewed for small sample sizes. In most data sets, the weights are small and the risk estimate is low. This means that it will underestimate the regularization parameter.</p></li>
+
+<li><p>In the third paper, we combat the influence that a rare large weight has on the importance-weighted risk estimator.</p></li>
+</ul>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="label label-default" href="https://wmkouw.github.io/tags/cross-validation/">cross-validation</a>
+  
+  <a class="label label-default" href="https://wmkouw.github.io/tags/importance-weighting/">importance-weighting</a>
+  
+  <a class="label label-default" href="https://wmkouw.github.io/tags/covariate-shift/">covariate-shift</a>
+  
 </div>
-  
-
-  
-  
-
-  
 
 
-</div>
+
+
+    
+    
+    
+
+    
+      
+      
+      
+      
+
+      
+      
+      
+      
+    
+
+  </div>
+</article>
+
+
+
 <footer class="site-footer">
   <div class="container">
 
@@ -316,6 +380,10 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
 
       
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
 
       
       
@@ -334,6 +402,8 @@
     
 
     
+    
+    <script>hljs.initHighlightingOnLoad();</script>
     
 
     
