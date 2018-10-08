@@ -75,25 +75,7 @@
     </item>
     
     <item>
-      <title>EviDENce</title>
-      <link>https://wmkouw.github.io/project/evidence/</link>
-      <pubDate>Mon, 09 Oct 2017 19:11:44 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/project/evidence/</guid>
-      <description>&lt;p&gt;For my second project at the Netherlands eScience Center, I worked on a collaboration project between &lt;a href=&#34;https://www.ou.nl/web/open-universiteit/zoek-medewerker#!user/shg&#34; target=&#34;_blank&#34;&gt;Susan Hogervorst&lt;/a&gt; at the Open University, &lt;a href=&#34;https://mariekevanerp.com/s&#34; target=&#34;_blank&#34;&gt;Marieke van Erp&lt;/a&gt; at the Digital Humanities Lab of the KNAW, and &lt;a href=&#34;http://www.meertens.knaw.nl/cms/en/staff/143500-hennieb&#34; target=&#34;_blank&#34;&gt;Hennie Brugman&lt;/a&gt; of the Meertens Institute, along with my partner engineer &lt;a href=&#34;https://www.esciencecenter.nl/profile/dr.-martine-de-vos&#34; target=&#34;_blank&#34;&gt;Martine de Vos&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Much of our historical knowledge is based on oral or written accounts of eyewitnesses, particularly in cases of war and mass violence, when regular ways of documentation and record keeping are often absent. Although oral history and the study of ego documents both value these individual perspectives on history and its meaning, these research fields tend to operate separately. However, the digital revolution has shaken up the balance between spoken and written text. The paradigm emerging in the application of search technology to digitised oral history is characterised by a post-documentary sensibility: away from text and sensitive to other dimensions of human expression than language. Nonetheless, ‘mining’ of oral history accounts remains valuable in humanities research, especially considering the re-use of digital interview collections throughout the humanities.&lt;/p&gt;
-
-&lt;p&gt;EviDENce explores new ways of analysing and contextualising historical sources by applying event modelling and semantic web technologies. Our project suggests a systematic and integral content analysis of ‘ego-sources’ by applying state-of-the-art entity and event modelling methods and tools, in order to explore the nature and value of ego-sources and to disclose existing collections. We focus on representations of mass-violence in a case study to generate and explore different kinds of events: a synchronic analysis of WW2 events, centered around the oral history collection ‘Getuigenverhalen’.&lt;/p&gt;
-
-&lt;p&gt;Our first steps were to develop a &lt;a href=&#34;https://github.com/ADAH-EviDENce/NewsReader&#34; target=&#34;_blank&#34;&gt;container&lt;/a&gt; for the natural language processing pipeline known as &lt;a href=&#34;http://www.newsreader-project.eu/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;NewsReader&lt;/em&gt; &lt;/a&gt;. This allowed us to process the transcribed oral history interviews from &amp;lsquo;Getuigenverhalen&amp;rsquo;. Further work is ongoing.&lt;/p&gt;
-
-&lt;p&gt;Links to the eScience &lt;a href=&#34;https://www.esciencecenter.nl/project/evidence&#34; target=&#34;_blank&#34;&gt;project page&lt;/a&gt; and the &lt;a href=&#34;https://github.com/ADAH-EviDENce&#34; target=&#34;_blank&#34;&gt;Github organization&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>boneCTCNN</title>
+      <title>   bone-CNN</title>
       <link>https://wmkouw.github.io/project/mfs-bonecnn/</link>
       <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
       
@@ -116,25 +98,12 @@
     </item>
     
     <item>
-      <title>IWcrossval</title>
-      <link>https://wmkouw.github.io/project/iwcv/</link>
-      <pubDate>Tue, 01 Aug 2017 17:35:11 +0200</pubDate>
+      <title>MRAI-net</title>
+      <link>https://wmkouw.github.io/project/mrainet/</link>
+      <pubDate>Thu, 01 Jun 2017 18:04:49 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/project/iwcv/</guid>
-      <description>&lt;p&gt;During my PhD, I got interested in the question:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;How should you do cross-validation when facing shifts in your covariates and you have no labels for your target data?&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.ms.k.u-tokyo.ac.jp/index.html&#34; target=&#34;_blank&#34;&gt;Sugiyama&amp;rsquo;s group&lt;/a&gt; has worked on this question extensively, and proposes a technique called &amp;ldquo;importance-weighted cross-validation&amp;rdquo;. I&amp;rsquo;ve used this estimator before, but found that it behaves unusually in certain cases. That led me to start investigating the difference between the importance-weighted source risk estimator and the target risk estimator in greater detail. That has led to three papers:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;In the &lt;a href=&#34;https://wmkouw.github.io/publication/covshift-l2reg/&#34; target=&#34;_blank&#34;&gt;first paper&lt;/a&gt;, we empirically show that &lt;em&gt;even&lt;/em&gt; with the true, underlying importance weight function, the risk estimator does not produce the optimal regularization parameter.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;In the &lt;a href=&#34;https://wmkouw.github.io/publication/covshift-skew/&#34; target=&#34;_blank&#34;&gt;second paper&lt;/a&gt;, we show that the importance-weighted risk estimator is severly skewed for small sample sizes. In most data sets, the weights are small and the risk estimate is low. This means that it will underestimate the regularization parameter.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;In the third paper, we combat the influence that a rare large weight has on the importance-weighted risk estimator.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://wmkouw.github.io/project/mrainet/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -177,6 +146,24 @@
 
 &lt;p&gt;I presented my work on a robust estimator for linear discriminant analysis in domain-adaptive machine learning.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>TCR-DA</title>
+      <link>https://wmkouw.github.io/project/tcpr/</link>
+      <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/tcpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FLDA</title>
+      <link>https://wmkouw.github.io/project/flda/</link>
+      <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/flda/</guid>
+      <description></description>
     </item>
     
   </channel>

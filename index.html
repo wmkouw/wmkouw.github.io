@@ -177,7 +177,7 @@
         <li class="nav-item">
           <a href="/project/" data-target="/project/">
             
-            <span>Projects</span>
+            <span>Code</span>
             
           </a>
         </li>
@@ -251,7 +251,7 @@
 
 
 
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref=" person-address">
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
   <div class="col-xs-12 col-md-4">
     <div id="profile">
 
@@ -473,7 +473,7 @@
 
 <div class="row">
   <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Projects</h1>
+    <h1>Code</h1>
     
   </div>
   <div class="col-xs-12 col-md-8">
@@ -496,11 +496,19 @@
       
       
       
+      
+      
+      
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item machine-learning domain-adaptation transfer-learning">
         <div class="card">
           
+          <a href="https://github.com/wmkouw/libTLDA/" title="" class="card-image hover-overlay"
+             target="_blank">
+            <img src="/img/libTLDA02.jpg" alt="" class="img-responsive">
+          </a>
+          
           <div class="card-text">
-            <h4><a href="https://wmkouw.github.io/project/libtlda/" >LibTLDA</a></h4>
+            <h4><a href="https://github.com/wmkouw/libTLDA/" target="_blank">LibTLDA</a></h4>
             <div class="card-desription">
               <p>Library of domain-adaptive classifiers and transfer learners.</p>
             </div>
@@ -511,26 +519,19 @@
       
       
       
-      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item natural-language-processing historical-research">
-        <div class="card">
-          
-          <div class="card-text">
-            <h4><a href="https://wmkouw.github.io/project/evidence/" >EviDENce</a></h4>
-            <div class="card-desription">
-              <p>Violent event detection in transcribed oral history interviews.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      
       
       
       
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item machine-learning deep-learning medical-imaging maxillo-facial-surgery">
         <div class="card">
           
+          <a href="https://github.com/NLeSC/yeap16-ai-3d-printing" title="" class="card-image hover-overlay"
+             target="_blank">
+            <img src="/img/boneCNN_defectdev.jpg" alt="" class="img-responsive">
+          </a>
+          
           <div class="card-text">
-            <h4><a href="https://wmkouw.github.io/project/mfs-bonecnn/" >boneCTCNN</a></h4>
+            <h4><a href="https://github.com/NLeSC/yeap16-ai-3d-printing" target="_blank">   bone-CNN</a></h4>
             <div class="card-desription">
               <p>Bone tissue recognition from CT-scans of maxillo-facial surgery patients.</p>
             </div>
@@ -541,13 +542,67 @@
       
       
       
-      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item cross-validation importance-weighting covariate-shift">
+      
+      
+      
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item machine-learning acquisition-variation mri representation-learning">
         <div class="card">
           
+          <a href="https://github.com/wmkouw/mrainet/" title="" class="card-image hover-overlay"
+             target="_blank">
+            <img src="/img/mrainet.png" alt="" class="img-responsive">
+          </a>
+          
           <div class="card-text">
-            <h4><a href="https://wmkouw.github.io/project/iwcv/" >IWcrossval</a></h4>
+            <h4><a href="https://github.com/wmkouw/mrainet/" target="_blank">MRAI-net</a></h4>
             <div class="card-desription">
-              <p>Importance-weighted cross-validation under covariate shift.</p>
+              <p>MR acquisition-invarant representation learning using Siamese neural networks.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+      
+      
+      
+      
+      
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item pattern-recognition maximum-contrastive-pessimistic-likelihood machine-learning domain-adaptation transfer-learning">
+        <div class="card">
+          
+          <a href="https://github.com/wmkouw/tcpr/" title="" class="card-image hover-overlay"
+             target="_blank">
+            <img src="/img/tcr_da.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="https://github.com/wmkouw/tcpr/" target="_blank">TCR-DA</a></h4>
+            <div class="card-desription">
+              <p>Target contrastive robust discriminant analysis, for safe domain adaptation.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+      
+      
+      
+      
+      
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item machine-learning transfer-learning domain-adaptation transfer-model">
+        <div class="card">
+          
+          <a href="https://github.com/wmkouw/flda/" title="" class="card-image hover-overlay"
+             target="_blank">
+            <img src="/img/flda_poisson.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="https://github.com/wmkouw/flda/" target="_blank">FLDA</a></h4>
+            <div class="card-desription">
+              <p>Feature-level domain adaptation, using dropout transfer models.</p>
             </div>
           </div>
         </div>
@@ -658,6 +713,11 @@
 
     <ul class="fa-ul" itemscope>
 
+      
+      <li>
+        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+        <span id="person-email" itemprop="email"><a href="mailto:wouter@di.ku.dk">wouter@di.ku.dk</a></span>
+      </li>
       
 
       

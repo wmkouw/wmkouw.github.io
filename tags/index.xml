@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 08 Sep 2018 13:01:29 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 18:04:49 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Acquisition-variation</title>
+      <link>https://wmkouw.github.io/tags/acquisition-variation/</link>
+      <pubDate>Thu, 01 Jun 2017 18:04:49 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/acquisition-variation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Covariate-shift</title>
@@ -85,18 +94,9 @@
     </item>
     
     <item>
-      <title>Historical-research</title>
-      <link>https://wmkouw.github.io/tags/historical-research/</link>
-      <pubDate>Mon, 09 Oct 2017 19:11:44 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/historical-research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Importance-weighting</title>
       <link>https://wmkouw.github.io/tags/importance-weighting/</link>
-      <pubDate>Tue, 01 Aug 2017 17:35:11 +0200</pubDate>
+      <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/importance-weighting/</guid>
       <description></description>
@@ -130,6 +130,15 @@
     </item>
     
     <item>
+      <title>Maximum-contrastive-pessimistic-likelihood</title>
+      <link>https://wmkouw.github.io/tags/maximum-contrastive-pessimistic-likelihood/</link>
+      <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/maximum-contrastive-pessimistic-likelihood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Medical-imaging</title>
       <link>https://wmkouw.github.io/tags/medical-imaging/</link>
       <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
@@ -139,11 +148,11 @@
     </item>
     
     <item>
-      <title>Natural-language-processing</title>
-      <link>https://wmkouw.github.io/tags/natural-language-processing/</link>
-      <pubDate>Mon, 09 Oct 2017 19:11:44 +0200</pubDate>
+      <title>Pattern-recognition</title>
+      <link>https://wmkouw.github.io/tags/pattern-recognition/</link>
+      <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/tags/natural-language-processing/</guid>
+      <guid>https://wmkouw.github.io/tags/pattern-recognition/</guid>
       <description></description>
     </item>
     
@@ -189,6 +198,15 @@
       <pubDate>Sat, 09 Jun 2018 19:06:57 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer-model</title>
+      <link>https://wmkouw.github.io/tags/transfer-model/</link>
+      <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/transfer-model/</guid>
       <description></description>
     </item>
     
