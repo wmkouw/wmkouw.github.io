@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Dec 2015 18:05:05 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Nov 2016 12:33:22 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/transfer-model/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feature-level domain adaptation</title>
+      <link>https://wmkouw.github.io/publication/flda/</link>
+      <pubDate>Tue, 01 Nov 2016 12:33:22 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/flda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature-level domain adaptation</title>
+      <link>https://wmkouw.github.io/talk/ictopen2016/</link>
+      <pubDate>Sun, 20 Mar 2016 10:44:29 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/talk/ictopen2016/</guid>
+      <description>ICT.OPEN is the Dutch national conference for computer science in general. Researchers from various universities and companies present their work along different tracks.
+I presented my first project, on feature-level domain adaptation, in the Natural Artificial Intelligence track.</description>
+    </item>
     
     <item>
       <title>FLDA</title>
@@ -19,6 +38,16 @@
       
       <guid>https://wmkouw.github.io/project/flda/</guid>
       <description>Suppose that data is collected according to a set of features, such as blood pressure in clinical research or word frequencies in natural language processing. Now, in the source domain, all these features are measured, while in the target domain, some values are missing or absent (i.e. words are not used in the target context). In this case, one could capture the relationship between the domains using a probabilistic model, an approach we have called feature-level domain adaptation.</description>
+    </item>
+    
+    <item>
+      <title>Feature absence regularization for domain-adaptive learning</title>
+      <link>https://wmkouw.github.io/talk/snn2015/</link>
+      <pubDate>Tue, 17 Mar 2015 11:00:30 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/talk/snn2015/</guid>
+      <description>SNN organized a one day symposium entitled Intelligent Machines, where an overview of recent developments was presented. The meeting aimed to establish a dialogue and to build connections between academic research, industry and public institutions in the Netherlands.
+I presented my preliminary work on incorporating transfer models in domain-adaptive classifiers.</description>
     </item>
     
   </channel>

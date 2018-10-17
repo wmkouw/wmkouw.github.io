@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>CT image segmentation of bone for medical additive manufacturing using a convolutional neural network</title>
+      <link>https://wmkouw.github.io/publication/bonectcnn/</link>
+      <pubDate>Wed, 17 Oct 2018 09:44:47 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/bonectcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning an MR acquisition-invariant representation using Siamese neural networks</title>
+      <link>https://wmkouw.github.io/publication/mrainet_small/</link>
+      <pubDate>Tue, 16 Oct 2018 10:39:02 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/mrainet_small/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Big data &amp; trust</title>
       <link>https://wmkouw.github.io/talk/nsfworkshop-bigdata/</link>
       <pubDate>Sat, 08 Sep 2018 13:18:06 +0200</pubDate>
@@ -77,6 +95,15 @@
     </item>
     
     <item>
+      <title>Reducing sampling variance in covariate shift using control variates</title>
+      <link>https://wmkouw.github.io/publication/covshift-ctrl/</link>
+      <pubDate>Sun, 01 Oct 2017 14:45:44 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/covshift-ctrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>   bone-CTCNN</title>
       <link>https://wmkouw.github.io/project/mfs-bonecnn/</link>
       <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
@@ -88,15 +115,6 @@
 
 &lt;p&gt;During the project, we developed a method for automatically detecting bone tissue in medical CT-scanner images. This method consisted of an artificial neural network, called a convolutional neural network (CNN), which looks at individual voxels in the image plus their surroundings. If a voxel shows an intensity value suitable for bone tissue and is surrounded voxels with similar intensity values (noisy signal voxels are often isolated), then the network classifies that voxel as bone. It performs its function for a whole CT-scan, which allows us to automatically reconstruct a 3D model of the skull. This 3D model is later used to design and 3D-print saw templates and other constructs to aid surgeons.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>MR Acquisition-invariant feature extraction using Siamese neural networks.</title>
-      <link>https://wmkouw.github.io/publication/mrainet/</link>
-      <pubDate>Fri, 08 Sep 2017 14:38:45 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/mrainet/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -168,20 +186,6 @@
 &lt;p&gt;In domain adaptation, one is always required to make assumptions on how the two domains relate to each other. However, depending on the domain dissimilarity, these assumptions can be quite strong. Furthermore, they are often hard to support, even with labeled target samples. Unfortunately, when an assumption is invalid, the classifier can adapt itself in ways that are detrimental to performance. Therefore, in practice, it can be hard to predict whether a domain-adaptive classifier will perform well for a given problem setting.&lt;/p&gt;
 
 &lt;p&gt;Our aim was to design a more robust method, one that makes no assumptions on the relationship between the domains, but is still guaranteed to never perform worse than the naive, non-adaptive classifier. We dubbed our resulting parameter estimator the &lt;em&gt;Target Contrastive Pessimistic Risk&lt;/em&gt; estimator, after the estimator it was inspired on: &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/7150421&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Maximum Contrastive Pessimistic Likelihood&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FLDA</title>
-      <link>https://wmkouw.github.io/project/flda/</link>
-      <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/project/flda/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Suppose that data is collected according to a set of features, such as blood pressure in clinical research or word frequencies in natural language processing. Now, in the source domain, all these features are measured, while in the target domain, some values are missing or absent (i.e. words are not used in the target context). In this case, one could capture the relationship between the domains using a probabilistic model, an approach we have called &lt;em&gt;feature-level domain adaptation&lt;/em&gt;. This &amp;ldquo;transfer model&amp;rdquo; describes the probability of observing a target sample, given that you have observed a particular source sample.&lt;/p&gt;
-
-&lt;p&gt;We designed a family of classifiers that perform domain adaptation by training with respect to a transfer model. Information dropout, as described in the example above, is one of the simplest and yet most widely applicable class of transfer models. We developed code for dropout transfer and applied it to settings with data missing-not-at-random, inactive regions of image space and word frequency reductions.&lt;/p&gt;
 </description>
     </item>
     

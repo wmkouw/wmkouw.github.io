@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Reducing sampling variance in covariate shift using control variates</title>
+      <link>https://wmkouw.github.io/publication/covshift-ctrl/</link>
+      <pubDate>Sun, 01 Oct 2017 14:45:44 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/covshift-ctrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Variance reduction techniques for importance-weighted cross-validation</title>
       <link>https://wmkouw.github.io/talk/ictopen2017/</link>
       <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>

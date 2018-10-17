@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Control variate</title>
+      <link>https://wmkouw.github.io/tags/control-variate/</link>
+      <pubDate>Sun, 01 Oct 2017 14:45:44 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/control-variate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Covariate-shift</title>
       <link>https://wmkouw.github.io/tags/covariate-shift/</link>
       <pubDate>Sat, 08 Sep 2018 13:01:29 +0200</pubDate>
@@ -99,6 +108,15 @@
       <pubDate>Sat, 08 Sep 2018 13:18:06 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/gdpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importance-weighted-cross-validation</title>
+      <link>https://wmkouw.github.io/tags/importance-weighted-cross-validation/</link>
+      <pubDate>Sun, 01 Oct 2017 14:45:44 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/importance-weighted-cross-validation/</guid>
       <description></description>
     </item>
     
@@ -204,18 +222,9 @@
     <item>
       <title>Transfer-model</title>
       <link>https://wmkouw.github.io/tags/transfer-model/</link>
-      <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/transfer-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transfer-models</title>
-      <link>https://wmkouw.github.io/tags/transfer-models/</link>
       <pubDate>Tue, 01 Nov 2016 12:33:22 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/tags/transfer-models/</guid>
+      <guid>https://wmkouw.github.io/tags/transfer-model/</guid>
       <description></description>
     </item>
     

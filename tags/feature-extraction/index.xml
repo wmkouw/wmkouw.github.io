@@ -22,14 +22,5 @@
 I presented my work on removing MRI-scanner based varation from images.</description>
     </item>
     
-    <item>
-      <title>MR Acquisition-invariant feature extraction using Siamese neural networks.</title>
-      <link>https://wmkouw.github.io/publication/mrainet/</link>
-      <pubDate>Fri, 08 Sep 2017 14:38:45 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/mrainet/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
