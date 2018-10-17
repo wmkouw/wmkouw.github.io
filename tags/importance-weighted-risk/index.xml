@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sampling-skewness on Researcher profile</title>
-    <link>https://wmkouw.github.io/tags/sampling-skewness/</link>
-    <description>Recent content in Sampling-skewness on Researcher profile</description>
+    <title>Importance-weighted-risk on Researcher profile</title>
+    <link>https://wmkouw.github.io/tags/importance-weighted-risk/</link>
+    <description>Recent content in Importance-weighted-risk on Researcher profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 08 Sep 2018 13:01:29 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 Aug 2018 11:18:18 +0200</lastBuildDate>
     
-	<atom:link href="https://wmkouw.github.io/tags/sampling-skewness/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wmkouw.github.io/tags/importance-weighted-risk/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Effects of sampling skewness of the importance-weighted risk estimator on model selection</title>
-      <link>https://wmkouw.github.io/publication/covshift-skew/</link>
-      <pubDate>Sat, 08 Sep 2018 13:01:29 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/covshift-skew/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Effects of sampling skewness in importance-weighted cross-validation</title>

@@ -36,6 +36,14 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/talk/icpr2018/</loc>
+      <lastmod>2018-08-20T11:18:18+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/project/libtlda/</loc>
       <lastmod>2018-06-09T19:06:57+02:00</lastmod>
     </url>
@@ -118,6 +126,14 @@
     
       <loc>https://wmkouw.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/talk/icpr2016/</loc>
+      <lastmod>2016-12-10T11:18:15+02:00</lastmod>
     </url>
     
   
@@ -316,6 +332,15 @@
     
       <loc>https://wmkouw.github.io/tags/importance-weighted-cross-validation/</loc>
       <lastmod>2017-10-01T14:45:44+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/importance-weighted-risk/</loc>
+      <lastmod>2018-08-20T11:18:18+02:00</lastmod>
       <priority>0</priority>
     </url>
     
