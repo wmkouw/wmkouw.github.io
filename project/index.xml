@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Researcher profile</title>
+    <title>Code on Researcher profile</title>
     <link>https://wmkouw.github.io/project/</link>
-    <description>Recent content in Projects on Researcher profile</description>
+    <description>Recent content in Code on Researcher profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -19,17 +19,17 @@
       
       <guid>https://wmkouw.github.io/project/libtlda/</guid>
       <description>LibTLDA is a library of classifiers designed for domain adaptation and transfer learning, available in Matlab and Python. It started out as the collection of classifiers that I implemented during my PhD, but is now being expanded with more methods and algorithms.
-Installation has been made easy, and there are demos to help you get started. Coders familiar with sci-kit will find it easy to employ.
-More information is available on its github page and its documentation page.</description>
+Installation has been made easy, and there are demos to help you get started. Coders familiar with sci-kit will find it easy to pick up.
+More information is available on its documentation page.</description>
     </item>
     
     <item>
-      <title>   bone-CNN</title>
+      <title>   bone-CTCNN</title>
       <link>https://wmkouw.github.io/project/mfs-bonecnn/</link>
       <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/mfs-bonecnn/</guid>
-      <description>My first project at the Netherlands eScience Center was with the winner of the Young eScientist Award 2016, dr. Maureen van Eijnatten. She worked at the 3D Innovation Lab under the department of Maxillo-Facial Surgery at the Vrije Universiteit medical center (VUmc), together with PhD student Jordi Minnema and medical engineer Niels Liberton.
+      <description>While I was at the Netherlands eScience Center, I worked on the Young eScientist Award 2016 project, together with its winner Maureen van Eijnatten and PhD student Jordi Minnema. They&amp;rsquo;re part of the 3D Innovation Lab under the department of Maxillo-Facial Surgery at the Vrije Universiteit medical center.
 During the project, we developed a method for automatically detecting bone tissue in medical CT-scanner images. This method consisted of an artificial neural network, called a convolutional neural network (CNN), which looks at individual voxels in the image plus their surroundings.</description>
     </item>
     
@@ -39,16 +39,16 @@ During the project, we developed a method for automatically detecting bone tissu
       <pubDate>Thu, 01 Jun 2017 18:04:49 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/mrainet/</guid>
-      <description></description>
+      <description>Suppose you have two sets of MR images, that were acquired using different scanners and/or different scanning protocols. One set of images is brighter and shows more tissue contrast than the other. One of them has annotations and the other does not. Tissue classifiers &amp;ndash; important to computer-aided diagnosis systems &amp;ndash; can be trained on the annotated data from one scanner, but when applied to data from the other scanner they will drastically under-perform.</description>
     </item>
     
     <item>
-      <title>TCR-DA</title>
+      <title>TCPR</title>
       <link>https://wmkouw.github.io/project/tcpr/</link>
       <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/tcpr/</guid>
-      <description></description>
+      <description>In domain adaptation, one is always required to make assumptions on how the two domains relate to each other. However, depending on the domain dissimilarity, these assumptions can be quite strong. Furthermore, they are often hard to support, even with labeled target samples. Unfortunately, when an assumption is invalid, the classifier can adapt itself in ways that are detrimental to performance. Therefore, in practice, it can be hard to predict whether a domain-adaptive classifier will perform well for a given problem setting.</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ During the project, we developed a method for automatically detecting bone tissu
       <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/flda/</guid>
-      <description></description>
+      <description>Suppose that data is collected according to a set of features, such as blood pressure in clinical research or word frequencies in natural language processing. Now, in the source domain, all these features are measured, while in the target domain, some values are missing or absent (i.e. words are not used in the target context). In this case, one could capture the relationship between the domains using a probabilistic model, an approach we have called feature-level domain adaptation.</description>
     </item>
     
   </channel>

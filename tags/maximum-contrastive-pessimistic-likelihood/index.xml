@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>TCR-DA</title>
+      <title>TCPR</title>
       <link>https://wmkouw.github.io/project/tcpr/</link>
       <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/tcpr/</guid>
-      <description></description>
+      <description>In domain adaptation, one is always required to make assumptions on how the two domains relate to each other. However, depending on the domain dissimilarity, these assumptions can be quite strong. Furthermore, they are often hard to support, even with labeled target samples. Unfortunately, when an assumption is invalid, the classifier can adapt itself in ways that are detrimental to performance. Therefore, in practice, it can be hard to predict whether a domain-adaptive classifier will perform well for a given problem setting.</description>
     </item>
     
   </channel>

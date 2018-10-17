@@ -76,6 +76,14 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/project/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
@@ -85,14 +93,6 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/project/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -237,6 +237,15 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/dropout/</loc>
+      <lastmod>2015-12-01T18:05:05+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/tags/estimator/</loc>
       <lastmod>2018-06-08T14:45:35+02:00</lastmod>
       <priority>0</priority>
@@ -311,15 +320,6 @@
     
       <loc>https://wmkouw.github.io/tags/medical-imaging/</loc>
       <lastmod>2017-09-09T19:12:54+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/pattern-recognition/</loc>
-      <lastmod>2016-05-01T18:05:01+02:00</lastmod>
       <priority>0</priority>
     </url>
     

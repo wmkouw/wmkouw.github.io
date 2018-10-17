@@ -19,8 +19,8 @@
       
       <guid>https://wmkouw.github.io/project/libtlda/</guid>
       <description>LibTLDA is a library of classifiers designed for domain adaptation and transfer learning, available in Matlab and Python. It started out as the collection of classifiers that I implemented during my PhD, but is now being expanded with more methods and algorithms.
-Installation has been made easy, and there are demos to help you get started. Coders familiar with sci-kit will find it easy to employ.
-More information is available on its github page and its documentation page.</description>
+Installation has been made easy, and there are demos to help you get started. Coders familiar with sci-kit will find it easy to pick up.
+More information is available on its documentation page.</description>
     </item>
     
     <item>
@@ -43,12 +43,12 @@ I presented my work on a robust estimator for linear discriminant analysis in do
     </item>
     
     <item>
-      <title>TCR-DA</title>
+      <title>TCPR</title>
       <link>https://wmkouw.github.io/project/tcpr/</link>
       <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/tcpr/</guid>
-      <description></description>
+      <description>In domain adaptation, one is always required to make assumptions on how the two domains relate to each other. However, depending on the domain dissimilarity, these assumptions can be quite strong. Furthermore, they are often hard to support, even with labeled target samples. Unfortunately, when an assumption is invalid, the classifier can adapt itself in ways that are detrimental to performance. Therefore, in practice, it can be hard to predict whether a domain-adaptive classifier will perform well for a given problem setting.</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ I presented my work on a robust estimator for linear discriminant analysis in do
       <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/flda/</guid>
-      <description></description>
+      <description>Suppose that data is collected according to a set of features, such as blood pressure in clinical research or word frequencies in natural language processing. Now, in the source domain, all these features are measured, while in the target domain, some values are missing or absent (i.e. words are not used in the target context). In this case, one could capture the relationship between the domains using a probabilistic model, an approach we have called feature-level domain adaptation.</description>
     </item>
     
   </channel>

@@ -86,6 +86,9 @@
 
   <meta property="twitter:card" content="summary_large_image">
   
+  <meta property="twitter:site" content="@https://twitter.com/wmkouw">
+  <meta property="twitter:creator" content="@https://twitter.com/wmkouw">
+  
   <meta property="og:site_name" content="Researcher profile">
   <meta property="og:url" content="https://wmkouw.github.io/project/mrainet/">
   <meta property="og:title" content="MRAI-net | Researcher profile">
@@ -252,11 +255,18 @@
     </div>
 
     
-    <a class="btn btn-primary btn-outline" href="https://github.com/wmkouw/mrainet/" target="_blank" rel="noopener">Go to Project Site</a>
+    <a class="btn btn-primary btn-outline" href="https://github.com/wmkouw/mrai-net" target="_blank" rel="noopener">Go to Project Site</a>
     
 
     <div class="article-style" itemprop="articleBody">
-      
+      <p></p>
+
+<p>Suppose you have two sets of MR images, that were acquired using different scanners and/or different scanning protocols. One set of images is brighter and shows more tissue contrast than the other. One of them has annotations and the other does not. Tissue classifiers &ndash; important to computer-aided diagnosis systems &ndash; can be trained on the annotated data from one scanner, but when applied to data from the other scanner they will drastically under-perform. It is exactly what makes computer systems so powerful, i.e. looking at minute variations in pixel intensities, that also makes them vulnerable to data set shifts.</p>
+
+<p>We developed a method called <em>MR Acquisition-Invariant Neural Network</em> that aims to learn a representation of patches such that these show minimal variation with respect to the MRI scanner without losing clinically-relevant tissue variation. Once trained, the network extracts acquisition-invariant feature vectors, which can be used for a variety of tasks in medical images later on.</p>
+
+<p>More information is available on its documentation <a href="https://mrai-net.readthedocs.io/en/latest/" target="_blank">page</a>.</p>
+
     </div>
 
     
@@ -264,11 +274,9 @@
 
 <div class="article-tags">
   
-  <a class="label label-default" href="https://wmkouw.github.io/tags/machine-learning/">machine-learning</a>
+  <a class="label label-default" href="https://wmkouw.github.io/tags/mri/">MRI</a>
   
   <a class="label label-default" href="https://wmkouw.github.io/tags/acquisition-variation/">acquisition-variation</a>
-  
-  <a class="label label-default" href="https://wmkouw.github.io/tags/mri/">MRI</a>
   
   <a class="label label-default" href="https://wmkouw.github.io/tags/representation-learning/">representation-learning</a>
   

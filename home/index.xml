@@ -27,8 +27,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/home/about/</guid>
-      <description>I am a postdoc at the Image Analysis, Computational Modeling &amp;amp; Geometry Section at the University of Copenhagen. My work focuses on domain-adaptive machine learning, but I am generally interested in statistical models, algorithms and designing systems that produce intelligent behaviour.
-My position is funded through the Niels Stensen Fellowship.</description>
+      <description>I am a post-doctoral researcher in machine learning at the University of Copenhagen, funded through the Niels Stensen Fellowship.
+My work focuses on statistical classifiers that generalize from one biased sample to another biased sample, known as domain-adaptive machine learning. Most of it consists of characterizing the behaviour of models and estimators, both theoretically and empirically. But I&amp;rsquo;ve worked on applying domain-adaptive classifiers to problems in medical imaging, computer vision and natural language processing as well.</description>
     </item>
     
     <item>

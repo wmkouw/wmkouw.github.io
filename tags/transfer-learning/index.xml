@@ -19,26 +19,8 @@
       
       <guid>https://wmkouw.github.io/project/libtlda/</guid>
       <description>LibTLDA is a library of classifiers designed for domain adaptation and transfer learning, available in Matlab and Python. It started out as the collection of classifiers that I implemented during my PhD, but is now being expanded with more methods and algorithms.
-Installation has been made easy, and there are demos to help you get started. Coders familiar with sci-kit will find it easy to employ.
-More information is available on its github page and its documentation page.</description>
-    </item>
-    
-    <item>
-      <title>TCR-DA</title>
-      <link>https://wmkouw.github.io/project/tcpr/</link>
-      <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/project/tcpr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FLDA</title>
-      <link>https://wmkouw.github.io/project/flda/</link>
-      <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/project/flda/</guid>
-      <description></description>
+Installation has been made easy, and there are demos to help you get started. Coders familiar with sci-kit will find it easy to pick up.
+More information is available on its documentation page.</description>
     </item>
     
   </channel>
