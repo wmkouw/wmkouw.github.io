@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publics on Researcher profile</title>
+    <link>https://wmkouw.github.io/public/</link>
+    <description>Recent content in Publics on Researcher profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 31 Oct 2018 20:10:05 +0100</lastBuildDate>
+    
+	<atom:link href="https://wmkouw.github.io/public/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seqrum</title>
+      <link>https://wmkouw.github.io/public/seqrum/</link>
+      <pubDate>Wed, 31 Oct 2018 20:10:05 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/public/seqrum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infprior</title>
+      <link>https://wmkouw.github.io/public/infprior/</link>
+      <pubDate>Wed, 31 Oct 2018 20:09:49 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/public/infprior/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

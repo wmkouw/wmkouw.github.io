@@ -7,28 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 16 Oct 2018 10:39:02 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 14:45:44 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Learning an MR acquisition-invariant representation using Siamese neural networks</title>
-      <link>https://wmkouw.github.io/publication/mrainet_small/</link>
-      <pubDate>Tue, 16 Oct 2018 10:39:02 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/mrainet_small/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Target contrastive pessimistic discriminant analysis</title>
-      <link>https://wmkouw.github.io/publication/tcpr/</link>
-      <pubDate>Fri, 08 Jun 2018 14:45:35 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/tcpr/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Reducing sampling variance in covariate shift using control variates</title>
@@ -36,6 +18,15 @@
       <pubDate>Sun, 01 Oct 2017 14:45:44 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/publication/covshift-ctrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MR acquisition-invariant representation learning</title>
+      <link>https://wmkouw.github.io/publication/mrainet/</link>
+      <pubDate>Fri, 08 Sep 2017 14:38:45 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/mrainet/</guid>
       <description></description>
     </item>
     
