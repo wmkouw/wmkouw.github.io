@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/publication/mrainet_small/</loc>
+      <lastmod>2018-12-01T10:39:02+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/public/seqrum/</loc>
       <lastmod>2018-10-31T20:10:05+01:00</lastmod>
     </url>
@@ -28,6 +36,14 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/publication/covshift-ctrlv/</loc>
+      <lastmod>2018-10-04T10:34:24+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/talk/nsfworkshop-bigdata/</loc>
       <lastmod>2018-09-08T13:18:06+02:00</lastmod>
     </url>
@@ -37,7 +53,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication/covshift-skew/</loc>
-      <lastmod>2018-09-08T13:01:29+02:00</lastmod>
+      <lastmod>2018-08-23T13:01:29+02:00</lastmod>
     </url>
     
   
@@ -52,16 +68,16 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/project/libtlda/</loc>
-      <lastmod>2018-06-09T19:06:57+02:00</lastmod>
+      <loc>https://wmkouw.github.io/publication/tcpr/</loc>
+      <lastmod>2018-07-16T08:45:35+02:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication/tcpr/</loc>
-      <lastmod>2018-06-08T14:45:35+02:00</lastmod>
+      <loc>https://wmkouw.github.io/project/libtlda/</loc>
+      <lastmod>2018-06-09T19:06:57+02:00</lastmod>
     </url>
     
   
@@ -76,24 +92,8 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication/covshift-ctrl/</loc>
-      <lastmod>2017-10-01T14:45:44+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/project/mfs-bonecnn/</loc>
       <lastmod>2017-09-09T19:12:54+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication/mrainet/</loc>
-      <lastmod>2017-09-08T14:38:45+02:00</lastmod>
     </url>
     
   
@@ -213,7 +213,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication_types/1/</loc>
-      <lastmod>2018-09-08T13:01:29+02:00</lastmod>
+      <lastmod>2018-08-23T13:01:29+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -231,7 +231,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication_types/3/</loc>
-      <lastmod>2017-10-01T14:45:44+02:00</lastmod>
+      <lastmod>2018-12-01T10:39:02+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -274,17 +274,8 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/control-variate/</loc>
-      <lastmod>2017-10-01T14:45:44+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/tags/covariate-shift/</loc>
-      <lastmod>2018-09-08T13:01:29+02:00</lastmod>
+      <lastmod>2018-08-23T13:01:29+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -293,7 +284,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/cross-validation/</loc>
-      <lastmod>2018-09-08T13:01:29+02:00</lastmod>
+      <lastmod>2018-08-23T13:01:29+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -320,7 +311,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
-      <lastmod>2018-06-09T19:06:57+02:00</lastmod>
+      <lastmod>2018-07-16T08:45:35+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -338,7 +329,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/estimator/</loc>
-      <lastmod>2018-06-08T14:45:35+02:00</lastmod>
+      <lastmod>2018-07-16T08:45:35+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -357,15 +348,6 @@
     
       <loc>https://wmkouw.github.io/tags/gdpr/</loc>
       <lastmod>2018-09-08T13:18:06+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/importance-weighted-cross-validation/</loc>
-      <lastmod>2017-10-01T14:45:44+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -437,7 +419,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication_types/</loc>
-      <lastmod>2018-09-08T13:01:29+02:00</lastmod>
+      <lastmod>2018-08-23T13:01:29+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -482,7 +464,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/robustness/</loc>
-      <lastmod>2018-06-08T14:45:35+02:00</lastmod>
+      <lastmod>2018-07-16T08:45:35+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -491,7 +473,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/sampling-skewness/</loc>
-      <lastmod>2018-09-08T13:01:29+02:00</lastmod>
+      <lastmod>2018-08-23T13:01:29+02:00</lastmod>
       <priority>0</priority>
     </url>
     

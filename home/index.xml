@@ -28,7 +28,7 @@
       
       <guid>https://wmkouw.github.io/home/about/</guid>
       <description>I am a post-doctoral researcher in machine learning at the University of Copenhagen, funded through the Niels Stensen Fellowship.
-I work on statistical classifiers that generalize from one biased sample to another biased sample, known as domain adaptation. In my core projects, I characterize the behaviour of models and estimators, both theoretically and empirically. Insights from these are used to tackle domain adaptation problems in medical imaging and natural language processing.</description>
+My main interest is in the limits of generalization in statistical models. In particular, I work on statistical classifiers that aim to generalize from one biased sample to another, also known as domain adaptation. My core projects focus on characterizing the behaviour of estimators, both theoretically and empirically. Any insights I gain are used to tackle problems in image, signal and natural language processing.</description>
     </item>
     
     <item>

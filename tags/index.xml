@@ -40,18 +40,9 @@
     </item>
     
     <item>
-      <title>Control variate</title>
-      <link>https://wmkouw.github.io/tags/control-variate/</link>
-      <pubDate>Sun, 01 Oct 2017 14:45:44 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/control-variate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Covariate-shift</title>
       <link>https://wmkouw.github.io/tags/covariate-shift/</link>
-      <pubDate>Sat, 08 Sep 2018 13:01:29 +0200</pubDate>
+      <pubDate>Thu, 23 Aug 2018 13:01:29 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/covariate-shift/</guid>
       <description></description>
@@ -60,7 +51,7 @@
     <item>
       <title>Cross-validation</title>
       <link>https://wmkouw.github.io/tags/cross-validation/</link>
-      <pubDate>Sat, 08 Sep 2018 13:01:29 +0200</pubDate>
+      <pubDate>Thu, 23 Aug 2018 13:01:29 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/cross-validation/</guid>
       <description></description>
@@ -87,7 +78,7 @@
     <item>
       <title>Domain-adaptation</title>
       <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
-      <pubDate>Sat, 09 Jun 2018 19:06:57 +0200</pubDate>
+      <pubDate>Mon, 16 Jul 2018 08:45:35 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/domain-adaptation/</guid>
       <description></description>
@@ -105,7 +96,7 @@
     <item>
       <title>Estimator</title>
       <link>https://wmkouw.github.io/tags/estimator/</link>
-      <pubDate>Fri, 08 Jun 2018 14:45:35 +0200</pubDate>
+      <pubDate>Mon, 16 Jul 2018 08:45:35 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/estimator/</guid>
       <description></description>
@@ -126,15 +117,6 @@
       <pubDate>Sat, 08 Sep 2018 13:18:06 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/gdpr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Importance-weighted-cross-validation</title>
-      <link>https://wmkouw.github.io/tags/importance-weighted-cross-validation/</link>
-      <pubDate>Sun, 01 Oct 2017 14:45:44 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/importance-weighted-cross-validation/</guid>
       <description></description>
     </item>
     
@@ -222,7 +204,7 @@
     <item>
       <title>Robustness</title>
       <link>https://wmkouw.github.io/tags/robustness/</link>
-      <pubDate>Fri, 08 Jun 2018 14:45:35 +0200</pubDate>
+      <pubDate>Mon, 16 Jul 2018 08:45:35 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/robustness/</guid>
       <description></description>
@@ -231,7 +213,7 @@
     <item>
       <title>Sampling-skewness</title>
       <link>https://wmkouw.github.io/tags/sampling-skewness/</link>
-      <pubDate>Sat, 08 Sep 2018 13:01:29 +0200</pubDate>
+      <pubDate>Thu, 23 Aug 2018 13:01:29 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/sampling-skewness/</guid>
       <description></description>

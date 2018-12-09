@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Learning an MR acquisition-invariant representation using Siamese neural networks</title>
+      <link>https://wmkouw.github.io/publication/mrainet_small/</link>
+      <pubDate>Sat, 01 Dec 2018 10:39:02 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/mrainet_small/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Seqrum</title>
       <link>https://wmkouw.github.io/public/seqrum/</link>
       <pubDate>Wed, 31 Oct 2018 20:10:05 +0100</pubDate>
@@ -38,6 +47,15 @@
     </item>
     
     <item>
+      <title>Reducing sampling variance in importance-weighted cross-validation under covariate shift</title>
+      <link>https://wmkouw.github.io/publication/covshift-ctrlv/</link>
+      <pubDate>Thu, 04 Oct 2018 10:34:24 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/covshift-ctrlv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Big data &amp; trust</title>
       <link>https://wmkouw.github.io/talk/nsfworkshop-bigdata/</link>
       <pubDate>Sat, 08 Sep 2018 13:18:06 +0200</pubDate>
@@ -60,7 +78,7 @@
     <item>
       <title>Effects of sampling skewness of the importance-weighted risk estimator on model selection</title>
       <link>https://wmkouw.github.io/publication/covshift-skew/</link>
-      <pubDate>Sat, 08 Sep 2018 13:01:29 +0200</pubDate>
+      <pubDate>Thu, 23 Aug 2018 13:01:29 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/publication/covshift-skew/</guid>
       <description></description>
@@ -74,6 +92,15 @@
       <guid>https://wmkouw.github.io/talk/icpr2018/</guid>
       <description>&lt;p&gt;I presented my paper on how the importance-weighted risk estimator&amp;rsquo;s sampling distribution is skewed for small sample sizes, and how this affects hyperparameter selection during importance-weighted cross-validation under covariate shift.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Target contrastive robust discriminant analysis</title>
+      <link>https://wmkouw.github.io/publication/tcpr/</link>
+      <pubDate>Mon, 16 Jul 2018 08:45:35 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/tcpr/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -93,15 +120,6 @@
     </item>
     
     <item>
-      <title>Target contrastive pessimistic discriminant analysis</title>
-      <link>https://wmkouw.github.io/publication/tcpr/</link>
-      <pubDate>Fri, 08 Jun 2018 14:45:35 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/tcpr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>MR acquisition-invariant representation learning</title>
       <link>https://wmkouw.github.io/talk/nvphbv2018/</link>
       <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
@@ -111,15 +129,6 @@
 
 &lt;p&gt;I presented my work on removing MRI-scanner based varation from images.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Reducing sampling variance in covariate shift using control variates</title>
-      <link>https://wmkouw.github.io/publication/covshift-ctrl/</link>
-      <pubDate>Sun, 01 Oct 2017 14:45:44 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/covshift-ctrl/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -134,15 +143,6 @@
 
 &lt;p&gt;During the project, we developed a method for automatically detecting bone tissue in medical CT-scanner images. This method consisted of an artificial neural network, called a convolutional neural network (CNN), which looks at individual voxels in the image plus their surroundings. If a voxel shows an intensity value suitable for bone tissue and is surrounded voxels with similar intensity values (noisy signal voxels are often isolated), then the network classifies that voxel as bone. It performs its function for a whole CT-scan, which allows us to automatically reconstruct a 3D model of the skull. This 3D model is later used to design and 3D-print saw templates and other constructs to aid surgeons.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>MR acquisition-invariant representation learning</title>
-      <link>https://wmkouw.github.io/publication/mrainet/</link>
-      <pubDate>Fri, 08 Sep 2017 14:38:45 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/mrainet/</guid>
-      <description></description>
     </item>
     
     <item>
