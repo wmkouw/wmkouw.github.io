@@ -9,74 +9,74 @@
   <meta name="generator" content="Hugo 0.48" />
   <meta name="author" content="Wouter M. Kouw">
 
-  
-  
-  
-  
-    
-  
+
+
+
+
+
+
   <meta name="description" content="Covariate shift classification problems can in principle be tackled by importance-weighting of training samples. However, the sampling variance of the risk estimator is often scaled up dramatically by employing such weighting. One of the consequences of this is that during cross-validation – when the importance-weighted risk is repeatedly estimated – suboptimal hyperparameter estimates are produced. We study the sampling variance of the importance-weighted risk estimator as a function of the width of the source distribution. We show that introducing a control variate can reduce its sampling variance, which leads to improved regularization parameter estimates when the training data is smaller in scale than the test data.">
 
-  
+
   <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/publication/covshift-ctrlv/">
 
-  
 
 
-  
 
-  
-  
-  
+
+
+
+
+
   <meta name="theme-color" content="#0095eb">
-  
 
-  
-  
-  
-  
-    
+
+
+
+
+
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
 
-    
-    
-    
-      
-    
-    
-      
-      
-        
+
+
+
+
+
+
+
+
+
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
-        
-      
-    
 
-    
 
-    
 
-  
 
-  
-  
+
+
+
+
+
+
+
+
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
-  
+
 
   <link rel="stylesheet" href="/styles.css">
-  
 
-  
-  
-  
 
-  
+
+
+
+
+
   <link rel="alternate" href="https://wmkouw.github.io/index.xml" type="application/rss+xml" title="Researcher profile">
   <link rel="feed" href="https://wmkouw.github.io/index.xml" type="application/rss+xml" title="Researcher profile">
-  
+
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
@@ -85,26 +85,26 @@
   <link rel="canonical" href="https://wmkouw.github.io/publication/covshift-ctrlv/">
 
   <meta property="twitter:card" content="summary_large_image">
-  
+
   <meta property="twitter:site" content="@https://twitter.com/wmkouw">
   <meta property="twitter:creator" content="@https://twitter.com/wmkouw">
-  
+
   <meta property="og:site_name" content="Researcher profile">
   <meta property="og:url" content="https://wmkouw.github.io/publication/covshift-ctrlv/">
   <meta property="og:title" content="On reducing sampling variance in covariate shift using control variates | Researcher profile">
   <meta property="og:description" content="Covariate shift classification problems can in principle be tackled by importance-weighting of training samples. However, the sampling variance of the risk estimator is often scaled up dramatically by employing such weighting. One of the consequences of this is that during cross-validation – when the importance-weighted risk is repeatedly estimated – suboptimal hyperparameter estimates are produced. We study the sampling variance of the importance-weighted risk estimator as a function of the width of the source distribution. We show that introducing a control variate can reduce its sampling variance, which leads to improved regularization parameter estimates when the training data is smaller in scale than the test data.">
   <meta property="og:locale" content="en-us">
-  
+
   <meta property="article:published_time" content="2017-10-04T10:34:24&#43;01:00">
-  
+
   <meta property="article:modified_time" content="2017-10-04T10:34:24&#43;01:00">
-  
 
-  
 
-  
 
-  <title>On reducing sampling variance in covariate shift using control variates | Researcher profile</title>
+
+
+
+  <title>Reducing variance in importance-weighted cross-validation under covariate shift | Researcher profile</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -112,9 +112,9 @@
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
   <div class="container">
 
-    
+
     <div class="navbar-header">
-      
+
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
               data-target=".navbar-collapse" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
@@ -122,115 +122,115 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      
+
       <a class="navbar-brand" href="/"><img src="/img/neuralcircuit_bk.png" alt="Researcher profile"></a>
     </div>
 
-    
+
     <div class="collapse navbar-collapse">
 
-      
-      
+
+
       <ul class="nav navbar-nav navbar-left">
-        
 
-        
 
-        
-        
-        
-          
-        
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a href="/#about">
-            
+
             <span>Home</span>
-            
+
           </a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-        
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a href="/publication/">
-            
+
             <span>Papers</span>
-            
+
           </a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-        
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a href="/project/">
-            
+
             <span>Code</span>
-            
+
           </a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-        
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a href="/talk/">
-            
+
             <span>Talks</span>
-            
+
           </a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-        
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a href="/#contact">
-            
+
             <span>Contact</span>
-            
+
           </a>
         </li>
 
-        
-        
-      
 
-      
+
+
+
+
       </ul>
 
     </div>
@@ -239,49 +239,49 @@
 
 <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-  
+
 
 
   <div class="article-container">
-    <h1 itemprop="name">On reducing sampling variance in covariate shift using control variates</h1>
+    <h1 itemprop="name">Reducing variance in importance-weighted cross-validation under covariate shift</h1>
     <span class="pub-authors" itemprop="author">
-      
+
       W.M. Kouw, J.H. Krijthe, M. Loog
-      
+
     </span>
     <span class="pull-right">
-      
+
 
     </span>
 
-    
 
-    
+
+
     <h3>Abstract</h3>
     <p class="pub-abstract" itemprop="text">Covariate shift classification problems can in principle be tackled by importance-weighting of training samples. However, the sampling variance of the risk estimator is often scaled up dramatically by employing such weighting. One of the consequences of this is that during cross-validation – when the importance-weighted risk is repeatedly estimated – suboptimal hyperparameter estimates are produced. We study the sampling variance of the importance-weighted risk estimator as a function of the width of the source distribution. We show that introducing a control variate can reduce its sampling variance, which leads to improved regularization parameter estimates when the training data is smaller in scale than the test data.</p>
-    
 
-    
+
+
     <div class="row">
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
           <div class="col-xs-12 col-sm-9">
-            
+
             <a href="https://wmkouw.github.io/publication/#3">
               Manuscript
             </a>
-            
+
           </div>
         </div>
       </div>
       <div class="col-sm-1"></div>
     </div>
     <div class="visible-xs space-below"></div>
-    
 
-    
+
+
     <div class="row">
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
@@ -293,7 +293,7 @@
       <div class="col-sm-1"></div>
     </div>
     <div class="visible-xs space-below"></div>
-    
+
 
     <div class="row">
       <div class="col-sm-1"></div>
@@ -316,7 +316,7 @@
           <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
           <div class="col-xs-12 col-sm-9">
 
-            
+
 
 
 
@@ -355,7 +355,7 @@
 
     <div class="article-style"></div>
 
-    
+
 
 
 
@@ -369,11 +369,11 @@
 <footer class="site-footer">
   <div class="container">
 
-    
+
 
     <p class="powered-by">
 
-      &copy; 2018 &middot; 
+      &copy; 2018 &middot;
 
       Powered by the
       <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -415,10 +415,10 @@
   </div>
 </div>
 
-    
 
-    
-    
+
+
+
     <script type="text/x-mathjax-config">
       MathJax.Hub.Config({
         CommonHTML: { linebreaks: { automatic: true } },
@@ -427,51 +427,51 @@
         messageStyle: 'none'
       });
     </script>
-    
 
-    
-    
-    
+
+
+
+
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
 
-      
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
-        
-      
 
-      
-      
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+
+
+
+
       <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
-      
-    
+
+
 
     <script src="/js/hugo-academic.js"></script>
-    
 
-    
-    
 
-    
-    
-    
 
-    
-    
+
+
+
+
+
+
+
+
     <script>hljs.initHighlightingOnLoad();</script>
-    
 
-    
 
-    
-    
 
-    
-    
+
+
+
+
+
+
 
   </body>
 </html>
