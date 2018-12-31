@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="Covariate shift classification problems can in principle be tackled by importance-weighting of training samples. However, the sampling variance of the risk estimator is often scaled up dramatically by employing such weighting. One of the consequences of this is that during cross-validation – when the importance-weighted risk is repeatedly estimated – suboptimal hyperparameter estimates are produced. We study the sampling variance of the importance-weighted risk estimator as a function of the width of the source distribution. We show that introducing a control variate can reduce its sampling variance, which leads to improved regularization parameter estimates when the training data is smaller in scale than the test data.">
+  <meta name="description" content="In machine learning, if the training data is an unbiased sample of an underlying distribution, then the learned classification function will make accurate predictions for new samples. However, if the training data is _not_ an unbiased sample, then there will be differences between how the training data is distributed and how the test data is distributed. Standard classifiers cannot cope with changes in data distributions between training and test phases, and will not perform well. _Domain_ _adaptation_ and _transfer_ _learning_ are sub-fields within machine learning that are concerned with accounting for these types of changes. Here, I present an introduction to these fields, guided by the question: when and how can a classifier generalize from a source to a target domain? I will start with a brief introduction into risk minimization, and how transfer learning and domain adaptation expand upon this framework. Following that, I discuss three common simple data set shifts, namely prior, covariate and concept shift. For more complex domain shifts, there are a wide variety of approaches. These are categorized into: importance-weighting, subspace mapping, domain-invariant projections, feature augmentation, minimax estimators and robust algorithms. A number of points will arise, which I will discuss in the last section. I conclude with the remark that many open questions will have to be addressed before transfer learners and domain-adaptive classifiers become practical.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/publication/covshift-ctrlv/">
+  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/publication/tr_introda/">
 
   
 
@@ -82,7 +82,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://wmkouw.github.io/publication/covshift-ctrlv/">
+  <link rel="canonical" href="https://wmkouw.github.io/publication/tr_introda/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -90,21 +90,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/wmkouw">
   
   <meta property="og:site_name" content="Researcher profile">
-  <meta property="og:url" content="https://wmkouw.github.io/publication/covshift-ctrlv/">
-  <meta property="og:title" content="Reducing variance in importance-weighted cross-validation under covariate shift | Researcher profile">
-  <meta property="og:description" content="Covariate shift classification problems can in principle be tackled by importance-weighting of training samples. However, the sampling variance of the risk estimator is often scaled up dramatically by employing such weighting. One of the consequences of this is that during cross-validation – when the importance-weighted risk is repeatedly estimated – suboptimal hyperparameter estimates are produced. We study the sampling variance of the importance-weighted risk estimator as a function of the width of the source distribution. We show that introducing a control variate can reduce its sampling variance, which leads to improved regularization parameter estimates when the training data is smaller in scale than the test data.">
+  <meta property="og:url" content="https://wmkouw.github.io/publication/tr_introda/">
+  <meta property="og:title" content="An introduction to domain adaptation and transfer learning | Researcher profile">
+  <meta property="og:description" content="In machine learning, if the training data is an unbiased sample of an underlying distribution, then the learned classification function will make accurate predictions for new samples. However, if the training data is _not_ an unbiased sample, then there will be differences between how the training data is distributed and how the test data is distributed. Standard classifiers cannot cope with changes in data distributions between training and test phases, and will not perform well. _Domain_ _adaptation_ and _transfer_ _learning_ are sub-fields within machine learning that are concerned with accounting for these types of changes. Here, I present an introduction to these fields, guided by the question: when and how can a classifier generalize from a source to a target domain? I will start with a brief introduction into risk minimization, and how transfer learning and domain adaptation expand upon this framework. Following that, I discuss three common simple data set shifts, namely prior, covariate and concept shift. For more complex domain shifts, there are a wide variety of approaches. These are categorized into: importance-weighting, subspace mapping, domain-invariant projections, feature augmentation, minimax estimators and robust algorithms. A number of points will arise, which I will discuss in the last section. I conclude with the remark that many open questions will have to be addressed before transfer learners and domain-adaptive classifiers become practical.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-12-29T06:34:24&#43;01:00">
+  <meta property="article:published_time" content="2018-12-31T14:46:06&#43;01:00">
   
-  <meta property="article:modified_time" content="2018-12-29T06:34:24&#43;01:00">
-  
-
+  <meta property="article:modified_time" content="2018-12-31T14:46:06&#43;01:00">
   
 
   
 
-  <title>Reducing variance in importance-weighted cross-validation under covariate shift | Researcher profile</title>
+  
+
+  <title>An introduction to domain adaptation and transfer learning | Researcher profile</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -243,10 +243,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Reducing variance in importance-weighted cross-validation under covariate shift</h1>
+    <h1 itemprop="name">An introduction to domain adaptation and transfer learning</h1>
     <span class="pub-authors" itemprop="author">
       
-      W.M. Kouw, J.H. Krijthe, M. Loog
+      W.M. Kouw
       
     </span>
     <span class="pull-right">
@@ -258,7 +258,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Covariate shift classification problems can in principle be tackled by importance-weighting of training samples. However, the sampling variance of the risk estimator is often scaled up dramatically by employing such weighting. One of the consequences of this is that during cross-validation – when the importance-weighted risk is repeatedly estimated – suboptimal hyperparameter estimates are produced. We study the sampling variance of the importance-weighted risk estimator as a function of the width of the source distribution. We show that introducing a control variate can reduce its sampling variance, which leads to improved regularization parameter estimates when the training data is smaller in scale than the test data.</p>
+    <p class="pub-abstract" itemprop="text">In machine learning, if the training data is an unbiased sample of an underlying distribution, then the learned classification function will make accurate predictions for new samples. However, if the training data is <em>not</em> an unbiased sample, then there will be differences between how the training data is distributed and how the test data is distributed. Standard classifiers cannot cope with changes in data distributions between training and test phases, and will not perform well. <em>Domain</em> <em>adaptation</em> and <em>transfer</em> <em>learning</em> are sub-fields within machine learning that are concerned with accounting for these types of changes. Here, I present an introduction to these fields, guided by the question: when and how can a classifier generalize from a source to a target domain? I will start with a brief introduction into risk minimization, and how transfer learning and domain adaptation expand upon this framework. Following that, I discuss three common simple data set shifts, namely prior, covariate and concept shift. For more complex domain shifts, there are a wide variety of approaches. These are categorized into: importance-weighting, subspace mapping, domain-invariant projections, feature augmentation, minimax estimators and robust algorithms. A number of points will arise, which I will discuss in the last section. I conclude with the remark that many open questions will have to be addressed before transfer learners and domain-adaptive classifiers become practical.</p>
     
 
     
@@ -269,8 +269,8 @@
           <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
           <div class="col-xs-12 col-sm-9">
             
-            <a href="https://wmkouw.github.io/publication/#3">
-              Manuscript
+            <a href="https://wmkouw.github.io/publication/#4">
+              Report
             </a>
             
           </div>
@@ -287,7 +287,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">ArXiv, 2018</div>
+          <div class="col-xs-12 col-sm-9">Technical Report, 2018</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -320,17 +320,9 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/1710.06514" target="_blank" rel="noopener">
-  Preprint
-</a>
 
-
-
-
-
-
-<a class="btn btn-primary btn-outline" href="https://github.com/wmkouw/covshift-ctrlvar" target="_blank" rel="noopener">
-  Code
+<a class="btn btn-primary btn-outline" href="https://pure.tudelft.nl/portal/files/48009162/kouw_techreport18a.pdf" target="_blank" rel="noopener">
+  PDF
 </a>
 
 
@@ -341,6 +333,14 @@
 
 
 
+
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://github.com/wmkouw/wmkouw.github.io/tree/master/bibtex/kouw2018introduction.bib" target="_blank" rel="noopener">
+  Bib
+</a>
 
 
 
