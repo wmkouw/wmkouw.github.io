@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/post/domain_adaptation/</loc>
+      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/publication/review/</loc>
       <lastmod>2019-01-16T16:13:59+02:00</lastmod>
     </url>
@@ -38,22 +46,6 @@
     
       <loc>https://wmkouw.github.io/publication/bonectcnn/</loc>
       <lastmod>2018-12-01T09:44:47+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/public/seqrum/</loc>
-      <lastmod>2018-10-31T20:10:05+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/public/infprior/</loc>
-      <lastmod>2018-10-31T20:09:49+01:00</lastmod>
     </url>
     
   
@@ -264,6 +256,68 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/data/</loc>
+      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/gdpr/</loc>
+      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/mri/</loc>
+      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication_types/</loc>
+      <lastmod>2019-01-16T00:00:02+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/</loc>
+      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/tags/acquisition-variation/</loc>
       <lastmod>2017-06-01T18:04:49+02:00</lastmod>
       <priority>0</priority>
@@ -275,14 +329,6 @@
     
       <loc>https://wmkouw.github.io/tags/additive-manufacturing/</loc>
       <lastmod>2018-12-01T09:44:47+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -317,15 +363,6 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/data/</loc>
-      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/tags/deep-learning/</loc>
       <lastmod>2018-12-01T09:44:47+02:00</lastmod>
       <priority>0</priority>
@@ -336,7 +373,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
-      <lastmod>2019-01-16T16:13:59+02:00</lastmod>
+      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -371,15 +408,6 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/gdpr/</loc>
-      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/tags/importance-weighted-risk/</loc>
       <lastmod>2018-08-20T11:18:18+02:00</lastmod>
       <priority>0</priority>
@@ -398,17 +426,8 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/mri/</loc>
-      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
-      <lastmod>2019-01-16T16:13:59+02:00</lastmod>
+      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -443,17 +462,8 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication_types/</loc>
-      <lastmod>2019-01-16T00:00:02+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/public/</loc>
-      <lastmod>2018-10-31T20:10:05+01:00</lastmod>
+      <loc>https://wmkouw.github.io/tags/pattern-recognition/</loc>
+      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -463,15 +473,6 @@
     
       <loc>https://wmkouw.github.io/tags/representation-learning/</loc>
       <lastmod>2018-05-09T19:38:51+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -508,15 +509,6 @@
     
       <loc>https://wmkouw.github.io/tags/sampling-skewness/</loc>
       <lastmod>2018-08-23T13:01:29+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/</loc>
-      <lastmod>2017-06-01T18:04:49+02:00</lastmod>
       <priority>0</priority>
     </url>
     

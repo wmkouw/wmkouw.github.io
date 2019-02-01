@@ -12,5 +12,14 @@
 	<atom:link href="https://wmkouw.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>The problem of domain adaptation in machine learning</title>
+      <link>https://wmkouw.github.io/post/domain_adaptation/</link>
+      <pubDate>Fri, 01 Feb 2019 12:19:17 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/post/domain_adaptation/</guid>
+      <description>Intelligent systems are deployed for a wide array of tasks, such as diagnosing patients, recognizing faces or translating texts [1]. They are called &amp;ldquo;intelligent&amp;rdquo; because these machines are not specifically programmed to perform the task. Instead, they learn to do their job from a &amp;ldquo;training set&amp;rdquo; of examples. For example, the system might be told to diagnose heart disease in patients based on biometrics such as age and cholesterol level. These biometrics vary across people and there is no fixed rule to form a diagnosis (e.</description>
+    </item>
+    
   </channel>
 </rss>

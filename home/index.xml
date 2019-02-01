@@ -27,8 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/home/about/</guid>
-      <description>I am a post-doctoral researcher in machine learning at the Datalogisk Institut of the University of Copenhagen, funded by the Niels Stensen Fellowship.
-My main interests are machine intelligence and computational neuroscience. Machine learning algorithms are common tools these days, but there are still many open questions on their capacity to generalize. I work on classifiers that aim to generalize from one biased sample to another, also known as domain adaptation.</description>
+      <description>I am a post-doctoral researcher at the Bayesian Intelligent Autonomous Systems lab in the Signal Processing Systems group of the TU Eindhoven. My main interests are machine intelligence and computational neuroscience. My work has looked at intelligent systems that aim to learn from a source domain and generalize to a target domain, known as domain-adaptive classifiers. In my core projects, I focus on designing and analyzing estimators. Insights I gain are applied to problems in image, signal and natural language processing.</description>
     </item>
     
     <item>
@@ -91,7 +90,7 @@ My main interests are machine intelligence and computational neuroscience. Machi
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/home/posts/</guid>
-      <description>Coming soon.</description>
+      <description></description>
     </item>
     
     <item>
