@@ -31,6 +31,24 @@
     </item>
     
     <item>
+      <title>An introduction to domain adaptation and transfer learning</title>
+      <link>https://wmkouw.github.io/publication/tr_introda/</link>
+      <pubDate>Mon, 31 Dec 2018 14:46:06 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/tr_introda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target contrastive pessimistic discriminant analysis</title>
+      <link>https://wmkouw.github.io/publication/tcpr/</link>
+      <pubDate>Thu, 21 Jun 2018 08:45:35 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/tcpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LibTLDA</title>
       <link>https://wmkouw.github.io/project/libtlda/</link>
       <pubDate>Sat, 09 Jun 2018 19:06:57 +0200</pubDate>
@@ -39,15 +57,6 @@
       <description>LibTLDA is a library of classifiers designed for domain adaptation and transfer learning, available in Matlab and Python. It started out as the collection of classifiers that I implemented during my PhD, but is now being expanded with more methods and algorithms.
 Installation has been made easy, and there are demos to help you get started. Coders familiar with sci-kit will find it easy to pick up.
 More information is available on its documentation page.</description>
-    </item>
-    
-    <item>
-      <title>Target contrastive pessimistic discriminant analysis</title>
-      <link>https://wmkouw.github.io/publication/tcpr/</link>
-      <pubDate>Sat, 09 Jun 2018 08:45:35 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/tcpr/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -61,7 +70,7 @@ I presented my work on a robust estimator for linear discriminant analysis in do
     </item>
     
     <item>
-      <title>TCPR</title>
+      <title>TCR</title>
       <link>https://wmkouw.github.io/project/tcpr/</link>
       <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
       

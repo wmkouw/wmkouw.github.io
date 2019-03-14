@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/project/forneylab/</loc>
+      <lastmod>2019-03-07T10:46:36+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication/infoprior/</loc>
+      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/post/domain_adaptation/</loc>
       <lastmod>2019-02-01T12:19:17+01:00</lastmod>
     </url>
@@ -37,7 +53,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication/covshift-ctrlv/</loc>
-      <lastmod>2018-12-29T06:34:24+01:00</lastmod>
+      <lastmod>2018-12-24T06:34:24+01:00</lastmod>
     </url>
     
   
@@ -76,16 +92,16 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/project/libtlda/</loc>
-      <lastmod>2018-06-09T19:06:57+02:00</lastmod>
+      <loc>https://wmkouw.github.io/publication/tcpr/</loc>
+      <lastmod>2018-06-21T08:45:35+02:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication/tcpr/</loc>
-      <lastmod>2018-06-09T08:45:35+02:00</lastmod>
+      <loc>https://wmkouw.github.io/project/libtlda/</loc>
+      <lastmod>2018-06-09T19:06:57+02:00</lastmod>
     </url>
     
   
@@ -221,7 +237,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication_types/1/</loc>
-      <lastmod>2019-01-16T00:00:02+02:00</lastmod>
+      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -292,7 +308,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication_types/</loc>
-      <lastmod>2019-01-16T00:00:02+02:00</lastmod>
+      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -318,6 +334,15 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/acquisition-variance/</loc>
+      <lastmod>2019-01-16T00:00:02+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/tags/acquisition-variation/</loc>
       <lastmod>2017-06-01T18:04:49+02:00</lastmod>
       <priority>0</priority>
@@ -327,8 +352,8 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/additive-manufacturing/</loc>
-      <lastmod>2018-12-01T09:44:47+02:00</lastmod>
+      <loc>https://wmkouw.github.io/tags/active-inference/</loc>
+      <lastmod>2019-03-07T10:46:36+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -336,7 +361,7 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/computed-tomography/</loc>
+      <loc>https://wmkouw.github.io/tags/additive-manufacturing/</loc>
       <lastmod>2018-12-01T09:44:47+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -355,7 +380,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/cross-validation/</loc>
-      <lastmod>2018-08-23T13:01:29+02:00</lastmod>
+      <lastmod>2018-12-24T06:34:24+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -364,7 +389,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/deep-learning/</loc>
-      <lastmod>2018-12-01T09:44:47+02:00</lastmod>
+      <lastmod>2019-01-16T00:00:02+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -390,8 +415,8 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/estimator/</loc>
-      <lastmod>2018-06-09T08:45:35+02:00</lastmod>
+      <loc>https://wmkouw.github.io/tags/factor-graphs/</loc>
+      <lastmod>2019-03-07T10:46:36+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -401,6 +426,15 @@
     
       <loc>https://wmkouw.github.io/tags/feature-extraction/</loc>
       <lastmod>2018-05-09T19:38:51+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/image-segmentation/</loc>
+      <lastmod>2019-01-16T00:00:02+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -454,7 +488,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/medical-imaging/</loc>
-      <lastmod>2018-12-01T09:44:47+02:00</lastmod>
+      <lastmod>2019-01-16T00:00:02+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -490,7 +524,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/robustness/</loc>
-      <lastmod>2018-06-09T08:45:35+02:00</lastmod>
+      <lastmod>2018-06-21T08:45:35+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -544,7 +578,16 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/variance-reduction/</loc>
-      <lastmod>2017-03-09T19:16:44+02:00</lastmod>
+      <lastmod>2018-12-24T06:34:24+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/variational-message-passing/</loc>
+      <lastmod>2019-03-07T10:46:36+01:00</lastmod>
       <priority>0</priority>
     </url>
     

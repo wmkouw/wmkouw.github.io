@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>acquisition-variance</title>
+      <link>https://wmkouw.github.io/tags/acquisition-variance/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:02 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/acquisition-variance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>acquisition-variation</title>
       <link>https://wmkouw.github.io/tags/acquisition-variation/</link>
       <pubDate>Thu, 01 Jun 2017 18:04:49 +0200</pubDate>
@@ -49,20 +58,20 @@
     </item>
     
     <item>
+      <title>active-inference</title>
+      <link>https://wmkouw.github.io/tags/active-inference/</link>
+      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/active-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>additive manufacturing</title>
       <link>https://wmkouw.github.io/tags/additive-manufacturing/</link>
       <pubDate>Sat, 01 Dec 2018 09:44:47 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/additive-manufacturing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>computed-tomography</title>
-      <link>https://wmkouw.github.io/tags/computed-tomography/</link>
-      <pubDate>Sat, 01 Dec 2018 09:44:47 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/computed-tomography/</guid>
       <description></description>
     </item>
     
@@ -78,7 +87,7 @@
     <item>
       <title>cross-validation</title>
       <link>https://wmkouw.github.io/tags/cross-validation/</link>
-      <pubDate>Thu, 23 Aug 2018 13:01:29 +0200</pubDate>
+      <pubDate>Mon, 24 Dec 2018 06:34:24 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/tags/cross-validation/</guid>
       <description></description>
@@ -87,7 +96,7 @@
     <item>
       <title>deep-learning</title>
       <link>https://wmkouw.github.io/tags/deep-learning/</link>
-      <pubDate>Sat, 01 Dec 2018 09:44:47 +0200</pubDate>
+      <pubDate>Wed, 16 Jan 2019 00:00:02 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/deep-learning/</guid>
       <description></description>
@@ -112,11 +121,11 @@
     </item>
     
     <item>
-      <title>estimator</title>
-      <link>https://wmkouw.github.io/tags/estimator/</link>
-      <pubDate>Sat, 09 Jun 2018 08:45:35 +0200</pubDate>
+      <title>factor-graphs</title>
+      <link>https://wmkouw.github.io/tags/factor-graphs/</link>
+      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
       
-      <guid>https://wmkouw.github.io/tags/estimator/</guid>
+      <guid>https://wmkouw.github.io/tags/factor-graphs/</guid>
       <description></description>
     </item>
     
@@ -126,6 +135,15 @@
       <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/feature-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image-segmentation</title>
+      <link>https://wmkouw.github.io/tags/image-segmentation/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:02 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/image-segmentation/</guid>
       <description></description>
     </item>
     
@@ -177,7 +195,7 @@
     <item>
       <title>medical-imaging</title>
       <link>https://wmkouw.github.io/tags/medical-imaging/</link>
-      <pubDate>Sat, 01 Dec 2018 09:44:47 +0200</pubDate>
+      <pubDate>Wed, 16 Jan 2019 00:00:02 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/medical-imaging/</guid>
       <description></description>
@@ -213,7 +231,7 @@
     <item>
       <title>robustness</title>
       <link>https://wmkouw.github.io/tags/robustness/</link>
-      <pubDate>Sat, 09 Jun 2018 08:45:35 +0200</pubDate>
+      <pubDate>Thu, 21 Jun 2018 08:45:35 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/robustness/</guid>
       <description></description>
@@ -267,9 +285,18 @@
     <item>
       <title>variance-reduction</title>
       <link>https://wmkouw.github.io/tags/variance-reduction/</link>
-      <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>
+      <pubDate>Mon, 24 Dec 2018 06:34:24 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/tags/variance-reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational-message-passing</title>
+      <link>https://wmkouw.github.io/tags/variational-message-passing/</link>
+      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/variational-message-passing/</guid>
       <description></description>
     </item>
     

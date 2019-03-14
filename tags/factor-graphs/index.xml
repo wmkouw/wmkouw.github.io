@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>factor-graphs on Researcher profile</title>
+    <link>https://wmkouw.github.io/tags/factor-graphs/</link>
+    <description>Recent content in factor-graphs on Researcher profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 07 Mar 2019 10:46:36 +0100</lastBuildDate>
+    
+	<atom:link href="https://wmkouw.github.io/tags/factor-graphs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ForneyLab</title>
+      <link>https://wmkouw.github.io/project/forneylab/</link>
+      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/forneylab/</guid>
+      <description>ForneyLab.jl is a Julia package for automatic generation of (Bayesian) inference algorithms. Given a probabilistic model, ForneyLab generates efficient Julia code for message-passing based inference [1]. It uses the model structure to generate an algorithm that consists of a sequence of local computations on a Forney-style factor graph (FFG) representation of the model [2].
+Marco Cox, Thijs van de Laar en Bert de Vries are the ones who constructed ForneyLab.</description>
+    </item>
+    
+  </channel>
+</rss>
