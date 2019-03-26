@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 01 Jun 2017 18:04:49 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2019 14:13:32 +0100</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/acquisition-variation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A cross-center smoothness prior for variational Bayesian brain tissue segmentation</title>
+      <link>https://wmkouw.github.io/publication/infoprior/</link>
+      <pubDate>Wed, 06 Mar 2019 14:13:32 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/infoprior/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MRAI-net</title>

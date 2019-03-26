@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>image-segmentation on Researcher profile</title>
-    <link>https://wmkouw.github.io/tags/image-segmentation/</link>
-    <description>Recent content in image-segmentation on Researcher profile</description>
+    <title>variational-Bayes on Researcher profile</title>
+    <link>https://wmkouw.github.io/tags/variational-bayes/</link>
+    <description>Recent content in variational-Bayes on Researcher profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 06 Mar 2019 14:13:32 +0100</lastBuildDate>
     
-	<atom:link href="https://wmkouw.github.io/tags/image-segmentation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wmkouw.github.io/tags/variational-bayes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Wed, 06 Mar 2019 14:13:32 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/publication/infoprior/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning an MR acquisition-invariant representation using Siamese neural networks</title>
-      <link>https://wmkouw.github.io/publication/mrainet_small/</link>
-      <pubDate>Wed, 16 Jan 2019 00:00:02 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/mrainet_small/</guid>
       <description></description>
     </item>
     

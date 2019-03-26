@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -15,10 +13,12 @@
   
   
   
-  <meta name="description" content="Post-doctoral Researcher">
+    
+  
+  <meta name="description" content="I think that with our generative models and our recognition distributions we are building (and testing) assumptions of parameterization and independence. In neuroscience, receptive fields in the retina of the eye have been shown to encode incoming visual signals such that they are as decorrelated as possible. That means it becomes easy to represent signals with a small number of neuron activations in higher layers (https://en.wikipedia.org/wiki/Neural_coding#Sparse_coding). This setup is most efficient when incoming signals are already independent of each other (e.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/tags/image-segmentation/">
+  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/post/assumptions_vi/">
 
   
 
@@ -74,15 +74,15 @@
   
 
   
-  <link rel="alternate" href="https://wmkouw.github.io/tags/image-segmentation/index.xml" type="application/rss+xml" title="Researcher profile">
-  <link rel="feed" href="https://wmkouw.github.io/tags/image-segmentation/index.xml" type="application/rss+xml" title="Researcher profile">
+  <link rel="alternate" href="https://wmkouw.github.io/index.xml" type="application/rss+xml" title="Researcher profile">
+  <link rel="feed" href="https://wmkouw.github.io/index.xml" type="application/rss+xml" title="Researcher profile">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://wmkouw.github.io/tags/image-segmentation/">
+  <link rel="canonical" href="https://wmkouw.github.io/post/assumptions_vi/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -90,19 +90,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/wmkouw">
   
   <meta property="og:site_name" content="Researcher profile">
-  <meta property="og:url" content="https://wmkouw.github.io/tags/image-segmentation/">
-  <meta property="og:title" content="image-segmentation | Researcher profile">
-  <meta property="og:description" content="Post-doctoral Researcher">
+  <meta property="og:url" content="https://wmkouw.github.io/post/assumptions_vi/">
+  <meta property="og:title" content="Assumptions of Variational Bayes | Researcher profile">
+  <meta property="og:description" content="I think that with our generative models and our recognition distributions we are building (and testing) assumptions of parameterization and independence. In neuroscience, receptive fields in the retina of the eye have been shown to encode incoming visual signals such that they are as decorrelated as possible. That means it becomes easy to represent signals with a small number of neuron activations in higher layers (https://en.wikipedia.org/wiki/Neural_coding#Sparse_coding). This setup is most efficient when incoming signals are already independent of each other (e.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2019-03-06T14:13:32&#43;01:00">
+  <meta property="article:published_time" content="2019-03-25T11:09:51&#43;01:00">
+  
+  <meta property="article:modified_time" content="2019-03-25T11:09:51&#43;01:00">
   
 
   
 
   
 
-  <title>image-segmentation | Researcher profile</title>
+  <title>Assumptions of Variational Bayes | Researcher profile</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -255,40 +257,86 @@
 </nav>
 
 
-
-
-
-<div class="article-container">
-
-  <h1>image-segmentation</h1>
+<article class="article" itemscope itemtype="http://schema.org/Article">
 
   
 
+
+  <div class="article-container">
+    <h1 itemprop="name">Assumptions of Variational Bayes</h1>
+
+    
+
+<div class="article-metadata">
+
   
   
-  <div>
-    <h2><a href="https://wmkouw.github.io/publication/infoprior/">A cross-center smoothness prior for variational Bayesian brain tissue segmentation</a></h2>
-    <div class="article-style">
-      
-      Suppose one is faced with the challenge of tissue segmentation in MR images, without annotators at their center to provide labeled training data. One option is to go to another medical center for a trained classifier. Sadly, tissue classifiers do not …
-      
-    </div>
-  </div>
   
   <div>
-    <h2><a href="https://wmkouw.github.io/publication/mrainet_small/">Learning an MR acquisition-invariant representation using Siamese neural networks</a></h2>
-    <div class="article-style">
-      
-      Generalization of voxelwise classifiers is hampered by differences between MRI-scanners, e.g. different acquisition protocols and field strengths. To address this limitation, we propose a Siamese neural network (MRAI-NET) that extracts …
-      
-    </div>
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Wouter M. Kouw</span>
+    </span>
+    
   </div>
   
 
+  <span class="article-date">
+    
+    <meta content="2019-03-25 11:09:51 &#43;0100 CET" itemprop="datePublished">
+    <time datetime="2019-03-25 11:09:51 &#43;0100 CET" itemprop="dateModified">
+      Mar 25, 2019
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Wouter M. Kouw">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
   
 
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
 
 </div>
+
+
+    <div class="article-style" itemprop="articleBody">
+      <p>I think that with our generative models and our recognition distributions we are building (and testing) assumptions of parameterization and independence. In neuroscience, receptive fields in the retina of the eye have been shown to encode incoming visual signals such that they are as decorrelated as possible. That means it becomes easy to represent signals with a small number of neuron activations in higher layers (<a href="https://en.wikipedia.org/wiki/Neural_coding#Sparse_coding" target="_blank">https://en.wikipedia.org/wiki/Neural_coding#Sparse_coding</a>). This setup is most efficient when incoming signals are already independent of each other (e.g. the visual signal from a tree in</p>
+
+    </div>
+
+    
+
+
+
+
+
+    
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
 <footer class="site-footer">
   <div class="container">
 
@@ -398,6 +446,4 @@
 
   </body>
 </html>
-
-
 

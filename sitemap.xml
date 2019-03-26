@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/post/assumptions_vi/</loc>
+      <lastmod>2019-03-25T11:09:51+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/project/forneylab/</loc>
       <lastmod>2019-03-07T10:46:36+01:00</lastmod>
     </url>
@@ -344,7 +352,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/acquisition-variation/</loc>
-      <lastmod>2017-06-01T18:04:49+02:00</lastmod>
+      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -434,7 +442,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/image-segmentation/</loc>
-      <lastmod>2019-01-16T00:00:02+02:00</lastmod>
+      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -488,7 +496,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/medical-imaging/</loc>
-      <lastmod>2019-01-16T00:00:02+02:00</lastmod>
+      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -579,6 +587,15 @@
     
       <loc>https://wmkouw.github.io/tags/variance-reduction/</loc>
       <lastmod>2018-12-24T06:34:24+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/variational-bayes/</loc>
+      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
       <priority>0</priority>
     </url>
     
