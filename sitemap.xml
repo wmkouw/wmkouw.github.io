@@ -4,8 +4,16 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/post/assumptions_vi/</loc>
-      <lastmod>2019-03-25T11:09:51+01:00</lastmod>
+      <loc>https://wmkouw.github.io/talk/isbi2019/</loc>
+      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication/review/</loc>
+      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
     </url>
     
   
@@ -30,14 +38,6 @@
     
       <loc>https://wmkouw.github.io/post/domain_adaptation/</loc>
       <lastmod>2019-02-01T12:19:17+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication/review/</loc>
-      <lastmod>2019-01-16T16:13:59+02:00</lastmod>
     </url>
     
   
@@ -263,7 +263,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication_types/3/</loc>
-      <lastmod>2019-01-16T16:13:59+02:00</lastmod>
+      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -343,7 +343,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/acquisition-variance/</loc>
-      <lastmod>2019-01-16T00:00:02+02:00</lastmod>
+      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -379,7 +379,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/covariate-shift/</loc>
-      <lastmod>2019-01-16T16:13:59+02:00</lastmod>
+      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -397,7 +397,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/deep-learning/</loc>
-      <lastmod>2019-01-16T00:00:02+02:00</lastmod>
+      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -406,7 +406,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
-      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
+      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -442,7 +442,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/image-segmentation/</loc>
-      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
+      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -469,7 +469,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
-      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
+      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -496,7 +496,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/medical-imaging/</loc>
-      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
+      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -541,7 +541,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/sample-selection-bias/</loc>
-      <lastmod>2019-01-16T16:13:59+02:00</lastmod>
+      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -559,7 +559,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/transfer-learning/</loc>
-      <lastmod>2019-01-16T16:13:59+02:00</lastmod>
+      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
       <priority>0</priority>
     </url>
     

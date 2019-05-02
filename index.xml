@@ -11,13 +11,22 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Assumptions of Variational Bayes</title>
-      <link>https://wmkouw.github.io/post/assumptions_vi/</link>
-      <pubDate>Mon, 25 Mar 2019 11:09:51 +0100</pubDate>
+      <title>MR Acquisition-invariant representation learning</title>
+      <link>https://wmkouw.github.io/talk/isbi2019/</link>
+      <pubDate>Fri, 12 Apr 2019 09:11:43 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/post/assumptions_vi/</guid>
-      <description>&lt;p&gt;I think that with our generative models and our recognition distributions we are building (and testing) assumptions of parameterization and independence. In neuroscience, receptive fields in the retina of the eye have been shown to encode incoming visual signals such that they are as decorrelated as possible. That means it becomes easy to represent signals with a small number of neuron activations in higher layers (&lt;a href=&#34;https://en.wikipedia.org/wiki/Neural_coding#Sparse_coding&#34; target=&#34;_blank&#34;&gt;https://en.wikipedia.org/wiki/Neural_coding#Sparse_coding&lt;/a&gt;). This setup is most efficient when incoming signals are already independent of each other (e.g. the visual signal from a tree in&lt;/p&gt;
+      <guid>https://wmkouw.github.io/talk/isbi2019/</guid>
+      <description>&lt;p&gt;This conference poster refers back to the project on accounting for variation in medical images due to MR acquisition protocol. Acquisition variation is caused by different vendors, mechanical calibrations and environmental effects at different medical centers, and hamper generalization of medical image processing techniques that employ machine learning.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A review of single-source unsupervised domain adaptation</title>
+      <link>https://wmkouw.github.io/publication/review/</link>
+      <pubDate>Mon, 01 Apr 2019 16:13:59 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/review/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -65,15 +74,6 @@
 
 &lt;p&gt;These types of learning settings are called &lt;em&gt;domain&lt;/em&gt; &lt;em&gt;adaptation&lt;/em&gt; problems &lt;a href=&#34;https://pure.tudelft.nl/portal/files/48009162/kouw_techreport18a.pdf&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt;, where one hospital is the target &amp;ldquo;domain&amp;rdquo; and the other hospital is an additional source of information, called the &amp;ldquo;source domain&amp;rdquo;. The goal of a &amp;ldquo;domain-adaptive&amp;rdquo; classifier is to learn from the source domain and &amp;ldquo;adapt&amp;rdquo; to perform well in the target domain. As machine learning faces more complicated challenges, data shifts become more abundant and the need for adaptive models rises.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A review of single-source unsupervised domain adaptation</title>
-      <link>https://wmkouw.github.io/publication/review/</link>
-      <pubDate>Wed, 16 Jan 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/review/</guid>
-      <description></description>
     </item>
     
     <item>
