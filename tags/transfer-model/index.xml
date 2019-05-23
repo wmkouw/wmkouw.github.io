@@ -32,12 +32,12 @@ I presented my first project, on feature-level domain adaptation, in the Natural
     </item>
     
     <item>
-      <title>FLDA</title>
+      <title>flda</title>
       <link>https://wmkouw.github.io/project/flda/</link>
       <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/flda/</guid>
-      <description>Suppose that data is collected according to a set of features, such as blood pressure in clinical research or word frequencies in natural language processing. Now, in the source domain, all these features are measured, while in the target domain, some values are missing or absent (i.e. words are not used in the target context). In this case, one could capture the relationship between the domains using a probabilistic model, an approach we have called feature-level domain adaptation.</description>
+      <description>Feature-level domain adaptation using dropout transfer models.</description>
     </item>
     
     <item>

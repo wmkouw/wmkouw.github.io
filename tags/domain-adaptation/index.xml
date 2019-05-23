@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Apr 2019 16:13:59 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 12:19:17 +0100</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/domain-adaptation/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>A review of single-source unsupervised domain adaptation</title>
-      <link>https://wmkouw.github.io/publication/review/</link>
-      <pubDate>Mon, 01 Apr 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/review/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>The problem of domain adaptation in machine learning</title>
@@ -28,6 +19,15 @@
       
       <guid>https://wmkouw.github.io/post/domain_adaptation/</guid>
       <description>Intelligent systems are deployed for a wide array of tasks, such as diagnosing patients, recognizing faces or translating texts [1]. They are called &amp;ldquo;intelligent&amp;rdquo; because these machines are not specifically programmed to perform the task. Instead, they learn to do their job from a &amp;ldquo;training set&amp;rdquo; of examples. For example, the system might be told to diagnose heart disease in patients based on biometrics such as age and cholesterol level. These biometrics vary across people and there is no fixed rule to form a diagnosis (e.</description>
+    </item>
+    
+    <item>
+      <title>A review of single-source unsupervised domain adaptation</title>
+      <link>https://wmkouw.github.io/publication/review/</link>
+      <pubDate>Tue, 01 Jan 2019 16:13:59 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/review/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -49,14 +49,12 @@
     </item>
     
     <item>
-      <title>LibTLDA</title>
+      <title>libtlda</title>
       <link>https://wmkouw.github.io/project/libtlda/</link>
       <pubDate>Sat, 09 Jun 2018 19:06:57 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/libtlda/</guid>
-      <description>LibTLDA is a library of classifiers designed for domain adaptation and transfer learning, available in Matlab and Python. It started out as the collection of classifiers that I implemented during my PhD, but is now being expanded with more methods and algorithms.
-Installation has been made easy, and there are demos to help you get started. Coders familiar with sci-kit will find it easy to pick up.
-More information is available on its documentation page.</description>
+      <description>Library of domain-adaptive classifiers and transfer learners.</description>
     </item>
     
     <item>
@@ -70,12 +68,12 @@ I presented my work on a robust estimator for linear discriminant analysis in do
     </item>
     
     <item>
-      <title>TCR</title>
+      <title>tcpr</title>
       <link>https://wmkouw.github.io/project/tcpr/</link>
       <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/tcpr/</guid>
-      <description>In domain adaptation, one is always required to make assumptions on how the two domains relate to each other. However, depending on the domain dissimilarity, these assumptions can be quite strong. Furthermore, they are often hard to support, even with labeled target samples. Unfortunately, when an assumption is invalid, the classifier can adapt itself in ways that are detrimental to performance. Therefore, in practice, it can be hard to predict whether a domain-adaptive classifier will perform well for a given problem setting.</description>
+      <description>Target contrastive robust risk, for safe domain adaptation.</description>
     </item>
     
     <item>
@@ -89,12 +87,12 @@ I presented my first project, on feature-level domain adaptation, in the Natural
     </item>
     
     <item>
-      <title>FLDA</title>
+      <title>flda</title>
       <link>https://wmkouw.github.io/project/flda/</link>
       <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/flda/</guid>
-      <description>Suppose that data is collected according to a set of features, such as blood pressure in clinical research or word frequencies in natural language processing. Now, in the source domain, all these features are measured, while in the target domain, some values are missing or absent (i.e. words are not used in the target context). In this case, one could capture the relationship between the domains using a probabilistic model, an approach we have called feature-level domain adaptation.</description>
+      <description>Feature-level domain adaptation using dropout transfer models.</description>
     </item>
     
     <item>

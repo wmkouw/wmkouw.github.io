@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
@@ -12,8 +11,72 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication/review/</loc>
-      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
+      <loc>https://wmkouw.github.io/</loc>
+      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/</loc>
+      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/acquisition-variance/</loc>
+      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/deep-learning/</loc>
+      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/image-segmentation/</loc>
+      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/medical-imaging/</loc>
+      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/active-inference/</loc>
+      <lastmod>2019-03-07T10:46:36+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/factor-graphs/</loc>
+      <lastmod>2019-03-07T10:46:36+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -28,8 +91,70 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/variational-message-passing/</loc>
+      <lastmod>2019-03-07T10:46:36+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication_types/1/</loc>
+      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/publication/infoprior/</loc>
       <lastmod>2019-03-06T14:13:32+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication_types/</loc>
+      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/acquisition-variation/</loc>
+      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/variational-bayes/</loc>
+      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/project/info-prior/</loc>
+      <lastmod>2019-03-01T22:28:22+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/cross-center/</loc>
+      <lastmod>2019-03-01T22:28:22+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -44,8 +169,88 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
+      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
+      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/pattern-recognition/</loc>
+      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/publication/mrainet_small/</loc>
       <lastmod>2019-01-16T00:00:02+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication_types/3/</loc>
+      <lastmod>2019-01-01T16:13:59+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication/review/</loc>
+      <lastmod>2019-01-01T16:13:59+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/covariate-shift/</loc>
+      <lastmod>2019-01-01T16:13:59+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/sample-selection-bias/</loc>
+      <lastmod>2019-01-01T16:13:59+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/transfer-learning/</loc>
+      <lastmod>2019-01-01T16:13:59+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication_types/4/</loc>
+      <lastmod>2018-12-31T14:46:06+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -61,7 +266,34 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication/covshift-ctrlv/</loc>
-      <lastmod>2018-12-24T06:34:24+01:00</lastmod>
+      <lastmod>2018-12-16T06:34:24+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/control-variate/</loc>
+      <lastmod>2018-12-16T06:34:24+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/cross-validation/</loc>
+      <lastmod>2018-12-16T06:34:24+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication_types/2/</loc>
+      <lastmod>2018-12-01T09:44:47+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -76,8 +308,44 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/additive-manufacturing/</loc>
+      <lastmod>2018-12-01T09:44:47+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/talk/nsfworkshop-bigdata/</loc>
       <lastmod>2018-09-08T13:18:06+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/data/</loc>
+      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/gdpr/</loc>
+      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/trust/</loc>
+      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -92,6 +360,15 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/sampling-skewness/</loc>
+      <lastmod>2018-08-23T13:01:29+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/talk/icpr2018/</loc>
       <lastmod>2018-08-20T11:18:18+02:00</lastmod>
     </url>
@@ -100,8 +377,26 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/importance-weighted-risk/</loc>
+      <lastmod>2018-08-20T11:18:18+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/publication/tcpr/</loc>
       <lastmod>2018-06-21T08:45:35+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/robustness/</loc>
+      <lastmod>2018-06-21T08:45:35+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -118,6 +413,42 @@
     
       <loc>https://wmkouw.github.io/talk/nvphbv2018/</loc>
       <lastmod>2018-05-09T19:38:51+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/mri/</loc>
+      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/feature-extraction/</loc>
+      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/representation-learning/</loc>
+      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/maxillo-facial-surgery/</loc>
+      <lastmod>2017-09-09T19:12:54+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -142,6 +473,24 @@
     
       <loc>https://wmkouw.github.io/talk/ictopen2017/</loc>
       <lastmod>2017-03-09T19:16:44+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/importance-weighting/</loc>
+      <lastmod>2017-03-09T19:16:44+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/variance-reduction/</loc>
+      <lastmod>2017-03-09T19:16:44+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -204,8 +553,35 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/transfer-model/</loc>
+      <lastmod>2016-11-01T12:33:22+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/talk/nvphbv2016/</loc>
       <lastmod>2016-05-27T19:18:33+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/robust-estimator/</loc>
+      <lastmod>2016-05-27T19:18:33+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/maximum-contrastive-pessimistic-likelihood/</loc>
+      <lastmod>2016-05-01T18:05:01+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -228,6 +604,15 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/dropout/</loc>
+      <lastmod>2015-12-01T18:05:05+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/project/flda/</loc>
       <lastmod>2015-12-01T18:05:05+02:00</lastmod>
     </url>
@@ -244,367 +629,7 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication_types/1/</loc>
-      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication_types/2/</loc>
-      <lastmod>2018-12-01T09:44:47+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication_types/3/</loc>
-      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication_types/4/</loc>
-      <lastmod>2018-12-31T14:46:06+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/data/</loc>
-      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/gdpr/</loc>
-      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/mri/</loc>
-      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication_types/</loc>
-      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/</loc>
-      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/acquisition-variance/</loc>
-      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/acquisition-variation/</loc>
-      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/active-inference/</loc>
-      <lastmod>2019-03-07T10:46:36+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/additive-manufacturing/</loc>
-      <lastmod>2018-12-01T09:44:47+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/covariate-shift/</loc>
-      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/cross-validation/</loc>
-      <lastmod>2018-12-24T06:34:24+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/deep-learning/</loc>
-      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
-      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/dropout/</loc>
-      <lastmod>2015-12-01T18:05:05+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/factor-graphs/</loc>
-      <lastmod>2019-03-07T10:46:36+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/feature-extraction/</loc>
-      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/image-segmentation/</loc>
-      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/importance-weighted-risk/</loc>
-      <lastmod>2018-08-20T11:18:18+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/importance-weighting/</loc>
-      <lastmod>2017-03-09T19:16:44+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
-      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/maxillo-facial-surgery/</loc>
-      <lastmod>2017-09-09T19:12:54+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/maximum-contrastive-pessimistic-likelihood/</loc>
-      <lastmod>2016-05-01T18:05:01+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/medical-imaging/</loc>
-      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/pattern-recognition/</loc>
-      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/representation-learning/</loc>
-      <lastmod>2018-05-09T19:38:51+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/robust-estimator/</loc>
-      <lastmod>2016-05-27T19:18:33+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/robustness/</loc>
-      <lastmod>2018-06-21T08:45:35+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/sample-selection-bias/</loc>
-      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/sampling-skewness/</loc>
-      <lastmod>2018-08-23T13:01:29+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/transfer-learning/</loc>
-      <lastmod>2019-04-01T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/transfer-model/</loc>
-      <lastmod>2016-11-01T12:33:22+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/trust/</loc>
-      <lastmod>2018-09-08T13:18:06+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/variance-reduction/</loc>
-      <lastmod>2018-12-24T06:34:24+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/variational-bayes/</loc>
-      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/variational-message-passing/</loc>
-      <lastmod>2019-03-07T10:46:36+01:00</lastmod>
       <priority>0</priority>
     </url>
     

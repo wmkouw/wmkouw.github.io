@@ -7,10 +7,181 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 08 Sep 2018 13:18:06 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2019 09:11:43 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>acquisition-variance</title>
+      <link>https://wmkouw.github.io/tags/acquisition-variance/</link>
+      <pubDate>Fri, 12 Apr 2019 09:11:43 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/acquisition-variance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://wmkouw.github.io/tags/deep-learning/</link>
+      <pubDate>Fri, 12 Apr 2019 09:11:43 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image-segmentation</title>
+      <link>https://wmkouw.github.io/tags/image-segmentation/</link>
+      <pubDate>Fri, 12 Apr 2019 09:11:43 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/image-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medical-imaging</title>
+      <link>https://wmkouw.github.io/tags/medical-imaging/</link>
+      <pubDate>Fri, 12 Apr 2019 09:11:43 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/medical-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>active-inference</title>
+      <link>https://wmkouw.github.io/tags/active-inference/</link>
+      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/active-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>factor-graphs</title>
+      <link>https://wmkouw.github.io/tags/factor-graphs/</link>
+      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/factor-graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational-message-passing</title>
+      <link>https://wmkouw.github.io/tags/variational-message-passing/</link>
+      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/variational-message-passing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>acquisition-variation</title>
+      <link>https://wmkouw.github.io/tags/acquisition-variation/</link>
+      <pubDate>Wed, 06 Mar 2019 14:13:32 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/acquisition-variation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational-Bayes</title>
+      <link>https://wmkouw.github.io/tags/variational-bayes/</link>
+      <pubDate>Wed, 06 Mar 2019 14:13:32 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/variational-bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-center</title>
+      <link>https://wmkouw.github.io/tags/cross-center/</link>
+      <pubDate>Fri, 01 Mar 2019 22:28:22 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/cross-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>domain-adaptation</title>
+      <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
+      <pubDate>Fri, 01 Feb 2019 12:19:17 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://wmkouw.github.io/tags/machine-learning/</link>
+      <pubDate>Fri, 01 Feb 2019 12:19:17 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pattern-recognition</title>
+      <link>https://wmkouw.github.io/tags/pattern-recognition/</link>
+      <pubDate>Fri, 01 Feb 2019 12:19:17 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/pattern-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covariate-shift</title>
+      <link>https://wmkouw.github.io/tags/covariate-shift/</link>
+      <pubDate>Tue, 01 Jan 2019 16:13:59 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/covariate-shift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sample-selection-bias</title>
+      <link>https://wmkouw.github.io/tags/sample-selection-bias/</link>
+      <pubDate>Tue, 01 Jan 2019 16:13:59 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/sample-selection-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer-learning</title>
+      <link>https://wmkouw.github.io/tags/transfer-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 16:13:59 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>control-variate</title>
+      <link>https://wmkouw.github.io/tags/control-variate/</link>
+      <pubDate>Sun, 16 Dec 2018 06:34:24 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/control-variate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-validation</title>
+      <link>https://wmkouw.github.io/tags/cross-validation/</link>
+      <pubDate>Sun, 16 Dec 2018 06:34:24 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/cross-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>additive manufacturing</title>
+      <link>https://wmkouw.github.io/tags/additive-manufacturing/</link>
+      <pubDate>Sat, 01 Dec 2018 09:44:47 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/additive-manufacturing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data</title>
@@ -31,218 +202,11 @@
     </item>
     
     <item>
-      <title>MRI</title>
-      <link>https://wmkouw.github.io/tags/mri/</link>
-      <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
+      <title>trust</title>
+      <link>https://wmkouw.github.io/tags/trust/</link>
+      <pubDate>Sat, 08 Sep 2018 13:18:06 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/tags/mri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>acquisition-variance</title>
-      <link>https://wmkouw.github.io/tags/acquisition-variance/</link>
-      <pubDate>Fri, 12 Apr 2019 09:11:43 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/acquisition-variance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>acquisition-variation</title>
-      <link>https://wmkouw.github.io/tags/acquisition-variation/</link>
-      <pubDate>Wed, 06 Mar 2019 14:13:32 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/acquisition-variation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>active-inference</title>
-      <link>https://wmkouw.github.io/tags/active-inference/</link>
-      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/active-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>additive manufacturing</title>
-      <link>https://wmkouw.github.io/tags/additive-manufacturing/</link>
-      <pubDate>Sat, 01 Dec 2018 09:44:47 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/additive-manufacturing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>covariate-shift</title>
-      <link>https://wmkouw.github.io/tags/covariate-shift/</link>
-      <pubDate>Mon, 01 Apr 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/covariate-shift/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cross-validation</title>
-      <link>https://wmkouw.github.io/tags/cross-validation/</link>
-      <pubDate>Mon, 24 Dec 2018 06:34:24 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/cross-validation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>https://wmkouw.github.io/tags/deep-learning/</link>
-      <pubDate>Fri, 12 Apr 2019 09:11:43 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>domain-adaptation</title>
-      <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
-      <pubDate>Mon, 01 Apr 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/domain-adaptation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dropout</title>
-      <link>https://wmkouw.github.io/tags/dropout/</link>
-      <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/dropout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>factor-graphs</title>
-      <link>https://wmkouw.github.io/tags/factor-graphs/</link>
-      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/factor-graphs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>feature-extraction</title>
-      <link>https://wmkouw.github.io/tags/feature-extraction/</link>
-      <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/feature-extraction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>image-segmentation</title>
-      <link>https://wmkouw.github.io/tags/image-segmentation/</link>
-      <pubDate>Fri, 12 Apr 2019 09:11:43 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/image-segmentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>importance-weighted-risk</title>
-      <link>https://wmkouw.github.io/tags/importance-weighted-risk/</link>
-      <pubDate>Mon, 20 Aug 2018 11:18:18 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/importance-weighted-risk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>importance-weighting</title>
-      <link>https://wmkouw.github.io/tags/importance-weighting/</link>
-      <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/importance-weighting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine-learning</title>
-      <link>https://wmkouw.github.io/tags/machine-learning/</link>
-      <pubDate>Mon, 01 Apr 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>maxillo-facial-surgery</title>
-      <link>https://wmkouw.github.io/tags/maxillo-facial-surgery/</link>
-      <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/maxillo-facial-surgery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>maximum-contrastive-pessimistic-likelihood</title>
-      <link>https://wmkouw.github.io/tags/maximum-contrastive-pessimistic-likelihood/</link>
-      <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/maximum-contrastive-pessimistic-likelihood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>medical-imaging</title>
-      <link>https://wmkouw.github.io/tags/medical-imaging/</link>
-      <pubDate>Fri, 12 Apr 2019 09:11:43 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/medical-imaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pattern-recognition</title>
-      <link>https://wmkouw.github.io/tags/pattern-recognition/</link>
-      <pubDate>Fri, 01 Feb 2019 12:19:17 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/pattern-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>representation-learning</title>
-      <link>https://wmkouw.github.io/tags/representation-learning/</link>
-      <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/representation-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robust-estimator</title>
-      <link>https://wmkouw.github.io/tags/robust-estimator/</link>
-      <pubDate>Fri, 27 May 2016 19:18:33 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/robust-estimator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robustness</title>
-      <link>https://wmkouw.github.io/tags/robustness/</link>
-      <pubDate>Thu, 21 Jun 2018 08:45:35 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/robustness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sample-selection-bias</title>
-      <link>https://wmkouw.github.io/tags/sample-selection-bias/</link>
-      <pubDate>Mon, 01 Apr 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/sample-selection-bias/</guid>
+      <guid>https://wmkouw.github.io/tags/trust/</guid>
       <description></description>
     </item>
     
@@ -256,11 +220,74 @@
     </item>
     
     <item>
-      <title>transfer-learning</title>
-      <link>https://wmkouw.github.io/tags/transfer-learning/</link>
-      <pubDate>Mon, 01 Apr 2019 16:13:59 +0200</pubDate>
+      <title>importance-weighted-risk</title>
+      <link>https://wmkouw.github.io/tags/importance-weighted-risk/</link>
+      <pubDate>Mon, 20 Aug 2018 11:18:18 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/tags/transfer-learning/</guid>
+      <guid>https://wmkouw.github.io/tags/importance-weighted-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robustness</title>
+      <link>https://wmkouw.github.io/tags/robustness/</link>
+      <pubDate>Thu, 21 Jun 2018 08:45:35 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/robustness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRI</title>
+      <link>https://wmkouw.github.io/tags/mri/</link>
+      <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feature-extraction</title>
+      <link>https://wmkouw.github.io/tags/feature-extraction/</link>
+      <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/feature-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>representation-learning</title>
+      <link>https://wmkouw.github.io/tags/representation-learning/</link>
+      <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/representation-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maxillo-facial-surgery</title>
+      <link>https://wmkouw.github.io/tags/maxillo-facial-surgery/</link>
+      <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/maxillo-facial-surgery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>importance-weighting</title>
+      <link>https://wmkouw.github.io/tags/importance-weighting/</link>
+      <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/importance-weighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variance-reduction</title>
+      <link>https://wmkouw.github.io/tags/variance-reduction/</link>
+      <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/variance-reduction/</guid>
       <description></description>
     </item>
     
@@ -274,38 +301,29 @@
     </item>
     
     <item>
-      <title>trust</title>
-      <link>https://wmkouw.github.io/tags/trust/</link>
-      <pubDate>Sat, 08 Sep 2018 13:18:06 +0200</pubDate>
+      <title>robust-estimator</title>
+      <link>https://wmkouw.github.io/tags/robust-estimator/</link>
+      <pubDate>Fri, 27 May 2016 19:18:33 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/tags/trust/</guid>
+      <guid>https://wmkouw.github.io/tags/robust-estimator/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>variance-reduction</title>
-      <link>https://wmkouw.github.io/tags/variance-reduction/</link>
-      <pubDate>Mon, 24 Dec 2018 06:34:24 +0100</pubDate>
+      <title>maximum-contrastive-pessimistic-likelihood</title>
+      <link>https://wmkouw.github.io/tags/maximum-contrastive-pessimistic-likelihood/</link>
+      <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/tags/variance-reduction/</guid>
+      <guid>https://wmkouw.github.io/tags/maximum-contrastive-pessimistic-likelihood/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>variational-Bayes</title>
-      <link>https://wmkouw.github.io/tags/variational-bayes/</link>
-      <pubDate>Wed, 06 Mar 2019 14:13:32 +0100</pubDate>
+      <title>dropout</title>
+      <link>https://wmkouw.github.io/tags/dropout/</link>
+      <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/tags/variational-bayes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational-message-passing</title>
-      <link>https://wmkouw.github.io/tags/variational-message-passing/</link>
-      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/variational-message-passing/</guid>
+      <guid>https://wmkouw.github.io/tags/dropout/</guid>
       <description></description>
     </item>
     
