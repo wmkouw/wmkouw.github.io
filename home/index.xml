@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://wmkouw.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title></title>
       <link>https://wmkouw.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/about/</guid>
       <description>Biography 
@@ -35,7 +35,7 @@ I work in the Bayesian Intelligent Autonomous Systems lab of the TU Eindhoven. W
     <item>
       <title>Papers</title>
       <link>https://wmkouw.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/publications/</guid>
       <description></description>
@@ -44,7 +44,7 @@ I work in the Bayesian Intelligent Autonomous Systems lab of the TU Eindhoven. W
     <item>
       <title>Selected Publications</title>
       <link>https://wmkouw.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/publications_selected/</guid>
       <description></description>
@@ -53,7 +53,7 @@ I work in the Bayesian Intelligent Autonomous Systems lab of the TU Eindhoven. W
     <item>
       <title></title>
       <link>https://wmkouw.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/skills/</guid>
       <description></description>
@@ -62,7 +62,7 @@ I work in the Bayesian Intelligent Autonomous Systems lab of the TU Eindhoven. W
     <item>
       <title>Code</title>
       <link>https://wmkouw.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/projects/</guid>
       <description></description>
@@ -71,7 +71,7 @@ I work in the Bayesian Intelligent Autonomous Systems lab of the TU Eindhoven. W
     <item>
       <title>Selected Talks</title>
       <link>https://wmkouw.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/talks_selected/</guid>
       <description></description>
@@ -80,7 +80,7 @@ I work in the Bayesian Intelligent Autonomous Systems lab of the TU Eindhoven. W
     <item>
       <title>Talks</title>
       <link>https://wmkouw.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/talks/</guid>
       <description></description>
@@ -89,7 +89,7 @@ I work in the Bayesian Intelligent Autonomous Systems lab of the TU Eindhoven. W
     <item>
       <title>Notes</title>
       <link>https://wmkouw.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/posts/</guid>
       <description></description>
@@ -98,7 +98,7 @@ I work in the Bayesian Intelligent Autonomous Systems lab of the TU Eindhoven. W
     <item>
       <title>Teaching</title>
       <link>https://wmkouw.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/teaching/</guid>
       <description>I am currently not teaching or assisting in any courses.</description>
@@ -107,7 +107,7 @@ I work in the Bayesian Intelligent Autonomous Systems lab of the TU Eindhoven. W
     <item>
       <title>Tags</title>
       <link>https://wmkouw.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/tags/</guid>
       <description></description>
@@ -116,7 +116,7 @@ I work in the Bayesian Intelligent Autonomous Systems lab of the TU Eindhoven. W
     <item>
       <title>Search</title>
       <link>https://wmkouw.github.io/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/search/</guid>
       <description></description>
@@ -125,7 +125,7 @@ I work in the Bayesian Intelligent Autonomous Systems lab of the TU Eindhoven. W
     <item>
       <title>Contact</title>
       <link>https://wmkouw.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://wmkouw.github.io/home/contact/</guid>
       <description></description>

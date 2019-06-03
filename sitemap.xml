@@ -3,8 +3,8 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/talk/isbi2019/</loc>
-      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
+      <loc>https://wmkouw.github.io/talk/ipmi2019/</loc>
+      <lastmod>2019-06-02T09:11:43+02:00</lastmod>
     </url>
     
   
@@ -12,7 +12,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/</loc>
-      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
+      <lastmod>2019-06-02T09:11:43+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -21,7 +21,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/</loc>
-      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
+      <lastmod>2019-06-02T09:11:43+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -30,16 +30,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/acquisition-variance/</loc>
-      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/deep-learning/</loc>
-      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
+      <lastmod>2019-06-02T09:11:43+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -48,6 +39,40 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/image-segmentation/</loc>
+      <lastmod>2019-06-02T09:11:43+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/variational-bayes/</loc>
+      <lastmod>2019-06-02T09:11:43+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/post/practical_problems/</loc>
+      <lastmod>2019-05-22T16:58:17+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/talk/isbi2019/</loc>
+      <lastmod>2019-04-12T09:11:43+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/deep-learning/</loc>
       <lastmod>2019-04-12T09:11:43+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -135,15 +160,6 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/variational-bayes/</loc>
-      <lastmod>2019-03-06T14:13:32+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/project/info-prior/</loc>
       <lastmod>2019-03-01T22:28:22+02:00</lastmod>
     </url>
@@ -163,33 +179,6 @@
     
       <loc>https://wmkouw.github.io/post/domain_adaptation/</loc>
       <lastmod>2019-02-01T12:19:17+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
-      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
-      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/pattern-recognition/</loc>
-      <lastmod>2019-02-01T12:19:17+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -222,6 +211,24 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/covariate-shift/</loc>
+      <lastmod>2019-01-01T16:13:59+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
+      <lastmod>2019-01-01T16:13:59+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
       <lastmod>2019-01-01T16:13:59+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -498,7 +505,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/project/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -506,7 +513,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -514,7 +521,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -522,7 +529,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
   
