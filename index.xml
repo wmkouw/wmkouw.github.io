@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 02 Jun 2019 09:11:43 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 16:13:59 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A review of single-source unsupervised domain adaptation</title>
+      <link>https://wmkouw.github.io/publication/review/</link>
+      <pubDate>Tue, 11 Jun 2019 16:13:59 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cross-center smoothness prior for Bayesian image segmentation</title>
@@ -125,15 +134,6 @@
       <pubDate>Wed, 16 Jan 2019 00:00:02 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/publication/mrainet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A review of single-source unsupervised domain adaptation</title>
-      <link>https://wmkouw.github.io/publication/review/</link>
-      <pubDate>Tue, 01 Jan 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/review/</guid>
       <description></description>
     </item>
     
