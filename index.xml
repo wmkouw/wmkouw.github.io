@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 19 Jul 2019 16:13:59 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 06:34:24 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Robust importance-weighted cross-validation under sample selection bias</title>
+      <link>https://wmkouw.github.io/publication/covshift-ctrlv/</link>
+      <pubDate>Tue, 30 Jul 2019 06:34:24 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/covshift-ctrlv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A review of domain adaptation without target labels</title>
@@ -143,15 +152,6 @@
       <pubDate>Mon, 31 Dec 2018 14:46:06 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/publication/tr_introda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reducing variance in importance-weighted cross-validation under covariate shift</title>
-      <link>https://wmkouw.github.io/publication/covshift-ctrlv/</link>
-      <pubDate>Sun, 16 Dec 2018 06:34:24 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/covshift-ctrlv/</guid>
       <description></description>
     </item>
     

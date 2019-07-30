@@ -15,7 +15,7 @@
   
     
   
-  <meta name="description" content="Covariate shift classification problems can in principle be tackled by importance-weighting of training samples. However, the sampling variance of the risk estimator is often scaled up dramatically by employing such weighting. One of the consequences of this is that during cross-validation – when the importance-weighted risk is repeatedly estimated – suboptimal hyperparameter estimates are produced. We study the sampling variance of the importance-weighted risk estimator as a function of the width of the source distribution. We show that introducing a control variate can reduce its sampling variance, which leads to improved regularization parameter estimates when the training data is smaller in scale than the test data.">
+  <meta name="description" content="Cross-validation under sample selection bias can, in principle, be done by importance-weighting the empirical risk. However, the importance-weighted risk estimator produces sub-optimal hyperparameter estimates in problem settings where large weights arise with high probability. We study its sampling variance as a function of the training data distribution and introduce a control variate to increase its robustness to problematically large weights.  ">
 
   
   <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/publication/covshift-ctrlv/">
@@ -91,20 +91,20 @@
   
   <meta property="og:site_name" content="Researcher profile">
   <meta property="og:url" content="https://wmkouw.github.io/publication/covshift-ctrlv/">
-  <meta property="og:title" content="Reducing variance in importance-weighted cross-validation under covariate shift | Researcher profile">
-  <meta property="og:description" content="Covariate shift classification problems can in principle be tackled by importance-weighting of training samples. However, the sampling variance of the risk estimator is often scaled up dramatically by employing such weighting. One of the consequences of this is that during cross-validation – when the importance-weighted risk is repeatedly estimated – suboptimal hyperparameter estimates are produced. We study the sampling variance of the importance-weighted risk estimator as a function of the width of the source distribution. We show that introducing a control variate can reduce its sampling variance, which leads to improved regularization parameter estimates when the training data is smaller in scale than the test data.">
+  <meta property="og:title" content="Robust importance-weighted cross-validation under sample selection bias | Researcher profile">
+  <meta property="og:description" content="Cross-validation under sample selection bias can, in principle, be done by importance-weighting the empirical risk. However, the importance-weighted risk estimator produces sub-optimal hyperparameter estimates in problem settings where large weights arise with high probability. We study its sampling variance as a function of the training data distribution and introduce a control variate to increase its robustness to problematically large weights.  ">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-12-16T06:34:24&#43;01:00">
+  <meta property="article:published_time" content="2019-07-30T06:34:24&#43;01:00">
   
-  <meta property="article:modified_time" content="2018-12-16T06:34:24&#43;01:00">
-  
-
+  <meta property="article:modified_time" content="2019-07-30T06:34:24&#43;01:00">
   
 
   
 
-  <title>Reducing variance in importance-weighted cross-validation under covariate shift | Researcher profile</title>
+  
+
+  <title>Robust importance-weighted cross-validation under sample selection bias | Researcher profile</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -262,7 +262,7 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Reducing variance in importance-weighted cross-validation under covariate shift</h1>
+    <h1 itemprop="name">Robust importance-weighted cross-validation under sample selection bias</h1>
     <span class="pub-authors" itemprop="author">
       
       W.M. Kouw, J.H. Krijthe, M. Loog
@@ -277,7 +277,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Covariate shift classification problems can in principle be tackled by importance-weighting of training samples. However, the sampling variance of the risk estimator is often scaled up dramatically by employing such weighting. One of the consequences of this is that during cross-validation – when the importance-weighted risk is repeatedly estimated – suboptimal hyperparameter estimates are produced. We study the sampling variance of the importance-weighted risk estimator as a function of the width of the source distribution. We show that introducing a control variate can reduce its sampling variance, which leads to improved regularization parameter estimates when the training data is smaller in scale than the test data.</p>
+    <p class="pub-abstract" itemprop="text">Cross-validation under sample selection bias can, in principle, be done by importance-weighting the empirical risk. However, the importance-weighted risk estimator produces sub-optimal hyperparameter estimates in problem settings where large weights arise with high probability. We study its sampling variance as a function of the training data distribution and introduce a control variate to increase its robustness to problematically large weights.</p>
     
 
     
@@ -306,7 +306,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">ArXiv, 2018</div>
+          <div class="col-xs-12 col-sm-9">IEEE International Workshop on Machine Learning for Signal Processing, 2018</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -320,7 +320,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            December, 2018
+            July, 2019
           </div>
         </div>
       </div>
@@ -348,7 +348,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/wmkouw/covshift-ctrlvar" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://github.com/wmkouw/ctrl-iwxval" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -356,10 +356,6 @@
 
 
 
-
-<a class="btn btn-primary btn-outline" href="https://github.com/wmkouw/wmkouw.github.io/tree/master/posters/ICTOPEN2017_wmkouw.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
 
 
 
