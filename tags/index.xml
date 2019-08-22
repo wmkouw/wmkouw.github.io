@@ -40,42 +40,6 @@
     </item>
     
     <item>
-      <title>covariate-shift</title>
-      <link>https://wmkouw.github.io/tags/covariate-shift/</link>
-      <pubDate>Fri, 19 Jul 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/covariate-shift/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>domain-adaptation</title>
-      <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
-      <pubDate>Fri, 19 Jul 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/domain-adaptation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine-learning</title>
-      <link>https://wmkouw.github.io/tags/machine-learning/</link>
-      <pubDate>Fri, 19 Jul 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transfer-learning</title>
-      <link>https://wmkouw.github.io/tags/transfer-learning/</link>
-      <pubDate>Fri, 19 Jul 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/transfer-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>acquisition-variance</title>
       <link>https://wmkouw.github.io/tags/acquisition-variance/</link>
       <pubDate>Sun, 02 Jun 2019 09:11:43 +0200</pubDate>
@@ -166,11 +130,56 @@
     </item>
     
     <item>
+      <title>covariate-shift</title>
+      <link>https://wmkouw.github.io/tags/covariate-shift/</link>
+      <pubDate>Sat, 12 Jan 2019 16:13:59 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/covariate-shift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>domain-adaptation</title>
+      <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
+      <pubDate>Sat, 12 Jan 2019 16:13:59 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://wmkouw.github.io/tags/machine-learning/</link>
+      <pubDate>Sat, 12 Jan 2019 16:13:59 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer-learning</title>
+      <link>https://wmkouw.github.io/tags/transfer-learning/</link>
+      <pubDate>Sat, 12 Jan 2019 16:13:59 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>additive manufacturing</title>
       <link>https://wmkouw.github.io/tags/additive-manufacturing/</link>
       <pubDate>Sat, 01 Dec 2018 09:44:47 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/additive-manufacturing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robustness</title>
+      <link>https://wmkouw.github.io/tags/robustness/</link>
+      <pubDate>Sun, 16 Sep 2018 08:45:35 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/robustness/</guid>
       <description></description>
     </item>
     
@@ -216,15 +225,6 @@
       <pubDate>Mon, 20 Aug 2018 11:18:18 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/importance-weighted-risk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robustness</title>
-      <link>https://wmkouw.github.io/tags/robustness/</link>
-      <pubDate>Thu, 21 Jun 2018 08:45:35 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/robustness/</guid>
       <description></description>
     </item>
     

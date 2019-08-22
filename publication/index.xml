@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>A review of domain adaptation without target labels</title>
-      <link>https://wmkouw.github.io/publication/review/</link>
-      <pubDate>Fri, 19 Jul 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A cross-center smoothness prior for variational Bayesian brain tissue segmentation</title>
       <link>https://wmkouw.github.io/publication/infoprior/</link>
       <pubDate>Wed, 06 Mar 2019 14:13:32 +0100</pubDate>
@@ -49,6 +40,15 @@
     </item>
     
     <item>
+      <title>A review of domain adaptation without target labels</title>
+      <link>https://wmkouw.github.io/publication/review/</link>
+      <pubDate>Sat, 12 Jan 2019 16:13:59 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An introduction to domain adaptation and transfer learning</title>
       <link>https://wmkouw.github.io/publication/tr_introda/</link>
       <pubDate>Mon, 31 Dec 2018 14:46:06 +0100</pubDate>
@@ -58,11 +58,20 @@
     </item>
     
     <item>
-      <title>CT image segmentation of bone for medical additive manufacturing using a CNN</title>
+      <title>CT image segmentation of bone for medical additive manufacturing using a convolutional neural network</title>
       <link>https://wmkouw.github.io/publication/bonectcnn/</link>
       <pubDate>Sat, 01 Dec 2018 09:44:47 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/publication/bonectcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target contrastive pessimistic discriminant analysis</title>
+      <link>https://wmkouw.github.io/publication/tcpr/</link>
+      <pubDate>Sun, 16 Sep 2018 08:45:35 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/tcpr/</guid>
       <description></description>
     </item>
     
@@ -72,15 +81,6 @@
       <pubDate>Thu, 23 Aug 2018 13:01:29 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/publication/covshift-skew/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Target contrastive pessimistic discriminant analysis</title>
-      <link>https://wmkouw.github.io/publication/tcpr/</link>
-      <pubDate>Thu, 21 Jun 2018 08:45:35 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/tcpr/</guid>
       <description></description>
     </item>
     
