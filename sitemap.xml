@@ -3,6 +3,50 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/</loc>
+      <lastmod>2019-08-29T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/talk/nsf2019/</loc>
+      <lastmod>2019-08-29T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/</loc>
+      <lastmod>2019-08-29T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
+      <lastmod>2019-08-29T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
+      <lastmod>2019-08-29T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/publication_types/1/</loc>
       <lastmod>2019-07-30T06:34:24+01:00</lastmod>
       <priority>0</priority>
@@ -21,26 +65,8 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/</loc>
-      <lastmod>2019-07-30T06:34:24+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/publication/covshift-ctrlv/</loc>
       <lastmod>2019-07-30T06:34:24+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/</loc>
-      <lastmod>2019-07-30T06:34:24+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -246,24 +272,6 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/covariate-shift/</loc>
-      <lastmod>2019-01-12T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
-      <lastmod>2019-01-12T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
       <lastmod>2019-01-12T16:13:59+02:00</lastmod>
       <priority>0</priority>
     </url>
