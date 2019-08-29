@@ -17,7 +17,7 @@
       <guid>https://wmkouw.github.io/talk/nsf2019/</guid>
       <description>&lt;p&gt;This poster recaps two collaboration projects I did during my time as Niels Stensen Fellow at the University of Copenhagen. The main point of my proposal was to study &amp;ldquo;sequential domain adaptation&amp;rdquo;. The left column describes an application to &amp;ldquo;spatial sequences&amp;rdquo;, i.e., multi-site biomedical imaging, and the right column describes an application to &amp;ldquo;temporal sequences&amp;rdquo;, i.e. natural language processing over data collected in snapshots over time. The main take-home message from the work in this Fellowship is that domain adaptation is a solution to training machine learning models under sampling bias and that sequential adaptation allows for updating.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://wmkouw.github.io/posters/NSF2019_wmkouw.png&#34; alt=&#34;Poster Niels Stensen Conference 2019&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wmkouw.github.io/posters/NSF2019_wmkouw.png&#34; alt=&#34;Poster NSF2019&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
