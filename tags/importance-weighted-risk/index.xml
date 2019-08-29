@@ -18,7 +18,7 @@
       <pubDate>Mon, 20 Aug 2018 11:18:18 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/talk/icpr2018/</guid>
-      <description>I presented my paper on how the importance-weighted risk estimator&amp;rsquo;s sampling distribution is skewed for small sample sizes, and how this affects hyperparameter selection during importance-weighted cross-validation under covariate shift.</description>
+      <description>I presented my paper on how the importance-weighted risk estimator&amp;rsquo;s sampling distribution is skewed for small sample sizes. The weights effectively ensure an under- or over-estimation of risk, depending on whether the source distribution has larger or smaller variance than the target distribution, respectively. I explore how this affects hyperparameter selection during importance-weighted cross-validation.</description>
     </item>
     
   </channel>
