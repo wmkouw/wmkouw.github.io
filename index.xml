@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2019 06:00:40 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Back to the future - sequential alignment of text representations</title>
+      <link>https://wmkouw.github.io/publication/seqrum/</link>
+      <pubDate>Mon, 09 Sep 2019 06:00:40 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/seqrum/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sequential domain-adaptive machine learning</title>
@@ -187,24 +196,6 @@
       
       <guid>https://wmkouw.github.io/publication/tcpr/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Big data &amp; trust</title>
-      <link>https://wmkouw.github.io/talk/nsfworkshop-bigdata/</link>
-      <pubDate>Sat, 08 Sep 2018 13:18:06 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/talk/nsfworkshop-bigdata/</guid>
-      <description>&lt;p&gt;Research institutions, hospitals, governments and companies are collecting all kinds of data at an increased rate. Such “big data” offers the possibility to increase our understanding of human behavior, improve clinical diagnosis, and create intelligent consumer products. However, data can also end up in the hands of parties that may take advantage of you. For example, Facebook user data was leaked to political campaigners to influence voters [1]. Central to this debate is the concept of trust: how can you trust that the data that you give out will not end up hurting you?&lt;/p&gt;
-
-&lt;p&gt;This debate was recently sparked by the adoption of the General Data Protection Regulation (GDPR), which gives individuals in the EU the right to review and destroy personal data collected by third parties. The GDPR greatly complicates the collection and dissemination of research data, particularly in medical sciences. How should researchers analyze data and publish their findings if their subjects decide that their data is to remain private? Can patient data be fully anonymized and yet remain traceable at the same time?  And how does data protection and privacy fit within the principle of open science that encourages researchers to make their data Findable, Accessible, Interoperable, and Reusable (FAIR)?&lt;/p&gt;
-
-&lt;p&gt;An interesting novel technology in the data and trust debate is blockchain. The goal is to create a distributed transaction system without a central authority that profits from this position, for example the exchange of money without the intervention of a bank. Individual users can issue transactions that are subsequently verified by the entire community through a blockchain. If there’s foul play, for instance by someone changing their own balance, the transaction is rejected by the community. Blockchain thus ensures consensus between users that do not trust each other, which makes the technology interesting for a wide range of applications.&lt;/p&gt;
-
-&lt;p&gt;In this workshop, we will present different views on how big data is currently being used. Furthermore, we will initiate an interactive discussion with the audience during which the participants can answer questions and share opinions using their smartphones.&lt;/p&gt;
-
-&lt;p&gt;[1] &lt;a href=&#34;https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election&#34; target=&#34;_blank&#34;&gt;https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

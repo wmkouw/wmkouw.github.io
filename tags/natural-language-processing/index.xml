@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natural-language-processing on Researcher profile</title>
+    <link>https://wmkouw.github.io/tags/natural-language-processing/</link>
+    <description>Recent content in natural-language-processing on Researcher profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 09 Sep 2019 06:00:40 +0100</lastBuildDate>
+    
+	<atom:link href="https://wmkouw.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Back to the future - sequential alignment of text representations</title>
+      <link>https://wmkouw.github.io/publication/seqrum/</link>
+      <pubDate>Mon, 09 Sep 2019 06:00:40 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/seqrum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
