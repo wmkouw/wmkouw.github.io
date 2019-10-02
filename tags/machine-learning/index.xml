@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 16:13:59 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A review of domain adaptation without target labels</title>
+      <link>https://wmkouw.github.io/publication/review/</link>
+      <pubDate>Tue, 01 Oct 2019 16:13:59 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sequential domain-adaptive machine learning</title>
@@ -19,15 +28,6 @@
       
       <guid>https://wmkouw.github.io/talk/nsf2019/</guid>
       <description>This poster recaps two collaboration projects I did during my time as Niels Stensen Fellow at the University of Copenhagen. The main point of my proposal was to study &amp;ldquo;sequential domain adaptation&amp;rdquo;. The left column describes an application to &amp;ldquo;spatial sequences&amp;rdquo;, i.e., multi-site biomedical imaging, and the right column describes an application to &amp;ldquo;temporal sequences&amp;rdquo;, i.e. natural language processing over data collected in snapshots over time. The main take-home message from the work in this Fellowship is that domain adaptation is a solution to training machine learning models under sampling bias and that sequential adaptation allows for updating.</description>
-    </item>
-    
-    <item>
-      <title>A review of domain adaptation without target labels</title>
-      <link>https://wmkouw.github.io/publication/review/</link>
-      <pubDate>Sat, 12 Jan 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/review/</guid>
-      <description></description>
     </item>
     
     <item>
