@@ -3,35 +3,17 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication_types/2/</loc>
-      <lastmod>2019-10-01T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication/review/</loc>
-      <lastmod>2019-10-01T16:13:59+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication_types/</loc>
-      <lastmod>2019-10-01T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/</loc>
-      <lastmod>2019-10-01T16:13:59+02:00</lastmod>
+      <lastmod>2019-10-11T09:11:43+02:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/talk/mlsp2019/</loc>
+      <lastmod>2019-10-11T09:11:43+02:00</lastmod>
     </url>
     
   
@@ -39,7 +21,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/</loc>
-      <lastmod>2019-10-01T16:13:59+02:00</lastmod>
+      <lastmod>2019-10-11T09:11:43+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -47,8 +29,8 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/covariate-shift/</loc>
-      <lastmod>2019-10-01T16:13:59+02:00</lastmod>
+      <loc>https://wmkouw.github.io/tags/cross-validation/</loc>
+      <lastmod>2019-10-11T09:11:43+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -56,17 +38,8 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
-      <lastmod>2019-10-01T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
-      <lastmod>2019-10-01T16:13:59+02:00</lastmod>
+      <loc>https://wmkouw.github.io/tags/importance-weighting/</loc>
+      <lastmod>2019-10-11T09:11:43+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -75,7 +48,60 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/sample-selection-bias/</loc>
-      <lastmod>2019-10-01T16:13:59+02:00</lastmod>
+      <lastmod>2019-10-11T09:11:43+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication_types/2/</loc>
+      <lastmod>2019-10-07T16:13:59+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication/review/</loc>
+      <lastmod>2019-10-07T16:13:59+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication_types/</loc>
+      <lastmod>2019-10-07T16:13:59+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/covariate-shift/</loc>
+      <lastmod>2019-10-07T16:13:59+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
+      <lastmod>2019-10-07T16:13:59+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
+      <lastmod>2019-10-07T16:13:59+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -84,7 +110,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/transfer-learning/</loc>
-      <lastmod>2019-10-01T16:13:59+02:00</lastmod>
+      <lastmod>2019-10-07T16:13:59+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -135,15 +161,6 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/control-variate/</loc>
-      <lastmod>2019-07-30T06:34:24+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/cross-validation/</loc>
       <lastmod>2019-07-30T06:34:24+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -496,15 +513,6 @@
     
       <loc>https://wmkouw.github.io/talk/ictopen2017/</loc>
       <lastmod>2017-03-09T19:16:44+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/importance-weighting/</loc>
-      <lastmod>2017-03-09T19:16:44+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

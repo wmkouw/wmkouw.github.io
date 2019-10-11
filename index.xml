@@ -6,13 +6,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 16:13:59 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2019 09:11:43 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Robust importance-weighted cross-validation under sample selection bias</title>
+      <link>https://wmkouw.github.io/talk/mlsp2019/</link>
+      <pubDate>Fri, 11 Oct 2019 09:11:43 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/talk/mlsp2019/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://wmkouw.github.io/posters/MLSP2019_wmkouw.png&#34; alt=&#34;Poster MLSP2019&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A review of domain adaptation without target labels</title>
       <link>https://wmkouw.github.io/publication/review/</link>
-      <pubDate>Tue, 01 Oct 2019 16:13:59 +0200</pubDate>
+      <pubDate>Mon, 07 Oct 2019 16:13:59 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/publication/review/</guid>
       <description></description>
@@ -186,15 +196,6 @@
       <pubDate>Sat, 01 Dec 2018 09:44:47 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/publication/bonectcnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Target contrastive pessimistic discriminant analysis</title>
-      <link>https://wmkouw.github.io/publication/tcpr/</link>
-      <pubDate>Sun, 16 Sep 2018 08:45:35 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/tcpr/</guid>
       <description></description>
     </item>
     
