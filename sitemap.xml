@@ -3,8 +3,79 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/publication_types/1/</loc>
+      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication/seqrum/</loc>
+      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication_types/</loc>
+      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/</loc>
-      <lastmod>2019-10-11T09:11:43+02:00</lastmod>
+      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/</loc>
+      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
+      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/natural-language-processing/</loc>
+      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/subspace-alignment/</loc>
+      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/temporal-drift/</loc>
+      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -14,15 +85,6 @@
     
       <loc>https://wmkouw.github.io/talk/mlsp2019/</loc>
       <lastmod>2019-10-11T09:11:43+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/</loc>
-      <lastmod>2019-10-11T09:11:43+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -73,25 +135,7 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication_types/</loc>
-      <lastmod>2019-10-07T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/tags/covariate-shift/</loc>
-      <lastmod>2019-10-07T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
       <lastmod>2019-10-07T16:13:59+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -111,32 +155,6 @@
     
       <loc>https://wmkouw.github.io/tags/transfer-learning/</loc>
       <lastmod>2019-10-07T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication_types/1/</loc>
-      <lastmod>2019-09-09T06:00:40+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication/seqrum/</loc>
-      <lastmod>2019-09-09T06:00:40+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/natural-language-processing/</loc>
-      <lastmod>2019-09-09T06:00:40+01:00</lastmod>
       <priority>0</priority>
     </url>
     

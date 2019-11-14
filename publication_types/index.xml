@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 07 Oct 2019 16:13:59 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 06:00:40 +0100</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1</title>
+      <link>https://wmkouw.github.io/publication_types/1/</link>
+      <pubDate>Mon, 11 Nov 2019 06:00:40 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2</title>
@@ -18,15 +27,6 @@
       <pubDate>Mon, 07 Oct 2019 16:13:59 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>https://wmkouw.github.io/publication_types/1/</link>
-      <pubDate>Mon, 09 Sep 2019 06:00:40 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication_types/1/</guid>
       <description></description>
     </item>
     

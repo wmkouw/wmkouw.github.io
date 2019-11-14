@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 11 Oct 2019 09:11:43 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 06:00:40 +0100</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>domain-adaptation</title>
+      <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
+      <pubDate>Mon, 11 Nov 2019 06:00:40 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>natural-language-processing</title>
+      <link>https://wmkouw.github.io/tags/natural-language-processing/</link>
+      <pubDate>Mon, 11 Nov 2019 06:00:40 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subspace-alignment</title>
+      <link>https://wmkouw.github.io/tags/subspace-alignment/</link>
+      <pubDate>Mon, 11 Nov 2019 06:00:40 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/subspace-alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temporal-drift</title>
+      <link>https://wmkouw.github.io/tags/temporal-drift/</link>
+      <pubDate>Mon, 11 Nov 2019 06:00:40 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/temporal-drift/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cross-validation</title>
@@ -49,15 +85,6 @@
     </item>
     
     <item>
-      <title>domain-adaptation</title>
-      <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
-      <pubDate>Mon, 07 Oct 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/domain-adaptation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>machine-learning</title>
       <link>https://wmkouw.github.io/tags/machine-learning/</link>
       <pubDate>Mon, 07 Oct 2019 16:13:59 +0200</pubDate>
@@ -72,15 +99,6 @@
       <pubDate>Mon, 07 Oct 2019 16:13:59 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/transfer-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>natural-language-processing</title>
-      <link>https://wmkouw.github.io/tags/natural-language-processing/</link>
-      <pubDate>Mon, 09 Sep 2019 06:00:40 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
