@@ -3,6 +3,68 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/</loc>
+      <lastmod>2019-11-15T13:26:41+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/</loc>
+      <lastmod>2019-11-15T13:26:41+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
+      <lastmod>2019-11-15T13:26:41+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
+      <lastmod>2019-11-15T13:26:41+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/natural-language-processing/</loc>
+      <lastmod>2019-11-15T13:26:41+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/project/ssa-nlp/</loc>
+      <lastmod>2019-11-15T13:26:41+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/temporal-drift/</loc>
+      <lastmod>2019-11-15T13:26:41+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/publication_types/1/</loc>
       <lastmod>2019-11-11T06:00:40+01:00</lastmod>
       <priority>0</priority>
@@ -29,52 +91,7 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/</loc>
-      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/</loc>
-      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
-      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/natural-language-processing/</loc>
-      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/tags/subspace-alignment/</loc>
-      <lastmod>2019-11-11T06:00:40+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/temporal-drift/</loc>
       <lastmod>2019-11-11T06:00:40+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -136,15 +153,6 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/covariate-shift/</loc>
-      <lastmod>2019-10-07T16:13:59+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/machine-learning/</loc>
       <lastmod>2019-10-07T16:13:59+02:00</lastmod>
       <priority>0</priority>
     </url>

@@ -6,8 +6,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 11 Nov 2019 06:00:40 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2019 13:26:41 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ssa-nlp</title>
+      <link>https://wmkouw.github.io/project/ssa-nlp/</link>
+      <pubDate>Fri, 15 Nov 2019 13:26:41 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/ssa-nlp/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Language evolves over time in many ways relevant to natural language processing tasks. For example, recent occurrences of tokens &amp;lsquo;BERT&amp;rsquo; and &amp;lsquo;ELMO&amp;rsquo; in publications refer to neural network architectures rather than persons [&lt;a href=&#34;https://www.aclweb.org/anthology/N19-1423/&#34; target=&#34;_blank&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1903.05987&#34; target=&#34;_blank&#34;&gt;2&lt;/a&gt;]. This type of temporal signal is typically overlooked, but is important if one aims to deploy a machine learning model over an extended period of time. In particular, language evolution causes data drift between time-steps in sequential decision-making tasks. Examples of such tasks include prediction of paper acceptance for yearly conferences (regular intervals) or author stance prediction for rumours on Twitter (irregular intervals). We tackle data drift by sequentially aligning learned representations. We argue that, due to its low computational expense, sequential alignment is a practical solution to dealing with language evolution.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Back to the future - sequential alignment of text representations</title>
@@ -137,9 +149,9 @@
       <guid>https://wmkouw.github.io/project/info-prior/</guid>
       <description>&lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;Generalizing machine learning algorithms across medical centers is difficult. Data is often strongly biased towards each center, leading to different mappings from medical image X to segmented image Y.&lt;/p&gt;
+&lt;p&gt;Generalizing machine learning algorithms across medical centers is difficult. Data is often strongly biased towards each center, leading to different mappings from medical image X to segmented image Y [&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/5977031&#34; target=&#34;_blank&#34;&gt;1&lt;/a&gt;].&lt;/p&gt;
 
-&lt;p&gt;Instead of designing an adaptive classification model that would attempt to adjust its mapping X → Y for each center, I inform an unsupervised Bayesian segmentation model with how Y is supposed to look like. Specifically, I fit a smoothness prior on segmentations produced in one medical center and incorporate that as an informative empirical prior in a variational Bayesian image segmentation model. This model will produce segmentations in a target medical center that are as smooth as the segmentations produced in the source medical center.&lt;/p&gt;
+&lt;p&gt;Instead of designing an adaptive classification model that would attempt to adjust its mapping X → Y for each center, I inform an unsupervised Bayesian segmentation model with how Y is supposed to look like. Specifically, I fit a smoothness prior on segmentations produced in one medical center and incorporate that as an informative empirical prior in a variational Bayesian image segmentation model [&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1077314216300285&#34; target=&#34;_blank&#34;&gt;2&lt;/a&gt;]. This model will produce segmentations in a target medical center that are as smooth as the segmentations produced in the source medical center.&lt;/p&gt;
 </description>
     </item>
     
@@ -187,15 +199,6 @@
       <pubDate>Mon, 31 Dec 2018 14:46:06 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/publication/tr_introda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CT image segmentation of bone for medical additive manufacturing using a convolutional neural network</title>
-      <link>https://wmkouw.github.io/publication/bonectcnn/</link>
-      <pubDate>Sat, 01 Dec 2018 09:44:47 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/bonectcnn/</guid>
       <description></description>
     </item>
     

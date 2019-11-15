@@ -280,9 +280,9 @@
     <div class="article-style" itemprop="articleBody">
       <p></p>
 
-<p>Generalizing machine learning algorithms across medical centers is difficult. Data is often strongly biased towards each center, leading to different mappings from medical image X to segmented image Y.</p>
+<p>Generalizing machine learning algorithms across medical centers is difficult. Data is often strongly biased towards each center, leading to different mappings from medical image X to segmented image Y [<a href="https://ieeexplore.ieee.org/abstract/document/5977031" target="_blank">1</a>].</p>
 
-<p>Instead of designing an adaptive classification model that would attempt to adjust its mapping X → Y for each center, I inform an unsupervised Bayesian segmentation model with how Y is supposed to look like. Specifically, I fit a smoothness prior on segmentations produced in one medical center and incorporate that as an informative empirical prior in a variational Bayesian image segmentation model. This model will produce segmentations in a target medical center that are as smooth as the segmentations produced in the source medical center.</p>
+<p>Instead of designing an adaptive classification model that would attempt to adjust its mapping X → Y for each center, I inform an unsupervised Bayesian segmentation model with how Y is supposed to look like. Specifically, I fit a smoothness prior on segmentations produced in one medical center and incorporate that as an informative empirical prior in a variational Bayesian image segmentation model [<a href="https://www.sciencedirect.com/science/article/pii/S1077314216300285" target="_blank">2</a>]. This model will produce segmentations in a target medical center that are as smooth as the segmentations produced in the source medical center.</p>
 
     </div>
 
