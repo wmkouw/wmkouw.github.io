@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching Material on Researcher profile</title>
+    <link>https://wmkouw.github.io/teaching/</link>
+    <description>Recent content in Teaching Material on Researcher profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://wmkouw.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TUe 5SSD0 BMLIP</title>
+      <link>https://wmkouw.github.io/teaching/tue-5ssd0/</link>
+      <pubDate>Thu, 16 Jan 2020 13:26:41 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/teaching/tue-5ssd0/</guid>
+      <description>Bayesian Machine Learning &amp;amp; Information Processing</description>
+    </item>
+    
+  </channel>
+</rss>

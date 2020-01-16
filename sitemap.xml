@@ -4,8 +4,16 @@
     <url>
     
       <loc>https://wmkouw.github.io/</loc>
-      <lastmod>2019-11-15T13:26:41+01:00</lastmod>
+      <lastmod>2020-01-16T13:26:41+01:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/teaching/tue-5ssd0/</loc>
+      <lastmod>2020-01-16T13:26:41+01:00</lastmod>
     </url>
     
   
@@ -178,7 +186,7 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication/covshift-ctrlv/</loc>
+      <loc>https://wmkouw.github.io/publication/robust-iwxval/</loc>
       <lastmod>2019-07-30T06:34:24+01:00</lastmod>
     </url>
     
@@ -383,6 +391,15 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/publication_types/3/</loc>
+      <lastmod>2018-09-16T08:45:35+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/publication/tcpr/</loc>
       <lastmod>2018-09-16T08:45:35+02:00</lastmod>
     </url>
@@ -435,7 +452,7 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication/covshift-skew/</loc>
+      <loc>https://wmkouw.github.io/publication/sskew-iwrisk/</loc>
       <lastmod>2018-08-23T13:01:29+02:00</lastmod>
     </url>
     
@@ -579,6 +596,14 @@
     <url>
     
       <loc>https://wmkouw.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/teaching/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
