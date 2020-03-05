@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="Domain adaptation has become a prominent problem setting in machine learning and related fields. This review asks the question: how can a classifier learn from a source domain and generalize to a target domain? We present a categorization of approaches, divided into, what we refer to as, sample-based, feature-based and inference-based methods. Sample-based methods focus on weighting individual observations during training based on their importance to the target domain. Feature-based methods revolve around on mapping, projecting and representing features such that a source classifier performs well on the target domain and inference-based methods incorporate adaptation into the parameter estimation procedure, for instance through constraints on the optimization procedure. Additionally, we review a number of conditions that allow for formulating bounds on the cross-domain generalization error. Our categorization highlights recurring ideas and raises questions important to further research.">
+  <meta name="description" content="We address the problem of online Bayesian state and parameter tracking in autoregressive (AR) models with time-varying process noise variance. The involved marginalization and expectation integrals cannot be analytically solved. Moreover, the online tracking constraint makes sampling and batch learning methods unsuitable for this problem. We propose a hybrid variational message passing algorithm that robustly tracks the time-varying dynamics of the latent states, AR coefficients and process noise variance. Since message passing in a factor graph is a highly modular inference approach, the proposed methods easily extend to other non-stationary dynamic modeling problems.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/publication/review/">
+  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/publication/vmpar-hgf/">
 
   
 
@@ -82,7 +82,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://wmkouw.github.io/publication/review/">
+  <link rel="canonical" href="https://wmkouw.github.io/publication/vmpar-hgf/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -90,21 +90,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/wmkouw">
   
   <meta property="og:site_name" content="Researcher profile">
-  <meta property="og:url" content="https://wmkouw.github.io/publication/review/">
-  <meta property="og:title" content="A review of domain adaptation without target labels | Researcher profile">
-  <meta property="og:description" content="Domain adaptation has become a prominent problem setting in machine learning and related fields. This review asks the question: how can a classifier learn from a source domain and generalize to a target domain? We present a categorization of approaches, divided into, what we refer to as, sample-based, feature-based and inference-based methods. Sample-based methods focus on weighting individual observations during training based on their importance to the target domain. Feature-based methods revolve around on mapping, projecting and representing features such that a source classifier performs well on the target domain and inference-based methods incorporate adaptation into the parameter estimation procedure, for instance through constraints on the optimization procedure. Additionally, we review a number of conditions that allow for formulating bounds on the cross-domain generalization error. Our categorization highlights recurring ideas and raises questions important to further research.">
+  <meta property="og:url" content="https://wmkouw.github.io/publication/vmpar-hgf/">
+  <meta property="og:title" content="Bayesian joint state and parameter tracking in autoregressive models | Researcher profile">
+  <meta property="og:description" content="We address the problem of online Bayesian state and parameter tracking in autoregressive (AR) models with time-varying process noise variance. The involved marginalization and expectation integrals cannot be analytically solved. Moreover, the online tracking constraint makes sampling and batch learning methods unsuitable for this problem. We propose a hybrid variational message passing algorithm that robustly tracks the time-varying dynamics of the latent states, AR coefficients and process noise variance. Since message passing in a factor graph is a highly modular inference approach, the proposed methods easily extend to other non-stationary dynamic modeling problems.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-10-07T16:13:59&#43;02:00">
+  <meta property="article:published_time" content="2020-03-04T12:00:00&#43;01:00">
   
-  <meta property="article:modified_time" content="2019-10-07T16:13:59&#43;02:00">
-  
-
+  <meta property="article:modified_time" content="2020-03-04T12:00:00&#43;01:00">
   
 
   
 
-  <title>A review of domain adaptation without target labels | Researcher profile</title>
+  
+
+  <title>Bayesian joint state and parameter tracking in autoregressive models | Researcher profile</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -281,10 +281,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">A review of domain adaptation without target labels</h1>
+    <h1 itemprop="name">Bayesian joint state and parameter tracking in autoregressive models</h1>
     <span class="pub-authors" itemprop="author">
       
-      W.M. Kouw, M. Loog
+      I. Senoz, A. Podusenko, W.M. Kouw, B. de Vries
       
     </span>
     <span class="pull-right">
@@ -296,7 +296,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Domain adaptation has become a prominent problem setting in machine learning and related fields. This review asks the question: how can a classifier learn from a source domain and generalize to a target domain? We present a categorization of approaches, divided into, what we refer to as, sample-based, feature-based and inference-based methods. Sample-based methods focus on weighting individual observations during training based on their importance to the target domain. Feature-based methods revolve around on mapping, projecting and representing features such that a source classifier performs well on the target domain and inference-based methods incorporate adaptation into the parameter estimation procedure, for instance through constraints on the optimization procedure. Additionally, we review a number of conditions that allow for formulating bounds on the cross-domain generalization error. Our categorization highlights recurring ideas and raises questions important to further research.</p>
+    <p class="pub-abstract" itemprop="text">We address the problem of online Bayesian state and parameter tracking in autoregressive (AR) models with time-varying process noise variance. The involved marginalization and expectation integrals cannot be analytically solved. Moreover, the online tracking constraint makes sampling and batch learning methods unsuitable for this problem. We propose a hybrid variational message passing algorithm that robustly tracks the time-varying dynamics of the latent states, AR coefficients and process noise variance. Since message passing in a factor graph is a highly modular inference approach, the proposed methods easily extend to other non-stationary dynamic modeling problems.</p>
     
 
     
@@ -307,8 +307,8 @@
           <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
           <div class="col-xs-12 col-sm-9">
             
-            <a href="https://wmkouw.github.io/publication/#2">
-              Journal article
+            <a href="https://wmkouw.github.io/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -325,7 +325,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019</div>
+          <div class="col-xs-12 col-sm-9">Conference on Learning for Dynamics and Control, 2020</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -339,7 +339,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            October, 2019
+            March, 2020
           </div>
         </div>
       </div>
@@ -358,20 +358,12 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/1901.05335" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-<a class="btn btn-primary btn-outline" href="https://doi.org/10.1109/TPAMI.2019.2945942" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/wmkouw/survey-da" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://github.com/biaslab/L4DC-2020" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -383,10 +375,6 @@
 
 
 
-
-<a class="btn btn-primary btn-outline" href="https://github.com/wmkouw/wmkouw.github.io/tree/master/bibtex/kouw2019review.bib" target="_blank" rel="noopener">
-  Bib
-</a>
 
 
 
@@ -403,20 +391,6 @@
 
     
 
-
-<div class="article-tags">
-  
-  <a class="label label-default" href="https://wmkouw.github.io/tags/machine-learning/">machine-learning</a>
-  
-  <a class="label label-default" href="https://wmkouw.github.io/tags/domain-adaptation/">domain-adaptation</a>
-  
-  <a class="label label-default" href="https://wmkouw.github.io/tags/transfer-learning/">transfer-learning</a>
-  
-  <a class="label label-default" href="https://wmkouw.github.io/tags/covariate-shift/">covariate-shift</a>
-  
-  <a class="label label-default" href="https://wmkouw.github.io/tags/sample-selection-bias/">sample-selection-bias</a>
-  
-</div>
 
 
 

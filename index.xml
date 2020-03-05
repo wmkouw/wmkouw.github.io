@@ -6,11 +6,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 27 Feb 2020 10:21:16 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 12:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Data Representativeness Criterion: predicting the performance of supervised classification based on data set similarity</title>
+      <title>Bayesian joint state and parameter tracking in autoregressive models</title>
+      <link>https://wmkouw.github.io/publication/vmpar-hgf/</link>
+      <pubDate>Wed, 04 Mar 2020 12:00:00 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/vmpar-hgf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The data representativeness criterion</title>
       <link>https://wmkouw.github.io/publication/drc/</link>
       <pubDate>Thu, 27 Feb 2020 10:21:16 +0100</pubDate>
       
@@ -175,35 +184,6 @@
 &lt;p&gt;Generalizing machine learning algorithms across medical centers is difficult. Data is often strongly biased towards each center, leading to different mappings from medical image X to segmented image Y [&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/5977031&#34; target=&#34;_blank&#34;&gt;1&lt;/a&gt;].&lt;/p&gt;
 
 &lt;p&gt;Instead of designing an adaptive classification model that would attempt to adjust its mapping X → Y for each center, I inform an unsupervised Bayesian segmentation model with how Y is supposed to look like. Specifically, I fit a smoothness prior on segmentations produced in one medical center and incorporate that as an informative empirical prior in a variational Bayesian image segmentation model [&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1077314216300285&#34; target=&#34;_blank&#34;&gt;2&lt;/a&gt;]. This model will produce segmentations in a target medical center that are as smooth as the segmentations produced in the source medical center.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What is domain-adaptive machine learning?</title>
-      <link>https://wmkouw.github.io/post/domain_adaptation/</link>
-      <pubDate>Fri, 01 Feb 2019 12:19:17 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/post/domain_adaptation/</guid>
-      <description>&lt;p&gt;Intelligent systems are deployed for a wide array of tasks, such as diagnosing patients, recognizing faces or translating texts &lt;a href=&#34;https://www.quantamagazine.org/the-rise-of-computer-aided-explanation-20150723/&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;. They are called &amp;ldquo;intelligent&amp;rdquo; because these machines are not specifically programmed to perform the task. Instead, they &lt;em&gt;learn&lt;/em&gt; to do their job from a &amp;ldquo;training set&amp;rdquo; of examples. For example, the system might be told to diagnose heart disease in patients based on biometrics such as age and cholesterol level. These biometrics vary across people and there is no fixed rule to form a diagnosis (e.g. &amp;ldquo;if older than 50 and cholesterol over 400, then patient is sick&amp;rdquo;). But, given enough examples of previous patients, the system can estimate the &lt;em&gt;risk&lt;/em&gt; of heart disease. The success of these types of systems has been stunning, mostly due to large-scale data collection efforts.&lt;/p&gt;
-
-&lt;p&gt;The design of intelligent systems is based on statistical learning theory. A statistical classification model, or &lt;em&gt;classifier&lt;/em&gt;, will find a function to relate the biometrics in the examples to their diagnosis &lt;a href=&#34;https://arxiv.org/pdf/1710.09230.pdf&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt;. Each example, e.g. a healthy patient with a cholesterol level of 300, is a sample from an underlying probability distribution over possible levels of cholesterol in healthy or diseased patients. As the model sees more examples, it gets a better idea of what values are normal for healthy patients and what levels are to be expected for patients with heart disease. As such, it refines its function relating biometrics and diagnosis. We say that a model &lt;em&gt;generalizes&lt;/em&gt; when it can accurately classify new examples.&lt;/p&gt;
-
-&lt;p&gt;Most of what is known on generalization is based on the premise that new examples are drawn from the same distribution as the training examples. However, that is not always the case. For example, suppose you measure age and cholesterol in two groups of patients at a particular hospital. One with and without cardiac problems. The figure below visualizes such a dataset with a scatterplot:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://wmkouw.github.io/img/hdis_budapest.png&#34; alt=&#34;Data from Budapest in Hungary&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You now fit a classifier and validate the model on new patients arriving to the hospital. The system works well and people are happy. Doctors from the US hear of your work and ask if they can use your model in their hospital. Sure, you say, and help them deploy it. However, it doesn&amp;rsquo;t work so well in the other hospital. What&amp;rsquo;s going on?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://wmkouw.github.io/img/hdis_longbeach.png&#34; alt=&#34;Data from Budapest in Hungary&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As the scatterplot above shows, the patients from the other hospital are - on average - older. The system has been finely attuned to precise values of age and cholesterol, and will subsequently think that nearly all of the new patients are sick. The model is not designed to handle the shift in the data and will perform sub-optimally.&lt;/p&gt;
-
-&lt;p&gt;These types of learning settings are called &lt;em&gt;domain&lt;/em&gt; &lt;em&gt;adaptation&lt;/em&gt; problems &lt;a href=&#34;https://www.researchgate.net/publication/333395296_An_introduction_to_domain_adaptation_and_transfer_learning&#34; target=&#34;_blank&#34;&gt;[3]&lt;/a&gt;, where one hospital is the target &amp;ldquo;domain&amp;rdquo; and the other hospital is an additional source of information, called the &amp;ldquo;source domain&amp;rdquo;. The goal of a &amp;ldquo;domain-adaptive&amp;rdquo; classifier is to learn from the source domain and &amp;ldquo;adapt&amp;rdquo; to perform well in the target domain. As machine learning faces more complicated challenges, data shifts become more abundant and the need for adaptive models rises.&lt;/p&gt;
-
-&lt;p&gt;References&lt;br /&gt;
-[1] &lt;a href=&#34;https://www.quantamagazine.org/the-rise-of-computer-aided-explanation-20150723/&#34; target=&#34;_blank&#34;&gt;The rise of computer-aided explanation. Nielsen, Quanta Magazine, 2015.&lt;/a&gt; &lt;br /&gt;
-[2] &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/B9780128117880000056&#34; target=&#34;_blank&#34;&gt;Supervised classification: Quite a brief overview. Loog, Machine Learning Techniques for Space Weather, 2018.&lt;/a&gt; &lt;br /&gt;
-[3] &lt;a href=&#34;https://www.researchgate.net/publication/333395296_An_introduction_to_domain_adaptation_and_transfer_learning&#34; target=&#34;_blank&#34;&gt;An introduction to domain adaptation and transfer learning. Kouw &amp;amp; Loog, Tech Report TU Delft, 2018.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
