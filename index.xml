@@ -6,8 +6,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 04 Mar 2020 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 09:11:43 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Schedule-free variational message passing for Bayesian filtering</title>
+      <link>https://wmkouw.github.io/talk/neuromatch202/</link>
+      <pubDate>Sat, 28 Mar 2020 09:11:43 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/talk/neuromatch202/</guid>
+      <description>&lt;p&gt;In Bayesian filtering, states and parameters of probabilistic state-space models are inferred in an online manner. Using the Free Energy Principle, the state-space model is cast to a generative model &lt;em&gt;p&lt;/em&gt; and the posterior distributions of interest are approximated using recognition distributions or beliefs &lt;em&gt;q&lt;/em&gt;. The factorisation of state-space models into state transitions and observation likelihoods over time supports forming a factor graph and performing inference via message passing.&lt;/p&gt;
+
+&lt;p&gt;Tools for message passing on factor graphs typically employ a scheduling procedure, in which a separate algorithm or compiler takes the model description and returns which nodes should pass messages where at what time. This can be sufficiently expensive to form a bottleneck. Moreover, it&amp;rsquo;s not a biologically plausible mechanism for governing message passing. I explore the possibility of passing messages without a scheduler. A designated terminal node should pass an initial message, which will arrive at an initial variable. The corresponding belief is updated, a local Free Energy is computed and the belief is emitted to neighbouring factor nodes. From there on out, whenever an updated belief arrives at a factor node, the node fires messages to all other variables if the local Free Energy surpasses a threshold. If not, the node becomes silent.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bayesian joint state and parameter tracking in autoregressive models</title>
@@ -171,20 +183,6 @@
       
       <guid>https://wmkouw.github.io/publication/infoprior/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>ccsmooth</title>
-      <link>https://wmkouw.github.io/project/info-prior/</link>
-      <pubDate>Fri, 01 Mar 2019 22:28:22 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/project/info-prior/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Generalizing machine learning algorithms across medical centers is difficult. Data is often strongly biased towards each center, leading to different mappings from medical image X to segmented image Y [&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/5977031&#34; target=&#34;_blank&#34;&gt;1&lt;/a&gt;].&lt;/p&gt;
-
-&lt;p&gt;Instead of designing an adaptive classification model that would attempt to adjust its mapping X → Y for each center, I inform an unsupervised Bayesian segmentation model with how Y is supposed to look like. Specifically, I fit a smoothness prior on segmentations produced in one medical center and incorporate that as an informative empirical prior in a variational Bayesian image segmentation model [&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1077314216300285&#34; target=&#34;_blank&#34;&gt;2&lt;/a&gt;]. This model will produce segmentations in a target medical center that are as smooth as the segmentations produced in the source medical center.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

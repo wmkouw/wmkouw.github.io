@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 15 Nov 2019 13:26:41 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 09:11:43 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bayesian filtering</title>
+      <link>https://wmkouw.github.io/tags/bayesian-filtering/</link>
+      <pubDate>Sat, 28 Mar 2020 09:11:43 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/bayesian-filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational message passing</title>
+      <link>https://wmkouw.github.io/tags/variational-message-passing/</link>
+      <pubDate>Sat, 28 Mar 2020 09:11:43 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/variational-message-passing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>domain-adaptation</title>
@@ -171,15 +189,6 @@
       <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/tags/factor-graphs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational-message-passing</title>
-      <link>https://wmkouw.github.io/tags/variational-message-passing/</link>
-      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/variational-message-passing/</guid>
       <description></description>
     </item>
     
