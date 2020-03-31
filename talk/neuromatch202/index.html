@@ -97,9 +97,9 @@ Tools for message passing on factor graphs typically employ a scheduling procedu
 Tools for message passing on factor graphs typically employ a scheduling procedure, in which a separate algorithm or compiler takes the model description and returns which nodes should pass messages where at what time.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2020-03-28T09:11:43&#43;02:00">
+  <meta property="article:published_time" content="2020-03-31T12:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2020-03-28T09:11:43&#43;02:00">
+  <meta property="article:modified_time" content="2020-03-31T12:00:00&#43;02:00">
   
 
   
@@ -306,7 +306,7 @@ Tools for message passing on factor graphs typically employ a scheduling procedu
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
             
-            Mar 30, 2020
+            Mar 31, 2020
             <div class="talk-time">
               
             </div>
@@ -348,6 +348,10 @@ Tools for message passing on factor graphs typically employ a scheduling procedu
 
 
 
+<a class="btn btn-primary btn-outline" href="https://github.com/wmkouw/wmkouw.github.io/tree/master/talks/wmkouw_neuromatch2020.pdf">
+  Slides
+</a>
+
 
 
 
@@ -371,7 +375,7 @@ Tools for message passing on factor graphs typically employ a scheduling procedu
     <div class="article-style">
       <p>In Bayesian filtering, states and parameters of probabilistic state-space models are inferred in an online manner. Using the Free Energy Principle, the state-space model is cast to a generative model <em>p</em> and the posterior distributions of interest are approximated using recognition distributions or beliefs <em>q</em>. The factorisation of state-space models into state transitions and observation likelihoods over time supports forming a factor graph and performing inference via message passing.</p>
 
-<p>Tools for message passing on factor graphs typically employ a scheduling procedure, in which a separate algorithm or compiler takes the model description and returns which nodes should pass messages where at what time. This can be sufficiently expensive to form a bottleneck. Moreover, it&rsquo;s not a biologically plausible mechanism for governing message passing. I explore the possibility of passing messages without a scheduler. A designated terminal node should pass an initial message, which will arrive at an initial variable. The corresponding belief is updated, a local Free Energy is computed and the belief is emitted to neighbouring factor nodes. From there on out, whenever an updated belief arrives at a factor node, the node fires messages to all other variables if the local Free Energy surpasses a threshold. If not, the node becomes silent.</p>
+<p>Tools for message passing on factor graphs typically employ a scheduling procedure, in which a separate algorithm or compiler takes the model description and returns <em>which</em> nodes should pass messages <em>where</em> at <em>what</em> time. This can be sufficiently expensive to form a bottleneck. Moreover, it&rsquo;s not a biologically plausible mechanism for governing message passing. I explore the possibility of passing messages without a scheduler. A designated terminal node should pass an initial message, which will arrive at an initial variable. The corresponding belief is updated, a local Free Energy is computed and the belief is emitted to neighbouring factor nodes. From there on out, whenever an updated belief arrives at a factor node, the node fires messages to all other variables if the local Free Energy surpasses a threshold. If not, the node becomes silent.</p>
 
     </div>
 
@@ -380,9 +384,11 @@ Tools for message passing on factor graphs typically employ a scheduling procedu
 
 <div class="article-tags">
   
-  <a class="label label-default" href="">variational message passing</a>
+  <a class="label label-default" href="">variational Bayesian inference</a>
   
   <a class="label label-default" href="">Bayesian filtering</a>
+  
+  <a class="label label-default" href="">schedule-free message-passing</a>
   
 </div>
 

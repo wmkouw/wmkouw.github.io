@@ -15,7 +15,7 @@
     <item>
       <title>Schedule-free variational message passing for Bayesian filtering</title>
       <link>https://wmkouw.github.io/talk/neuromatch202/</link>
-      <pubDate>Sat, 28 Mar 2020 09:11:43 +0200</pubDate>
+      <pubDate>Tue, 31 Mar 2020 12:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/talk/neuromatch202/</guid>
       <description>In Bayesian filtering, states and parameters of probabilistic state-space models are inferred in an online manner. Using the Free Energy Principle, the state-space model is cast to a generative model p and the posterior distributions of interest are approximated using recognition distributions or beliefs q. The factorisation of state-space models into state transitions and observation likelihoods over time supports forming a factor graph and performing inference via message passing.

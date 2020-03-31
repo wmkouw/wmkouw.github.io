@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 28 Mar 2020 09:11:43 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,18 +15,27 @@
     <item>
       <title>Bayesian filtering</title>
       <link>https://wmkouw.github.io/tags/bayesian-filtering/</link>
-      <pubDate>Sat, 28 Mar 2020 09:11:43 +0200</pubDate>
+      <pubDate>Tue, 31 Mar 2020 12:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/bayesian-filtering/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>variational message passing</title>
-      <link>https://wmkouw.github.io/tags/variational-message-passing/</link>
-      <pubDate>Sat, 28 Mar 2020 09:11:43 +0200</pubDate>
+      <title>schedule-free message-passing</title>
+      <link>https://wmkouw.github.io/tags/schedule-free-message-passing/</link>
+      <pubDate>Tue, 31 Mar 2020 12:00:00 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/tags/variational-message-passing/</guid>
+      <guid>https://wmkouw.github.io/tags/schedule-free-message-passing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational Bayesian inference</title>
+      <link>https://wmkouw.github.io/tags/variational-bayesian-inference/</link>
+      <pubDate>Tue, 31 Mar 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/variational-bayesian-inference/</guid>
       <description></description>
     </item>
     
@@ -189,6 +198,15 @@
       <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/tags/factor-graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational-message-passing</title>
+      <link>https://wmkouw.github.io/tags/variational-message-passing/</link>
+      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/variational-message-passing/</guid>
       <description></description>
     </item>
     
