@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>forneylab</title>
+      <title>ForneyLab.jl</title>
       <link>https://wmkouw.github.io/project/forneylab/</link>
       <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
       
@@ -31,16 +31,16 @@
     </item>
     
     <item>
-      <title>ccsmooth</title>
+      <title>cc-prior</title>
       <link>https://wmkouw.github.io/project/info-prior/</link>
       <pubDate>Fri, 01 Mar 2019 22:28:22 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/info-prior/</guid>
-      <description>Empirical smoothness prior for Bayesian  image segmentation.</description>
+      <description>Cross-center smoothness prior for variational Bayesian image segmentation.</description>
     </item>
     
     <item>
-      <title>libtlda</title>
+      <title>libTLDA</title>
       <link>https://wmkouw.github.io/project/libtlda/</link>
       <pubDate>Sat, 09 Jun 2018 19:06:57 +0200</pubDate>
       
@@ -49,7 +49,7 @@
     </item>
     
     <item>
-      <title>yeap16</title>
+      <title>boneCT-mfs</title>
       <link>https://wmkouw.github.io/project/mfs-bonecnn/</link>
       <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
       
@@ -58,7 +58,7 @@
     </item>
     
     <item>
-      <title>mrainet</title>
+      <title>mrai-net</title>
       <link>https://wmkouw.github.io/project/mrainet/</link>
       <pubDate>Thu, 01 Jun 2017 18:04:49 +0200</pubDate>
       

@@ -47,7 +47,7 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/talk/neuromatch202/</loc>
+      <loc>https://wmkouw.github.io/talk/neuromatch2020/</loc>
       <lastmod>2020-03-31T12:00:00+02:00</lastmod>
     </url>
     
@@ -340,6 +340,14 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/project/forneylab/</loc>
+      <lastmod>2019-03-07T10:46:36+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/tags/active-inference/</loc>
       <lastmod>2019-03-07T10:46:36+01:00</lastmod>
       <priority>0</priority>
@@ -352,14 +360,6 @@
       <loc>https://wmkouw.github.io/tags/factor-graphs/</loc>
       <lastmod>2019-03-07T10:46:36+01:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/project/forneylab/</loc>
-      <lastmod>2019-03-07T10:46:36+01:00</lastmod>
     </url>
     
   
@@ -459,23 +459,6 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication/tcpr/</loc>
-      <lastmod>2018-09-16T08:45:35+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/robustness/</loc>
-      <lastmod>2018-09-16T08:45:35+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/talk/nsfworkshop-bigdata/</loc>
       <lastmod>2018-09-08T13:18:06+02:00</lastmod>
     </url>
@@ -545,6 +528,32 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/publication/tcpr/</loc>
+      <lastmod>2018-06-21T08:45:35+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/discriminant-analysis/</loc>
+      <lastmod>2018-06-21T08:45:35+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/robustness/</loc>
+      <lastmod>2018-06-21T08:45:35+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/project/libtlda/</loc>
       <lastmod>2018-06-09T19:06:57+02:00</lastmod>
     </url>
@@ -588,17 +597,17 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/maxillo-facial-surgery/</loc>
+      <loc>https://wmkouw.github.io/project/mfs-bonecnn/</loc>
       <lastmod>2017-09-09T19:12:54+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>https://wmkouw.github.io/project/mfs-bonecnn/</loc>
+      <loc>https://wmkouw.github.io/tags/maxillo-facial-surgery/</loc>
       <lastmod>2017-09-09T19:12:54+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   

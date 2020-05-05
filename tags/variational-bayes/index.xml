@@ -31,12 +31,12 @@
     </item>
     
     <item>
-      <title>ccsmooth</title>
+      <title>cc-prior</title>
       <link>https://wmkouw.github.io/project/info-prior/</link>
       <pubDate>Fri, 01 Mar 2019 22:28:22 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/info-prior/</guid>
-      <description>Empirical smoothness prior for Bayesian  image segmentation.</description>
+      <description>Cross-center smoothness prior for variational Bayesian image segmentation.</description>
     </item>
     
   </channel>
