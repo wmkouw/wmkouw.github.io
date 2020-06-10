@@ -48,14 +48,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>boneCT-mfs</title>
-      <link>https://wmkouw.github.io/project/mfs-bonecnn/</link>
-      <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/project/mfs-bonecnn/</guid>
-      <description>Bone tissue recognition from CT-scans of maxillo-facial surgery patients.</description>
-    </item>
-    
   </channel>
 </rss>

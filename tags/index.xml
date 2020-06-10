@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>autoregression</title>
+      <link>https://wmkouw.github.io/tags/autoregression/</link>
+      <pubDate>Tue, 31 Mar 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/autoregression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>schedule-free message-passing</title>
       <link>https://wmkouw.github.io/tags/schedule-free-message-passing/</link>
       <pubDate>Tue, 31 Mar 2020 12:00:00 +0200</pubDate>
@@ -40,38 +49,38 @@
     </item>
     
     <item>
+      <title>hierarchical-gaussian-filter</title>
+      <link>https://wmkouw.github.io/tags/hierarchical-gaussian-filter/</link>
+      <pubDate>Wed, 04 Mar 2020 12:00:00 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/hierarchical-gaussian-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>domain-adaptation</title>
       <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
-      <pubDate>Fri, 15 Nov 2019 13:26:41 +0100</pubDate>
+      <pubDate>Thu, 27 Feb 2020 10:21:16 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/tags/domain-adaptation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>machine-learning</title>
-      <link>https://wmkouw.github.io/tags/machine-learning/</link>
-      <pubDate>Fri, 15 Nov 2019 13:26:41 +0100</pubDate>
+      <title>transfer-learning</title>
+      <link>https://wmkouw.github.io/tags/transfer-learning/</link>
+      <pubDate>Thu, 27 Feb 2020 10:21:16 +0100</pubDate>
       
-      <guid>https://wmkouw.github.io/tags/machine-learning/</guid>
+      <guid>https://wmkouw.github.io/tags/transfer-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>natural-language-processing</title>
       <link>https://wmkouw.github.io/tags/natural-language-processing/</link>
-      <pubDate>Fri, 15 Nov 2019 13:26:41 +0100</pubDate>
+      <pubDate>Mon, 11 Nov 2019 06:00:40 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>temporal-drift</title>
-      <link>https://wmkouw.github.io/tags/temporal-drift/</link>
-      <pubDate>Fri, 15 Nov 2019 13:26:41 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/temporal-drift/</guid>
       <description></description>
     </item>
     
@@ -81,6 +90,15 @@
       <pubDate>Mon, 11 Nov 2019 06:00:40 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/tags/subspace-alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temporal-drift</title>
+      <link>https://wmkouw.github.io/tags/temporal-drift/</link>
+      <pubDate>Mon, 11 Nov 2019 06:00:40 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/temporal-drift/</guid>
       <description></description>
     </item>
     
@@ -121,11 +139,11 @@
     </item>
     
     <item>
-      <title>transfer-learning</title>
-      <link>https://wmkouw.github.io/tags/transfer-learning/</link>
+      <title>machine-learning</title>
+      <link>https://wmkouw.github.io/tags/machine-learning/</link>
       <pubDate>Mon, 07 Oct 2019 16:13:59 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/tags/transfer-learning/</guid>
+      <guid>https://wmkouw.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -184,33 +202,6 @@
     </item>
     
     <item>
-      <title>active-inference</title>
-      <link>https://wmkouw.github.io/tags/active-inference/</link>
-      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/active-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>factor-graphs</title>
-      <link>https://wmkouw.github.io/tags/factor-graphs/</link>
-      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/factor-graphs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational-message-passing</title>
-      <link>https://wmkouw.github.io/tags/variational-message-passing/</link>
-      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/variational-message-passing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>acquisition-variation</title>
       <link>https://wmkouw.github.io/tags/acquisition-variation/</link>
       <pubDate>Wed, 06 Mar 2019 14:13:32 +0100</pubDate>
@@ -220,16 +211,7 @@
     </item>
     
     <item>
-      <title>cross-center</title>
-      <link>https://wmkouw.github.io/tags/cross-center/</link>
-      <pubDate>Fri, 01 Mar 2019 22:28:22 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/cross-center/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>additive manufacturing</title>
+      <title>additive-manufacturing</title>
       <link>https://wmkouw.github.io/tags/additive-manufacturing/</link>
       <pubDate>Sat, 01 Dec 2018 09:44:47 +0200</pubDate>
       
@@ -328,15 +310,6 @@
     </item>
     
     <item>
-      <title>maxillo-facial-surgery</title>
-      <link>https://wmkouw.github.io/tags/maxillo-facial-surgery/</link>
-      <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/maxillo-facial-surgery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>variance-reduction</title>
       <link>https://wmkouw.github.io/tags/variance-reduction/</link>
       <pubDate>Thu, 09 Mar 2017 19:16:44 +0200</pubDate>
@@ -360,24 +333,6 @@
       <pubDate>Fri, 27 May 2016 19:18:33 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/robust-estimator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>maximum-contrastive-pessimistic-likelihood</title>
-      <link>https://wmkouw.github.io/tags/maximum-contrastive-pessimistic-likelihood/</link>
-      <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/maximum-contrastive-pessimistic-likelihood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dropout</title>
-      <link>https://wmkouw.github.io/tags/dropout/</link>
-      <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/dropout/</guid>
       <description></description>
     </item>
     
