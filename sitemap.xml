@@ -4,7 +4,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication_types/1/</loc>
-      <lastmod>2020-03-31T12:00:00+02:00</lastmod>
+      <lastmod>2020-06-21T12:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,7 +13,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/bayesian-filtering/</loc>
-      <lastmod>2020-03-31T12:00:00+02:00</lastmod>
+      <lastmod>2020-06-21T12:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -22,7 +22,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication/vmphar/</loc>
-      <lastmod>2020-03-31T12:00:00+02:00</lastmod>
+      <lastmod>2020-06-21T12:00:00+02:00</lastmod>
     </url>
     
   
@@ -30,7 +30,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/publication_types/</loc>
-      <lastmod>2020-03-31T12:00:00+02:00</lastmod>
+      <lastmod>2020-06-21T12:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -39,7 +39,42 @@
     <url>
     
       <loc>https://wmkouw.github.io/</loc>
-      <lastmod>2020-03-31T12:00:00+02:00</lastmod>
+      <lastmod>2020-06-21T12:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/</loc>
+      <lastmod>2020-06-21T12:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/autoregression/</loc>
+      <lastmod>2020-06-21T12:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication/vmpar-hgf/</loc>
+      <lastmod>2020-06-11T12:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/hierarchical-gaussian-filter/</loc>
+      <lastmod>2020-06-11T12:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -49,24 +84,6 @@
     
       <loc>https://wmkouw.github.io/talk/neuromatch2020/</loc>
       <lastmod>2020-03-31T12:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/</loc>
-      <lastmod>2020-03-31T12:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/autoregression/</loc>
-      <lastmod>2020-03-31T12:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -84,23 +101,6 @@
     
       <loc>https://wmkouw.github.io/tags/variational-bayesian-inference/</loc>
       <lastmod>2020-03-31T12:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication/vmpar-hgf/</loc>
-      <lastmod>2020-03-04T12:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/hierarchical-gaussian-filter/</loc>
-      <lastmod>2020-03-04T12:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

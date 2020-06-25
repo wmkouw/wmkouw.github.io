@@ -6,15 +6,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 31 Mar 2020 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 12:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Online variational message passing in hierarchical autoregressive models</title>
       <link>https://wmkouw.github.io/publication/vmphar/</link>
-      <pubDate>Tue, 31 Mar 2020 12:00:00 +0200</pubDate>
+      <pubDate>Sun, 21 Jun 2020 12:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/publication/vmphar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian joint state and parameter tracking in autoregressive models</title>
+      <link>https://wmkouw.github.io/publication/vmpar-hgf/</link>
+      <pubDate>Thu, 11 Jun 2020 12:00:00 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/vmpar-hgf/</guid>
       <description></description>
     </item>
     
@@ -28,15 +37,6 @@
 
 &lt;p&gt;Tools for message passing on factor graphs typically employ a scheduling procedure, in which a separate algorithm or compiler takes the model description and returns &lt;em&gt;which&lt;/em&gt; nodes should pass messages &lt;em&gt;where&lt;/em&gt; at &lt;em&gt;what&lt;/em&gt; time. This can be sufficiently expensive to form a bottleneck. Moreover, it&amp;rsquo;s not a biologically plausible mechanism for governing message passing. I explore the possibility of passing messages without a scheduler. A designated terminal node should pass an initial message, which will arrive at an initial variable. The corresponding belief is updated, a local Free Energy is computed and the belief is emitted to neighbouring factor nodes. From there on out, whenever an updated belief arrives at a factor node, the node fires messages to all other variables if the local Free Energy surpasses a threshold. If not, the node becomes silent.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Bayesian joint state and parameter tracking in autoregressive models</title>
-      <link>https://wmkouw.github.io/publication/vmpar-hgf/</link>
-      <pubDate>Wed, 04 Mar 2020 12:00:00 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/vmpar-hgf/</guid>
-      <description></description>
     </item>
     
     <item>

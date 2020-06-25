@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 31 Mar 2020 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/bayesian-filtering/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>Online variational message passing in hierarchical autoregressive models</title>
       <link>https://wmkouw.github.io/publication/vmphar/</link>
-      <pubDate>Tue, 31 Mar 2020 12:00:00 +0200</pubDate>
+      <pubDate>Sun, 21 Jun 2020 12:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/publication/vmphar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian joint state and parameter tracking in autoregressive models</title>
+      <link>https://wmkouw.github.io/publication/vmpar-hgf/</link>
+      <pubDate>Thu, 11 Jun 2020 12:00:00 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/vmpar-hgf/</guid>
       <description></description>
     </item>
     
@@ -29,15 +38,6 @@
       <guid>https://wmkouw.github.io/talk/neuromatch2020/</guid>
       <description>In Bayesian filtering, states and parameters of probabilistic state-space models are inferred in an online manner. Using the Free Energy Principle, the state-space model is cast to a generative model p and the posterior distributions of interest are approximated using recognition distributions or beliefs q. The factorisation of state-space models into state transitions and observation likelihoods over time supports forming a factor graph and performing inference via message passing.
 Tools for message passing on factor graphs typically employ a scheduling procedure, in which a separate algorithm or compiler takes the model description and returns which nodes should pass messages where at what time.</description>
-    </item>
-    
-    <item>
-      <title>Bayesian joint state and parameter tracking in autoregressive models</title>
-      <link>https://wmkouw.github.io/publication/vmpar-hgf/</link>
-      <pubDate>Wed, 04 Mar 2020 12:00:00 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/vmpar-hgf/</guid>
-      <description></description>
     </item>
     
   </channel>

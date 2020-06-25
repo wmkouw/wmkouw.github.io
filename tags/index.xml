@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 31 Mar 2020 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Bayesian filtering</title>
       <link>https://wmkouw.github.io/tags/bayesian-filtering/</link>
-      <pubDate>Tue, 31 Mar 2020 12:00:00 +0200</pubDate>
+      <pubDate>Sun, 21 Jun 2020 12:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/bayesian-filtering/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>autoregression</title>
       <link>https://wmkouw.github.io/tags/autoregression/</link>
-      <pubDate>Tue, 31 Mar 2020 12:00:00 +0200</pubDate>
+      <pubDate>Sun, 21 Jun 2020 12:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/autoregression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hierarchical-gaussian-filter</title>
+      <link>https://wmkouw.github.io/tags/hierarchical-gaussian-filter/</link>
+      <pubDate>Thu, 11 Jun 2020 12:00:00 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/hierarchical-gaussian-filter/</guid>
       <description></description>
     </item>
     
@@ -45,15 +54,6 @@
       <pubDate>Tue, 31 Mar 2020 12:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/variational-bayesian-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hierarchical-gaussian-filter</title>
-      <link>https://wmkouw.github.io/tags/hierarchical-gaussian-filter/</link>
-      <pubDate>Wed, 04 Mar 2020 12:00:00 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/hierarchical-gaussian-filter/</guid>
       <description></description>
     </item>
     

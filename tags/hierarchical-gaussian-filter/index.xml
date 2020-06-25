@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 04 Mar 2020 12:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/hierarchical-gaussian-filter/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Bayesian joint state and parameter tracking in autoregressive models</title>
       <link>https://wmkouw.github.io/publication/vmpar-hgf/</link>
-      <pubDate>Wed, 04 Mar 2020 12:00:00 +0100</pubDate>
+      <pubDate>Thu, 11 Jun 2020 12:00:00 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/publication/vmpar-hgf/</guid>
       <description></description>
