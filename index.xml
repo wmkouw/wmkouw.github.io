@@ -19,6 +19,18 @@
     </item>
     
     <item>
+      <title>AR-HGF</title>
+      <link>https://wmkouw.github.io/project/ar-hgf/</link>
+      <pubDate>Thu, 11 Jun 2020 13:26:41 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/ar-hgf/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;We address the problem of online Bayesian state and parameter tracking in autoregressive (AR) models with time-varying process noise variance. The involved marginalization and expectation integrals cannot be analytically solved. Moreover, the online tracking constraint makes sampling and batch learning methods unsuitable for this problem. We propose a hybrid variational message passing algorithm that robustly tracks the time-varying dynamics of the latent states, AR coefficients and process noise variance. Since message passing in a factor graph is a highly modular inference approach, the proposed methods easily extend to other non-stationary dynamic modeling problems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bayesian joint state and parameter tracking in autoregressive models</title>
       <link>https://wmkouw.github.io/publication/vmpar-hgf/</link>
       <pubDate>Thu, 11 Jun 2020 12:00:00 +0100</pubDate>
@@ -63,7 +75,7 @@
     </item>
     
     <item>
-      <title>ssa-nlp</title>
+      <title>SSA-NLP</title>
       <link>https://wmkouw.github.io/project/ssa-nlp/</link>
       <pubDate>Fri, 15 Nov 2019 13:26:41 +0100</pubDate>
       
@@ -168,20 +180,6 @@
       <description>&lt;p&gt;This conference poster refers back to the project on accounting for variation in medical images due to MR acquisition protocol. Acquisition variation is caused by different vendors, mechanical calibrations and environmental effects at different medical centers, and hamper generalization of medical image processing techniques that employ machine learning.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://wmkouw.github.io/posters/ISBI2019_wmkouw.png&#34; alt=&#34;Poster ISBI2019&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ForneyLab.jl</title>
-      <link>https://wmkouw.github.io/project/forneylab/</link>
-      <pubDate>Thu, 07 Mar 2019 10:46:36 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/project/forneylab/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;ForneyLab.jl is a Julia package for automatic generation of (Bayesian) inference algorithms. Given a probabilistic model, ForneyLab generates efficient Julia code for message-passing based inference &lt;a href=&#34;https://arxiv.org/abs/1811.03407&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;. It uses the model structure to generate an algorithm that consists of a sequence of local computations on a Forney-style factor graph (FFG) representation of the model &lt;a href=&#34;https://ieeexplore.ieee.org/document/4282128/&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Marco Cox, Thijs van de Laar en Bert de Vries are the ones who constructed ForneyLab. At the moment, I contribute to the package through support with numerical stability, ease-of-use, and documentation. In the future, I will be adding functionality.&lt;/p&gt;
 </description>
     </item>
     

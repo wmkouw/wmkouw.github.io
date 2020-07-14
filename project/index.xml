@@ -13,7 +13,16 @@
     
     
     <item>
-      <title>ssa-nlp</title>
+      <title>AR-HGF</title>
+      <link>https://wmkouw.github.io/project/ar-hgf/</link>
+      <pubDate>Thu, 11 Jun 2020 13:26:41 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/ar-hgf/</guid>
+      <description>Online inference for an autoregressive process with time-varying variance.</description>
+    </item>
+    
+    <item>
+      <title>SSA-NLP</title>
       <link>https://wmkouw.github.io/project/ssa-nlp/</link>
       <pubDate>Fri, 15 Nov 2019 13:26:41 +0100</pubDate>
       
@@ -31,7 +40,7 @@
     </item>
     
     <item>
-      <title>cc-prior</title>
+      <title>CC-Priors</title>
       <link>https://wmkouw.github.io/project/info-prior/</link>
       <pubDate>Fri, 01 Mar 2019 22:28:22 +0200</pubDate>
       
@@ -49,16 +58,16 @@
     </item>
     
     <item>
-      <title>boneCT-mfs</title>
-      <link>https://wmkouw.github.io/project/mfs-bonecnn/</link>
+      <title>CT-bone-seg</title>
+      <link>https://wmkouw.github.io/project/ct-bone-seg/</link>
       <pubDate>Sat, 09 Sep 2017 19:12:54 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/project/mfs-bonecnn/</guid>
+      <guid>https://wmkouw.github.io/project/ct-bone-seg/</guid>
       <description>Bone tissue recognition from CT-scans of maxillo-facial surgery patients.</description>
     </item>
     
     <item>
-      <title>mrai-net</title>
+      <title>MRAI-net</title>
       <link>https://wmkouw.github.io/project/mrainet/</link>
       <pubDate>Thu, 01 Jun 2017 18:04:49 +0200</pubDate>
       
@@ -67,16 +76,16 @@
     </item>
     
     <item>
-      <title>tcpr</title>
+      <title>TCP</title>
       <link>https://wmkouw.github.io/project/tcpr/</link>
       <pubDate>Sun, 01 May 2016 18:05:01 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/project/tcpr/</guid>
-      <description>Target contrastive robust risk, for safe domain adaptation.</description>
+      <description>Target contrastive robust risk for safe domain adaptation.</description>
     </item>
     
     <item>
-      <title>flda</title>
+      <title>FLDA</title>
       <link>https://wmkouw.github.io/project/flda/</link>
       <pubDate>Tue, 01 Dec 2015 18:05:05 +0200</pubDate>
       
