@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 15 Jul 2020 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 10:21:16 +0100</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2</title>
+      <link>https://wmkouw.github.io/publication_types/2/</link>
+      <pubDate>Mon, 20 Jul 2020 10:21:16 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>1</title>
@@ -22,29 +31,20 @@
     </item>
     
     <item>
-      <title>3</title>
-      <link>https://wmkouw.github.io/publication_types/3/</link>
-      <pubDate>Thu, 27 Feb 2020 10:21:16 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication_types/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>https://wmkouw.github.io/publication_types/2/</link>
-      <pubDate>Mon, 07 Oct 2019 16:13:59 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>4</title>
       <link>https://wmkouw.github.io/publication_types/4/</link>
       <pubDate>Mon, 31 Dec 2018 14:46:06 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/publication_types/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://wmkouw.github.io/publication_types/3/</link>
+      <pubDate>Thu, 21 Jun 2018 08:45:35 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication_types/3/</guid>
       <description></description>
     </item>
     
