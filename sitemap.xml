@@ -3,8 +3,8 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication_types/2/</loc>
-      <lastmod>2020-07-20T10:21:16+01:00</lastmod>
+      <loc>https://wmkouw.github.io/publication_types/1/</loc>
+      <lastmod>2020-09-01T12:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -12,8 +12,25 @@
     
     <url>
     
+      <loc>https://wmkouw.github.io/tags/bayesian-filtering/</loc>
+      <lastmod>2020-09-01T12:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication/nsi-silverbox/</loc>
+      <lastmod>2020-09-01T12:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://wmkouw.github.io/publication_types/</loc>
-      <lastmod>2020-07-20T10:21:16+01:00</lastmod>
+      <lastmod>2020-09-01T12:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -22,7 +39,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/</loc>
-      <lastmod>2020-07-20T10:21:16+01:00</lastmod>
+      <lastmod>2020-09-01T12:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -31,6 +48,33 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/</loc>
+      <lastmod>2020-09-01T12:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/free-energy-minimisation/</loc>
+      <lastmod>2020-09-01T12:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/system-identification/</loc>
+      <lastmod>2020-09-01T12:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication_types/2/</loc>
       <lastmod>2020-07-20T10:21:16+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -58,50 +102,6 @@
     
       <loc>https://wmkouw.github.io/tags/transfer-learning/</loc>
       <lastmod>2020-07-20T10:21:16+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication_types/1/</loc>
-      <lastmod>2020-07-15T12:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication/nsi-silverbox/</loc>
-      <lastmod>2020-07-15T12:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/bayesian-filtering/</loc>
-      <lastmod>2020-07-15T12:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/free-energy-minimisation/</loc>
-      <lastmod>2020-07-15T12:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/system-identification/</loc>
-      <lastmod>2020-07-15T12:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

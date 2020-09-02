@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 20 Jul 2020 10:21:16 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 12:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Online system identification in a Duffing oscillator by free energy minimisation</title>
+      <link>https://wmkouw.github.io/publication/nsi-silverbox/</link>
+      <pubDate>Tue, 01 Sep 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/nsi-silverbox/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The data representativeness criterion</title>
@@ -15,15 +24,6 @@
       <pubDate>Mon, 20 Jul 2020 10:21:16 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/publication/drc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online system identification in a Duffing oscillator by free energy minimisation</title>
-      <link>https://wmkouw.github.io/publication/nsi-silverbox/</link>
-      <pubDate>Wed, 15 Jul 2020 12:00:00 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/nsi-silverbox/</guid>
       <description></description>
     </item>
     
