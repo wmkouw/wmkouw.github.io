@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Sep 2020 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Bayesian filtering</title>
       <link>https://wmkouw.github.io/tags/bayesian-filtering/</link>
-      <pubDate>Tue, 01 Sep 2020 12:00:00 +0200</pubDate>
+      <pubDate>Sun, 13 Sep 2020 09:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/bayesian-filtering/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>free-energy-minimisation</title>
       <link>https://wmkouw.github.io/tags/free-energy-minimisation/</link>
-      <pubDate>Tue, 01 Sep 2020 12:00:00 +0200</pubDate>
+      <pubDate>Sun, 13 Sep 2020 09:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/free-energy-minimisation/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>system-identification</title>
       <link>https://wmkouw.github.io/tags/system-identification/</link>
-      <pubDate>Tue, 01 Sep 2020 12:00:00 +0200</pubDate>
+      <pubDate>Sun, 13 Sep 2020 09:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/system-identification/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>domain-adaptation</title>
       <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
-      <pubDate>Mon, 20 Jul 2020 10:21:16 +0100</pubDate>
+      <pubDate>Tue, 11 Aug 2020 10:21:16 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/tags/domain-adaptation/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>transfer-learning</title>
       <link>https://wmkouw.github.io/tags/transfer-learning/</link>
-      <pubDate>Mon, 20 Jul 2020 10:21:16 +0100</pubDate>
+      <pubDate>Tue, 11 Aug 2020 10:21:16 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/tags/transfer-learning/</guid>
       <description></description>
