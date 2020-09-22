@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Bayesian filtering</title>
+      <title>bayesian-filtering</title>
       <link>https://wmkouw.github.io/tags/bayesian-filtering/</link>
       <pubDate>Sun, 13 Sep 2020 09:00:00 +0200</pubDate>
       
@@ -63,6 +63,15 @@
       <pubDate>Sun, 21 Jun 2020 12:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/autoregression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>factor-graphs</title>
+      <link>https://wmkouw.github.io/tags/factor-graphs/</link>
+      <pubDate>Sun, 21 Jun 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/factor-graphs/</guid>
       <description></description>
     </item>
     
