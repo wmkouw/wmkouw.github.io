@@ -3,8 +3,18 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/talk/iwai2020/</loc>
-      <lastmod>2020-09-13T09:00:00+02:00</lastmod>
+      <loc>https://wmkouw.github.io/tags/bayesian-filtering/</loc>
+      <lastmod>2020-11-05T15:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/kalman-filter/</loc>
+      <lastmod>2020-11-05T15:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -12,7 +22,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/</loc>
-      <lastmod>2020-09-13T09:00:00+02:00</lastmod>
+      <lastmod>2020-11-05T15:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -21,7 +31,7 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/</loc>
-      <lastmod>2020-09-13T09:00:00+02:00</lastmod>
+      <lastmod>2020-11-05T15:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -29,9 +39,25 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/bayesian-filtering/</loc>
-      <lastmod>2020-09-13T09:00:00+02:00</lastmod>
+      <loc>https://wmkouw.github.io/talk/sioux-seminar2020/</loc>
+      <lastmod>2020-11-05T15:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/variational-bayesian-inference/</loc>
+      <lastmod>2020-11-05T15:00:00+02:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/talk/iwai2020/</loc>
+      <lastmod>2020-09-13T09:00:00+02:00</lastmod>
     </url>
     
   
@@ -177,15 +203,6 @@
     <url>
     
       <loc>https://wmkouw.github.io/tags/schedule-free-message-passing/</loc>
-      <lastmod>2020-03-31T12:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/variational-bayesian-inference/</loc>
       <lastmod>2020-03-31T12:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
