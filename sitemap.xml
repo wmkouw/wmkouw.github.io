@@ -3,8 +3,70 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/tags/bayesian-filtering/</loc>
-      <lastmod>2020-11-05T15:00:00+02:00</lastmod>
+      <loc>https://wmkouw.github.io/publication_types/1/</loc>
+      <lastmod>2020-12-21T17:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication_types/</loc>
+      <lastmod>2020-12-21T17:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/</loc>
+      <lastmod>2020-12-21T17:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/</loc>
+      <lastmod>2020-12-21T17:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication/trda/</loc>
+      <lastmod>2020-12-21T17:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/discriminant-analysis/</loc>
+      <lastmod>2020-12-21T17:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
+      <lastmod>2020-12-21T17:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/robust/</loc>
+      <lastmod>2020-12-21T17:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -21,26 +83,17 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/</loc>
-      <lastmod>2020-11-05T15:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/</loc>
-      <lastmod>2020-11-05T15:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/talk/sioux-seminar2020/</loc>
       <lastmod>2020-11-05T15:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/bayesian-filtering/</loc>
+      <lastmod>2020-11-05T15:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -82,26 +135,8 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication_types/1/</loc>
-      <lastmod>2020-09-01T12:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/publication/nsi-silverbox/</loc>
       <lastmod>2020-09-01T12:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication_types/</loc>
-      <lastmod>2020-09-01T12:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -119,15 +154,6 @@
     
       <loc>https://wmkouw.github.io/publication/drc/</loc>
       <lastmod>2020-08-11T10:21:16+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/domain-adaptation/</loc>
-      <lastmod>2020-08-11T10:21:16+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -569,41 +595,6 @@
     
     <url>
     
-      <loc>https://wmkouw.github.io/publication_types/3/</loc>
-      <lastmod>2018-06-21T08:45:35+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/publication/tcpr/</loc>
-      <lastmod>2018-06-21T08:45:35+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/discriminant-analysis/</loc>
-      <lastmod>2018-06-21T08:45:35+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://wmkouw.github.io/tags/robustness/</loc>
-      <lastmod>2018-06-21T08:45:35+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://wmkouw.github.io/project/libtlda/</loc>
       <lastmod>2018-06-09T19:06:57+02:00</lastmod>
     </url>
@@ -649,6 +640,32 @@
     
       <loc>https://wmkouw.github.io/project/ct-bone-seg/</loc>
       <lastmod>2017-09-09T19:12:54+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication_types/3/</loc>
+      <lastmod>2017-06-25T09:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/publication/tcpr/</loc>
+      <lastmod>2017-06-25T09:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://wmkouw.github.io/tags/robustness/</loc>
+      <lastmod>2017-06-25T09:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   

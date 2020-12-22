@@ -7,17 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 05 Nov 2020 15:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Dec 2020 17:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bayesian-filtering</title>
-      <link>https://wmkouw.github.io/tags/bayesian-filtering/</link>
-      <pubDate>Thu, 05 Nov 2020 15:00:00 +0200</pubDate>
+      <title>discriminant-analysis</title>
+      <link>https://wmkouw.github.io/tags/discriminant-analysis/</link>
+      <pubDate>Mon, 21 Dec 2020 17:00:00 +0200</pubDate>
       
-      <guid>https://wmkouw.github.io/tags/bayesian-filtering/</guid>
+      <guid>https://wmkouw.github.io/tags/discriminant-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>domain-adaptation</title>
+      <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
+      <pubDate>Mon, 21 Dec 2020 17:00:00 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robust</title>
+      <link>https://wmkouw.github.io/tags/robust/</link>
+      <pubDate>Mon, 21 Dec 2020 17:00:00 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/robust/</guid>
       <description></description>
     </item>
     
@@ -27,6 +45,15 @@
       <pubDate>Thu, 05 Nov 2020 15:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/kalman-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bayesian-filtering</title>
+      <link>https://wmkouw.github.io/tags/bayesian-filtering/</link>
+      <pubDate>Thu, 05 Nov 2020 15:00:00 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/bayesian-filtering/</guid>
       <description></description>
     </item>
     
@@ -54,15 +81,6 @@
       <pubDate>Sun, 13 Sep 2020 09:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/system-identification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>domain-adaptation</title>
-      <link>https://wmkouw.github.io/tags/domain-adaptation/</link>
-      <pubDate>Tue, 11 Aug 2020 10:21:16 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/domain-adaptation/</guid>
       <description></description>
     </item>
     
@@ -301,24 +319,6 @@
     </item>
     
     <item>
-      <title>discriminant-analysis</title>
-      <link>https://wmkouw.github.io/tags/discriminant-analysis/</link>
-      <pubDate>Thu, 21 Jun 2018 08:45:35 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/discriminant-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robustness</title>
-      <link>https://wmkouw.github.io/tags/robustness/</link>
-      <pubDate>Thu, 21 Jun 2018 08:45:35 +0200</pubDate>
-      
-      <guid>https://wmkouw.github.io/tags/robustness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>MRI</title>
       <link>https://wmkouw.github.io/tags/mri/</link>
       <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
@@ -342,6 +342,15 @@
       <pubDate>Wed, 09 May 2018 19:38:51 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/tags/representation-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robustness</title>
+      <link>https://wmkouw.github.io/tags/robustness/</link>
+      <pubDate>Sun, 25 Jun 2017 09:00:00 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/tags/robustness/</guid>
       <description></description>
     </item>
     

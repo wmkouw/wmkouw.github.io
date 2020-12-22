@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 21 Jun 2018 08:45:35 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Dec 2020 17:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://wmkouw.github.io/tags/discriminant-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Target contrastive pessimistic discriminant analysis</title>
+      <title>Target robust discriminant analysis</title>
+      <link>https://wmkouw.github.io/publication/trda/</link>
+      <pubDate>Mon, 21 Dec 2020 17:00:00 +0200</pubDate>
+      
+      <guid>https://wmkouw.github.io/publication/trda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target contrastive pessimistic risk for robust domain adaptation</title>
       <link>https://wmkouw.github.io/publication/tcpr/</link>
-      <pubDate>Thu, 21 Jun 2018 08:45:35 +0200</pubDate>
+      <pubDate>Sun, 25 Jun 2017 09:00:00 +0200</pubDate>
       
       <guid>https://wmkouw.github.io/publication/tcpr/</guid>
       <description></description>
