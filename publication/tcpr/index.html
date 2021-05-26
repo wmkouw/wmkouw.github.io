@@ -15,7 +15,7 @@
   
     
   
-  <meta name="description" content="In domain adaptation, classifiers with information from a source domain adapt to generalize to a target domain. However, an adaptive classifier can perform worse than a non-adaptive classifier due to invalid assumptions, increased sensitivity to estimation errors or model misspecification. Our goal is to develop a domain-adaptive classifier that is robust in the sense that it does not rely on restrictive assumptions on how the source and target domains relate to each other and that it does not perform worse than the non-adaptive classifier. We formulate a conservative parameter estimator that only deviates from the source classifier when a lower risk is guaranteed for all possible labellings of the given target samples. We derive the classical least-squares and discriminant analysis cases and show that these perform on par with state-of-the-art domain adaptive classifiers in sample selection bias settings, while outperforming them in more general domain adaptation settings. ">
+  <meta name="description" content="Consider a domain-adaptive supervised learning setting, where a classifier learns from labeled data in a source domain and unlabeled data in a target domain to predict the corresponding target labels. If the classifier’s assumption on the relationship between domains (e.g. covariate shift, common subspace, etc.) is valid, then it will usually outperform a non-adaptive source classifier. If its assumption is invalid, it can perform substantially worse. Validating assumptions on domain relationships is not possible without target labels. We argue that, in order to make domain-adaptive classifiers more practical, it is necessary to focus on robustness; robust in the sense that an adaptive classifier will still perform at least as well as a non-adaptive classifier without having to rely on the validity of strong assumptions. With this objective in mind, we derive a conservative parameter estimation technique, which is transductive in the sense of Vapnik and Chervonenkis, and show for discriminant analysis that the new estimator is guaranteed to achieve a lower risk on the given target samples compared to the source classifier. Experiments on problems with geographical sampling bias indicate that our parameter estimator performs well.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/publication/tcpr/">
@@ -91,20 +91,20 @@
   
   <meta property="og:site_name" content="Researcher profile">
   <meta property="og:url" content="https://wmkouw.github.io/publication/tcpr/">
-  <meta property="og:title" content="Target contrastive pessimistic risk for robust domain adaptation | Researcher profile">
-  <meta property="og:description" content="In domain adaptation, classifiers with information from a source domain adapt to generalize to a target domain. However, an adaptive classifier can perform worse than a non-adaptive classifier due to invalid assumptions, increased sensitivity to estimation errors or model misspecification. Our goal is to develop a domain-adaptive classifier that is robust in the sense that it does not rely on restrictive assumptions on how the source and target domains relate to each other and that it does not perform worse than the non-adaptive classifier. We formulate a conservative parameter estimator that only deviates from the source classifier when a lower risk is guaranteed for all possible labellings of the given target samples. We derive the classical least-squares and discriminant analysis cases and show that these perform on par with state-of-the-art domain adaptive classifiers in sample selection bias settings, while outperforming them in more general domain adaptation settings. ">
+  <meta property="og:title" content="Robust domain-adaptive discriminant analysis | Researcher profile">
+  <meta property="og:description" content="Consider a domain-adaptive supervised learning setting, where a classifier learns from labeled data in a source domain and unlabeled data in a target domain to predict the corresponding target labels. If the classifier’s assumption on the relationship between domains (e.g. covariate shift, common subspace, etc.) is valid, then it will usually outperform a non-adaptive source classifier. If its assumption is invalid, it can perform substantially worse. Validating assumptions on domain relationships is not possible without target labels. We argue that, in order to make domain-adaptive classifiers more practical, it is necessary to focus on robustness; robust in the sense that an adaptive classifier will still perform at least as well as a non-adaptive classifier without having to rely on the validity of strong assumptions. With this objective in mind, we derive a conservative parameter estimation technique, which is transductive in the sense of Vapnik and Chervonenkis, and show for discriminant analysis that the new estimator is guaranteed to achieve a lower risk on the given target samples compared to the source classifier. Experiments on problems with geographical sampling bias indicate that our parameter estimator performs well.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2017-06-25T09:00:00&#43;02:00">
+  <meta property="article:published_time" content="2021-05-25T09:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2017-06-25T09:00:00&#43;02:00">
-  
-
+  <meta property="article:modified_time" content="2021-05-25T09:00:00&#43;02:00">
   
 
   
 
-  <title>Target contrastive pessimistic risk for robust domain adaptation | Researcher profile</title>
+  
+
+  <title>Robust domain-adaptive discriminant analysis | Researcher profile</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -262,7 +262,7 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Target contrastive pessimistic risk for robust domain adaptation</h1>
+    <h1 itemprop="name">Robust domain-adaptive discriminant analysis</h1>
     <span class="pub-authors" itemprop="author">
       
       W.M. Kouw, M. Loog
@@ -277,7 +277,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">In domain adaptation, classifiers with information from a source domain adapt to generalize to a target domain. However, an adaptive classifier can perform worse than a non-adaptive classifier due to invalid assumptions, increased sensitivity to estimation errors or model misspecification. Our goal is to develop a domain-adaptive classifier that is robust in the sense that it does not rely on restrictive assumptions on how the source and target domains relate to each other and that it does not perform worse than the non-adaptive classifier. We formulate a conservative parameter estimator that only deviates from the source classifier when a lower risk is guaranteed for all possible labellings of the given target samples. We derive the classical least-squares and discriminant analysis cases and show that these perform on par with state-of-the-art domain adaptive classifiers in sample selection bias settings, while outperforming them in more general domain adaptation settings.</p>
+    <p class="pub-abstract" itemprop="text">Consider a domain-adaptive supervised learning setting, where a classifier learns from labeled data in a source domain and unlabeled data in a target domain to predict the corresponding target labels. If the classifier’s assumption on the relationship between domains (e.g. covariate shift, common subspace, etc.) is valid, then it will usually outperform a non-adaptive source classifier. If its assumption is invalid, it can perform substantially worse. Validating assumptions on domain relationships is not possible without target labels. We argue that, in order to make domain-adaptive classifiers more practical, it is necessary to focus on robustness; robust in the sense that an adaptive classifier will still perform at least as well as a non-adaptive classifier without having to rely on the validity of strong assumptions. With this objective in mind, we derive a conservative parameter estimation technique, which is transductive in the sense of Vapnik and Chervonenkis, and show for discriminant analysis that the new estimator is guaranteed to achieve a lower risk on the given target samples compared to the source classifier. Experiments on problems with geographical sampling bias indicate that our parameter estimator performs well.</p>
     
 
     
@@ -288,8 +288,8 @@
           <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
           <div class="col-xs-12 col-sm-9">
             
-            <a href="https://wmkouw.github.io/publication/#3">
-              Manuscript
+            <a href="https://wmkouw.github.io/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -306,7 +306,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Arxiv, 2017.</div>
+          <div class="col-xs-12 col-sm-9">Pattern Recognition Letters, 2021.</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -320,7 +320,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            June, 2017
+            May, 2021
           </div>
         </div>
       </div>
@@ -343,6 +343,10 @@
   Preprint
 </a>
 
+
+<a class="btn btn-primary btn-outline" href="https://doi.org/10.1016/j.patrec.2021.05.005" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
