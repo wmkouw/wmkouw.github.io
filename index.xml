@@ -28,6 +28,20 @@
     </item>
     
     <item>
+      <title>TU/e 5XSL0</title>
+      <link>https://wmkouw.github.io/teaching/tue-5xsl0/</link>
+      <pubDate>Mon, 19 Apr 2021 09:00:00 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/teaching/tue-5xsl0/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://canvas.tue.nl/courses/16579&#34; target=&#34;_blank&#34;&gt;5XSL0 Fundamentals of Machine Learning&lt;/a&gt; (BMLIP) is an elective course in the Electrical Engineering Bachelor Program of the TU Eindhoven.&lt;/p&gt;
+
+&lt;p&gt;We live in the age of data. The amount of data has been increasing at an exponential rate over the last decades and is expected to continue. Not only is the volume of the data larger than ever before, also the variety in types of data is consistently growing. Due to the enormous progress in sensor technology, we can measure more than ever before. The vast amounts of heterogeneous data harbor useful information that can help in e.g. clinical decision-making, predictive maintenance and visual object detection. However, due to its growing volume and complexity, it becomes increasingly harder for humans to extract this information by manually analyzing the patterns in the data. Machine learning is a subfield of Artificial Intelligence (AI) that focuses on building mathematical models that can extract information from data.&lt;/p&gt;
+
+&lt;p&gt;This course aims to offer a solid theoretical basis for modern machine learning methods. It will teach students the mathematical foundations of machine learning, introduce a number of elementary techniques and discuss methods for evaluation of model performance. These concepts are the fundamental building blocks of modern AI approaches and offer important insights.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Target robust discriminant analysis</title>
       <link>https://wmkouw.github.io/publication/trda/</link>
       <pubDate>Thu, 21 Jan 2021 10:00:00 +0200</pubDate>
@@ -129,12 +143,12 @@
     </item>
     
     <item>
-      <title>TUe 5SSD0 BMLIP</title>
+      <title>TU/e 5SSD0</title>
       <link>https://wmkouw.github.io/teaching/tue-5ssd0/</link>
       <pubDate>Thu, 16 Jan 2020 13:26:41 +0100</pubDate>
       
       <guid>https://wmkouw.github.io/teaching/tue-5ssd0/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://biaslab.github.io/teaching/bmlip/&#34; target=&#34;_blank&#34;&gt;Bayesian Machine Learning &amp;amp; Information Processing&lt;/a&gt; (BMLIP) is an elective course in the Electrical Engineering Master Program of the TU Eindhoven.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://biaslab.github.io/teaching/bmlip/&#34; target=&#34;_blank&#34;&gt;5SSD0 Bayesian Machine Learning &amp;amp; Information Processing&lt;/a&gt; (BMLIP) is an elective course in the Electrical Engineering Master Program of the TU Eindhoven.&lt;/p&gt;
 
 &lt;p&gt;BMLIP covers the fundamentals of the Bayesian (i.e., probabilistic) approach to machine learning and information processing systems. Firstly, we discuss many useful models including common regression and classification methods, Gaussian mixture models, hidden Markov models and Kalman filters. Secondly, we teach Expectation-Maximization (EM), Variational Bayes (VB), Variational Message Passing (VMP) and basic Monte Carlo sampling. Lastly, we discuss intelligent agents that learn purposeful behavior from interactions with their environment.&lt;/p&gt;
 
@@ -152,15 +166,6 @@
 
 &lt;p&gt;Language evolves over time in many ways relevant to natural language processing tasks. For example, recent occurrences of tokens &amp;lsquo;BERT&amp;rsquo; and &amp;lsquo;ELMO&amp;rsquo; in publications refer to neural network architectures rather than persons [&lt;a href=&#34;https://www.aclweb.org/anthology/N19-1423/&#34; target=&#34;_blank&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1903.05987&#34; target=&#34;_blank&#34;&gt;2&lt;/a&gt;]. This type of temporal signal is typically overlooked, but is important if one aims to deploy a machine learning model over an extended period of time. In particular, language evolution causes data drift between time-steps in sequential decision-making tasks. Examples of such tasks include prediction of paper acceptance for yearly conferences (regular intervals) or author stance prediction for rumours on Twitter (irregular intervals). We tackle data drift by sequentially aligning learned representations. We argue that, due to its low computational expense, sequential alignment is a practical solution to dealing with language evolution.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Back to the future - temporal adaptation of text representations</title>
-      <link>https://wmkouw.github.io/publication/seqrum/</link>
-      <pubDate>Mon, 11 Nov 2019 06:00:40 +0100</pubDate>
-      
-      <guid>https://wmkouw.github.io/publication/seqrum/</guid>
-      <description></description>
     </item>
     
   </channel>
