@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>NLARX-sysid</title>
+      <link>https://wmkouw.github.io/project/nlarx-onlsysid/</link>
+      <pubDate>Thu, 11 Jun 2020 13:26:41 +0100</pubDate>
+      
+      <guid>https://wmkouw.github.io/project/nlarx-onlsysid/</guid>
+      <description>Online nonlinear system identification with a latent autoregressive with exogenous input model.</description>
+    </item>
+    
+    <item>
       <title>SSA-NLP</title>
       <link>https://wmkouw.github.io/project/ssa-nlp/</link>
       <pubDate>Fri, 15 Nov 2019 13:26:41 +0100</pubDate>
