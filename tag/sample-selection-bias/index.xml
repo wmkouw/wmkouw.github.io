@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sample-selection-bias | </title>
+    <link>https://wmkouw.github.io/tag/sample-selection-bias/</link>
+      <atom:link href="https://wmkouw.github.io/tag/sample-selection-bias/index.xml" rel="self" type="application/rss+xml" />
+    <description>sample-selection-bias</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Wouter M. Kouw</copyright><lastBuildDate>Mon, 14 Oct 2019 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
+      <title>sample-selection-bias</title>
+      <link>https://wmkouw.github.io/tag/sample-selection-bias/</link>
+    </image>
+    
+    <item>
+      <title>Robust importance-weighted cross-validation under sample selection bias</title>
+      <link>https://wmkouw.github.io/talk/robust-importance-weighted-cross-validation-under-sample-selection-bias/</link>
+      <pubDate>Mon, 14 Oct 2019 14:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/robust-importance-weighted-cross-validation-under-sample-selection-bias/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

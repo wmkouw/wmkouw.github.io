@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Probabilistic Graphical Models | </title>
+    <link>https://wmkouw.github.io/tag/probabilistic-graphical-models/</link>
+      <atom:link href="https://wmkouw.github.io/tag/probabilistic-graphical-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Probabilistic Graphical Models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Wouter M. Kouw</copyright><lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
+      <title>Probabilistic Graphical Models</title>
+      <link>https://wmkouw.github.io/tag/probabilistic-graphical-models/</link>
+    </image>
+    
+    <item>
+      <title>TU/e 5SSD0</title>
+      <link>https://wmkouw.github.io/teaching/tue-5ssd0/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/teaching/tue-5ssd0/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://biaslab.github.io/teaching/bmlip/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5SSD0 Bayesian Machine Learning &amp;amp; Information Processing&lt;/a&gt; (BMLIP) is a course in the Electrical Engineering Master programme of TU Eindhoven.&lt;/p&gt;
+&lt;p&gt;BMLIP covers the fundamentals of the Bayesian (i.e., probabilistic) approach to machine learning and information processing systems. Firstly, we discuss many useful models including common regression and classification methods, Gaussian mixture models, hidden Markov models and Kalman filters. Secondly, we teach Expectation-Maximization (EM), Variational Bayes (VB) and Variational Message Passing (VMP). Lastly, we discuss intelligent agents that learn purposeful behavior from interactions with their environment.&lt;/p&gt;
+&lt;p&gt;I teach the lectures on Probabilistic Programming, where students write software for automatic inference in probabilistic models.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

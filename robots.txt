@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://wmkouw.github.io/sitemap.xml
