@@ -60,10 +60,10 @@
   
     
   
-  <meta name="description" content="Assistant Professor" />
+  <meta name="description" content="We propose a variational message passing algorithm for estimating coeffcients of a polynomial NARMAX model, which outperforms a recursive least-squares estimator." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/project/" />
+  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/publication/vmpnarmax/" />
 
   
   
@@ -271,8 +271,6 @@
   
 
   
-    <link rel="alternate" href="/project/index.xml" type="application/rss+xml" title="" />
-  
 
   
     <link rel="manifest" href="/manifest.webmanifest" />
@@ -281,7 +279,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://wmkouw.github.io/project/" />
+  <link rel="canonical" href="https://wmkouw.github.io/publication/vmpnarmax/" />
 
   
   
@@ -304,33 +302,80 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="" />
-  <meta property="og:url" content="https://wmkouw.github.io/project/" />
-  <meta property="og:title" content="Projects | " />
-  <meta property="og:description" content="Assistant Professor" /><meta property="og:image" content="https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://wmkouw.github.io/publication/vmpnarmax/" />
+  <meta property="og:title" content="Variational message passing for online polynomial NARMAX identification | " />
+  <meta property="og:description" content="We propose a variational message passing algorithm for estimating coeffcients of a polynomial NARMAX model, which outperforms a recursive least-squares estimator." /><meta property="og:image" content="https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2022-01-01T00:00:00&#43;00:00" />
+      <meta
+        property="article:published_time"
+        content="2022-02-01T00:00:00&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2022-02-01T12:00:00&#43;02:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://wmkouw.github.io/publication/vmpnarmax/"
+  },
+  "headline": "Variational message passing for online polynomial NARMAX identification",
+  
+  "datePublished": "2022-02-01T00:00:00Z",
+  "dateModified": "2022-02-01T12:00:00+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Wouter M. Kouw"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "We propose a variational message passing algorithm for estimating coeffcients of a polynomial NARMAX model, which outperforms a recursive least-squares estimator."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>Projects | </title>
+  <title>Variational message passing for online polynomial NARMAX identification | </title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="1b7f62207d2617f7491785ce1c71e57f" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="f7db47a4765cb9a40c51ac5d0873e7e7" >
 
   
   
@@ -491,7 +536,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/publication"><span>Publications</span></a>
+            <a class="nav-link  active" href="/publication"><span>Publications</span></a>
           </li>
 
           
@@ -521,7 +566,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link  active" href="/project"><span>Projects</span></a>
+            <a class="nav-link " href="/project"><span>Projects</span></a>
           </li>
 
           
@@ -682,6 +727,17 @@
 
 
 
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
 
 
 
@@ -689,145 +745,378 @@
   
 
   
+  
+  
+<div class="article-container pt-3">
+  <h1>Variational message passing for online polynomial NARMAX identification</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      Wouter M. Kouw</span>, <span >
+      Albert Podusenko</span>, <span >
+      Magnus Koudahl</span>, <span >
+      Maarten Schoukens</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    February 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Projects</h1>
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/biaslab/ACC2022-vmpNARMAX" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
 
   
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
-    <div class="article-style"><p>A list of projects that I&rsquo;m currently running:</p>
-</div>
-  
-
-  
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/fep-quad/" >FEPQuad</a>
-    </div>
+  <div class="article-container">
 
     
-    <a href="/project/fep-quad/"  class="summary-link">
-      <div class="article-style">
-        Design of an intelligent autonomous system for quadrupedal robot locomotion using Active Inference (AIF). AIF is a neuroscience-based framework of perception and action, and could bring us closer to how animals learn to walk.
+    <h3>Abstract</h3>
+    <p class="pub-abstract">We propose a variational Bayesian inference procedure for online nonlinear system identification. For each output observation, a set of parameter posterior distributions is updated, which is then used to form a posterior predictive distribution for future outputs. We focus on the class of polynomial NARMAX models, which we cast into probabilistic form and represent in terms of a Forney-style factor graph. Inference in this graph is efficiently performed by a variational message passing algorithm. We show empirically that our variational Bayesian estimator outperforms an online recursive least-squares estimator, most notably in small sample size settings and low noise regimes, and performs on par with an iterative least-squares estimator trained offline.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+          </div>
+        </div>
       </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
+      <div class="col-md-1"></div>
     </div>
-
+    <div class="d-md-none space-below"></div>
     
 
-  </div>
-  <div class="ml-3">
     
-    
-    
-    <a href="/project/fep-quad/" >
-      <img src="/project/fep-quad/featured_hu12a9746f7d67b55207a50cfe3f0c37a8_188378_150x0_resize_q75_h2_lanczos.webp" height="85" width="150"
-           alt="FEPQuad" loading="lazy">
-    </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/bayesbrain/" >BayesBrain</a>
-    </div>
-
-    
-    <a href="/project/bayesbrain/"  class="summary-link">
-      <div class="article-style">
-        Computation in biological brain tissue consumes several orders of magnitude less power than silicon-based systems. Motivated by this fact, this project aims to develop the world’s first hybrid neuro-in-silico Artificial Intelligence (AI) computer.
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">American Control Conference</div>
+        </div>
       </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
+      <div class="col-md-1"></div>
     </div>
-
+    <div class="d-md-none space-below"></div>
     
 
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/project/bayesbrain/" >
-      <img src="/project/bayesbrain/featured_hu6a409db1748c9fe6db48c892e5b9dcb1_604408_150x0_resize_q75_h2_lanczos.webp" height="90" width="150"
-           alt="BayesBrain" loading="lazy">
-    </a>
-    
+    <div class="space-below"></div>
+
+    <div class="article-style"><!-- <div class="alert alert-note">
+  <div>
+    Click the <em>Cite</em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   </div>
 </div>
+ -->
+<!-- <div class="alert alert-note">
+  <div>
+    Create your slides in Markdown - click the <em>Slides</em> button to check out the example.
+  </div>
+</div>
+ -->
+<!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+</div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Variational%20message%20passing%20for%20online%20polynomial%20NARMAX%20identification&amp;body=https://wmkouw.github.io/publication/vmpnarmax/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://wmkouw.github.io/publication/vmpnarmax/&amp;text=Variational%20message%20passing%20for%20online%20polynomial%20NARMAX%20identification" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://wmkouw.github.io/publication/vmpnarmax/&amp;title=Variational%20message%20passing%20for%20online%20polynomial%20NARMAX%20identification" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://wmkouw.github.io"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu39683db5b6cbd862ca9d05553aae8559_566470_270x270_fill_q75_lanczos_center.jpg" alt="Wouter M. Kouw"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://wmkouw.github.io">Wouter M. Kouw</a></h5>
+      <h6 class="card-subtitle">Assistant Professor</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.tue.nl/en/research/researchers/wouter-kouw/" target="_blank" rel="noopener">
+        <i class="fas fa-address-book"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.nl/citations?user=st1j2_EAAAAJ" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/wmkouw" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/wmkouw" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   
 
+
+
+
+
+  </div>
 </div>
   </div>
 
