@@ -170,6 +170,15 @@
     </item>
     
     <item>
+      <title>BayesFilters</title>
+      <link>https://wmkouw.github.io/project/bayes-filters/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/bayes-filters/</guid>
+      <description>&lt;p&gt;We use Bayesian inference to tackle uncertainty in the design and development of signal processing systems. Recursive Bayesian estimation provides a principled mathematical approach to not only estimate states but also coefficients, noise levels and other parameters simultaneously. Our filters and smoothers are often cast to probabilistic graphical models, in particular Forney-style factor graphs. This provides a modular design framework with which standard models can be extended to hierarchical or time-varying versions without re-deriving update equations from scratch. Our toolboxes, &lt;a href=&#34;https://github.com/biaslab/ReactiveMP.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReactiveMP.jl&lt;/a&gt; and &lt;a href=&#34;https://github.com/biaslab/ForneyLab.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ForneyLab.jl&lt;/a&gt;, automatically generate message passing procedures given factor graph specifications. Using our message passing software, we have succesfully developed Bayesian filters and smoothers for audio signal processing, spectroscopy, radar object tracking, wireless communication, and system identification.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The data representativeness criterion</title>
       <link>https://wmkouw.github.io/publication/drc/</link>
       <pubDate>Tue, 11 Aug 2020 12:00:00 +0200</pubDate>
