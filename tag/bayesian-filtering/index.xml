@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/tag/bayesian-filtering/</link>
       <atom:link href="https://wmkouw.github.io/tag/bayesian-filtering/index.xml" rel="self" type="application/rss+xml" />
     <description>bayesian-filtering</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Wouter M. Kouw</copyright><lastBuildDate>Thu, 05 Nov 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Wouter M. Kouw</copyright><lastBuildDate>Thu, 09 Jun 2022 15:30:00 +0000</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title>bayesian-filtering</title>
       <link>https://wmkouw.github.io/tag/bayesian-filtering/</link>
     </image>
+    
+    <item>
+      <title>Variational message passing for online Bayesian NARMAX identification</title>
+      <link>https://wmkouw.github.io/talk/variational-message-passing-for-online-bayesian-narmax-identification/</link>
+      <pubDate>Thu, 09 Jun 2022 15:30:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/variational-message-passing-for-online-bayesian-narmax-identification/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Variational Bayes for signal processing</title>
