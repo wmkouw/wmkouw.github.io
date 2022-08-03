@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/publication/</link>
       <atom:link href="https://wmkouw.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Wouter M. Kouw</copyright><lastBuildDate>Tue, 01 Feb 2022 12:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Wouter M. Kouw</copyright><lastBuildDate>Mon, 01 Aug 2022 12:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://wmkouw.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Variational Bayes for robust radar single object tracking</title>
+      <link>https://wmkouw.github.io/publication/rsot-st/</link>
+      <pubDate>Mon, 01 Aug 2022 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/rsot-st/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Variational message passing for online polynomial NARMAX identification</title>
