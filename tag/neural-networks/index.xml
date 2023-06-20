@@ -5,12 +5,23 @@
     <link>https://wmkouw.github.io/tag/neural-networks/</link>
       <atom:link href="https://wmkouw.github.io/tag/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>neural-networks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Wouter M. Kouw</copyright><lastBuildDate>Wed, 09 May 2018 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Wouter M. Kouw</copyright><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title>neural-networks</title>
       <link>https://wmkouw.github.io/tag/neural-networks/</link>
     </image>
+    
+    <item>
+      <title>TU/e 5XSL0</title>
+      <link>https://wmkouw.github.io/teaching/tue-5xsl0/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/teaching/tue-5xsl0/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://canvas.tue.nl/courses/16579&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5XSL0 Fundamentals of Machine Learning&lt;/a&gt; (BMLIP) is an elective course in the Electrical Engineering Bachelor Program of the TU Eindhoven.&lt;/p&gt;
+&lt;p&gt;We live in the age of data. The amount of data has been increasing at an exponential rate over the last decades and is expected to continue. Not only is the volume of the data larger than ever before, also the variety in types of data is consistently growing. Due to the enormous progress in sensor technology, we can measure more than ever before. The vast amounts of heterogeneous data harbor useful information that can help in e.g. clinical decision-making, predictive maintenance and visual object detection. However, due to its growing volume and complexity, it becomes increasingly harder for humans to extract this information by manually analyzing the patterns in the data. Machine learning is a subfield of Artificial Intelligence (AI) that focuses on building mathematical models that can extract information from data.&lt;/p&gt;
+&lt;p&gt;This course aims to offer a solid theoretical basis for modern machine learning methods. It will teach students the mathematical foundations of machine learning, introduce a number of elementary techniques and discuss methods for evaluation of model performance. These concepts are the fundamental building blocks of modern AI approaches and offer important insights.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MR acquisition-invariant representation learning</title>
