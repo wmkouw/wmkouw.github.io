@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/publication-type/2/</link>
       <atom:link href="https://wmkouw.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Wouter M. Kouw</copyright><lastBuildDate>Wed, 24 Nov 2021 12:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Wouter M. Kouw</copyright><lastBuildDate>Mon, 22 Jan 2024 09:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://wmkouw.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Information-seeking polynomial NARX model-predictive control through expected free energy minimization</title>
+      <link>https://wmkouw.github.io/publication/narx-efe/</link>
+      <pubDate>Mon, 22 Jan 2024 09:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/narx-efe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On epistemics in expected free energy for linear Gaussian state space models</title>
