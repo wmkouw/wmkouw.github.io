@@ -60,10 +60,10 @@
   
     
   
-  <meta name="description" content="Assistant Professor" />
+  <meta name="description" content="We propose a Bayesian multiple model with an online model selection strategy to dynamically represent the latent motion modal from early observations. Each sub-model integrates a variational Kalman filter and Gated Recurrent Unit (GRU) neural network, enabling the estimation of time-varying transition coefficients and the process noise specific to different motion modalities." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/publication-type/4/" />
+  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/publication/kalman-gru/" />
 
   
   
@@ -271,8 +271,6 @@
   
 
   
-    <link rel="alternate" href="/publication-type/4/index.xml" type="application/rss+xml" title="" />
-  
 
   
     <link rel="manifest" href="/manifest.webmanifest" />
@@ -281,7 +279,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://wmkouw.github.io/publication-type/4/" />
+  <link rel="canonical" href="https://wmkouw.github.io/publication/kalman-gru/" />
 
   
   
@@ -304,33 +302,80 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="" />
-  <meta property="og:url" content="https://wmkouw.github.io/publication-type/4/" />
-  <meta property="og:title" content="4 | " />
-  <meta property="og:description" content="Assistant Professor" /><meta property="og:image" content="https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://wmkouw.github.io/publication/kalman-gru/" />
+  <meta property="og:title" content="Multiple variational Kalman-GRU for ship trajectory prediction with uncertainty | " />
+  <meta property="og:description" content="We propose a Bayesian multiple model with an online model selection strategy to dynamically represent the latent motion modal from early observations. Each sub-model integrates a variational Kalman filter and Gated Recurrent Unit (GRU) neural network, enabling the estimation of time-varying transition coefficients and the process noise specific to different motion modalities." /><meta property="og:image" content="https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2017-01-01T00:00:00&#43;00:00" />
+      <meta
+        property="article:published_time"
+        content="2023-09-20T00:00:00&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2023-09-20T09:00:00&#43;02:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://wmkouw.github.io/publication/kalman-gru/"
+  },
+  "headline": "Multiple variational Kalman-GRU for ship trajectory prediction with uncertainty",
+  
+  "datePublished": "2023-09-20T00:00:00Z",
+  "dateModified": "2023-09-20T09:00:00+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Chengfeng Jia"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "We propose a Bayesian multiple model with an online model selection strategy to dynamically represent the latent motion modal from early observations. Each sub-model integrates a variational Kalman filter and Gated Recurrent Unit (GRU) neural network, enabling the estimation of time-varying transition coefficients and the process noise specific to different motion modalities."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>4 | </title>
+  <title>Multiple variational Kalman-GRU for ship trajectory prediction with uncertainty | </title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="e42869776aa59c4ba40ec84d0c0d9c85" >
 
   
   
@@ -686,6 +731,17 @@
 
 
 
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
 
 
 
@@ -693,87 +749,336 @@
   
 
   
+  
+  
+<div class="article-container pt-3">
+  <h1>Multiple variational Kalman-GRU for ship trajectory prediction with uncertainty</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Chengfeng Jia</span>, <span >
+      Jie Ma</span>, <span class="author-highlighted">
+      Wouter Kouw</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    September 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>4</h1>
+<a class="btn btn-outline-primary btn-page-header" href="https://https://github.com/Chengfeng-Jia/ship-trajectory-prediction-MKGRU" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
 
   
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
-
-  
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/tr-introda/" >An introduction to domain adaptation and transfer learning</a>
-    </div>
+  <div class="article-container">
 
     
-    <a href="/publication/tr-introda/"  class="summary-link">
-      <div class="article-style">
-        Click the Cite button above to demo the feature to enable visitors to import publication metadata into their reference management software.   --  Create your slides in Markdown - click the Slides button to check out the example.
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Accurate prediction of ship trajectories is crucial for ensuring safe and efficient navigation. However, predicting ship trajectories in complex and dynamic environments presents significant challenges. Ships exhibit multi-modal motions, manifesting as diverse motion patterns even under similar circumstances, influenced by factors such as navigational intentions and operational tasks. Moreover, trajectory prediction is further complicated by time-varying ship dynamics, encompassing sailing conditions, ship maneuvering, and environmental factors. In this paper, we propose a Bayesian multiple model with an online model selection strategy to dynamically represent the latent motion modal from early observations. Each sub-model integrates a variational Kalman filter and Gated Recurrent Unit (GRU) neural network, enabling the estimation of time-varying transition coefficients and the process noise specific to different motion modalities. This hybrid methodology leverages the strengths of probabilistic recursive estimation of the Kalman filter while benefiting from the capacity of a GRU network to learn complex temporal dependencies from historical data. The proposed method was evaluated on naturalistic ship trajectories across different observation lengths and prediction horizons and outperformed the baseline in terms of both accuracy and plausibility.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#2">
+              Journal article
+            </a>
+          </div>
+        </div>
       </div>
-    </a>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
 
-    <div class="stream-meta article-metadata">
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Submitted to IEEE Transactions on Aerospace and Electronic Systems</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
 
-      
+    <div class="space-below"></div>
 
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
       
-      <div>
+      
+      
         
-
-  <span class="author-highlighted">
-      Wouter Kouw</span>, <span >
-      Marco Loog</span>
-      </div>
       
-    </div>
-
+      
+      
+      <li>
+        <a href="mailto:?subject=Multiple%20variational%20Kalman-GRU%20for%20ship%20trajectory%20prediction%20with%20uncertainty&amp;body=https://wmkouw.github.io/publication/kalman-gru/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
-
-  </div>
-  <div class="ml-3">
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://wmkouw.github.io/publication/kalman-gru/&amp;text=Multiple%20variational%20Kalman-GRU%20for%20ship%20trajectory%20prediction%20with%20uncertainty" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://wmkouw.github.io/publication/kalman-gru/&amp;title=Multiple%20variational%20Kalman-GRU%20for%20ship%20trajectory%20prediction%20with%20uncertainty" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
-  </div>
+  </ul>
 </div>
 
+
+
+
+
+
+
+
+
+
+
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://wmkouw.github.io"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu39683db5b6cbd862ca9d05553aae8559_566470_270x270_fill_q90_lanczos_center.jpg" alt="Wouter Kouw"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://wmkouw.github.io">Wouter Kouw</a></h5>
+      <h6 class="card-subtitle">Assistant Professor</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.tue.nl/en/research/researchers/wouter-kouw/" target="_blank" rel="noopener">
+        <i class="fas fa-address-book"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.nl/citations?user=st1j2_EAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/wmkouw" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
   </div>
 

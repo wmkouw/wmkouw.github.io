@@ -5,7 +5,7 @@
     <link>https://wmkouw.github.io/publication-type/2/</link>
       <atom:link href="https://wmkouw.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Wouter M. Kouw</copyright><lastBuildDate>Mon, 25 Dec 2023 09:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Mon, 25 Dec 2023 09:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -17,6 +17,22 @@
       <link>https://wmkouw.github.io/publication/narx-efe/</link>
       <pubDate>Mon, 25 Dec 2023 09:00:00 +0200</pubDate>
       <guid>https://wmkouw.github.io/publication/narx-efe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple variational Kalman-GRU for ship trajectory prediction with uncertainty</title>
+      <link>https://wmkouw.github.io/publication/kalman-gru/</link>
+      <pubDate>Wed, 20 Sep 2023 09:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/kalman-gru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference of collision avoidance intent during ship encounters</title>
+      <link>https://wmkouw.github.io/publication/intent-mp/</link>
+      <pubDate>Fri, 04 Aug 2023 09:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/intent-mp/</guid>
       <description></description>
     </item>
     
