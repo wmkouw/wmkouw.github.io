@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/publication/</link>
       <atom:link href="https://wmkouw.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Mon, 19 Feb 2024 12:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Tue, 02 Apr 2024 09:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://wmkouw.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Bayesian inference of collision avoidance intent during ship encounters</title>
+      <link>https://wmkouw.github.io/publication/intent-mp/</link>
+      <pubDate>Tue, 02 Apr 2024 09:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/intent-mp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian grey-box identification of convection effects in heat transfer dynamics</title>
@@ -33,14 +41,6 @@
       <link>https://wmkouw.github.io/publication/kalman-gru/</link>
       <pubDate>Wed, 20 Sep 2023 09:00:00 +0200</pubDate>
       <guid>https://wmkouw.github.io/publication/kalman-gru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian inference of collision avoidance intent during ship encounters</title>
-      <link>https://wmkouw.github.io/publication/intent-mp/</link>
-      <pubDate>Fri, 04 Aug 2023 09:00:00 +0200</pubDate>
-      <guid>https://wmkouw.github.io/publication/intent-mp/</guid>
       <description></description>
     </item>
     
