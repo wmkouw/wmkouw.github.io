@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/event/</link>
       <atom:link href="https://wmkouw.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks &amp; Poster Presentations</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Wed, 26 Apr 2023 13:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Mon, 15 Apr 2024 13:30:00 +0000</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title>Talks &amp; Poster Presentations</title>
       <link>https://wmkouw.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Natural AI for control and mobile robotics</title>
+      <link>https://wmkouw.github.io/talk/natural-ai-for-control-and-mobile-robotics/</link>
+      <pubDate>Mon, 15 Apr 2024 13:30:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/natural-ai-for-control-and-mobile-robotics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Variational Bayesian inference for system identification</title>
