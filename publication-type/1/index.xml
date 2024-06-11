@@ -5,7 +5,7 @@
     <link>https://wmkouw.github.io/publication-type/1/</link>
       <atom:link href="https://wmkouw.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Thu, 14 Mar 2024 09:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Tue, 04 Jun 2024 12:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Message passing-based Bayesian control of a Cart-Pole system</title>
-      <link>https://wmkouw.github.io/publication/cartpole/</link>
-      <pubDate>Thu, 14 Mar 2024 09:00:00 +0200</pubDate>
-      <guid>https://wmkouw.github.io/publication/cartpole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bayesian grey-box identification of convection effects in heat transfer dynamics</title>
       <link>https://wmkouw.github.io/publication/greybox-heat/</link>
-      <pubDate>Mon, 19 Feb 2024 12:00:00 +0200</pubDate>
+      <pubDate>Tue, 04 Jun 2024 12:00:00 +0200</pubDate>
       <guid>https://wmkouw.github.io/publication/greybox-heat/</guid>
       <description></description>
     </item>

@@ -5,12 +5,28 @@
     <link>https://wmkouw.github.io/</link>
       <atom:link href="https://wmkouw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Mon, 15 Apr 2024 13:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Tue, 04 Jun 2024 12:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title></title>
       <link>https://wmkouw.github.io/</link>
     </image>
+    
+    <item>
+      <title>Bayesian grey-box identification of convection effects in heat transfer dynamics</title>
+      <link>https://wmkouw.github.io/publication/greybox-heat/</link>
+      <pubDate>Tue, 04 Jun 2024 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/greybox-heat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian machine learning for embodied artificial intelligence</title>
+      <link>https://wmkouw.github.io/talk/bayesian-machine-learning-for-embodied-artificial-intelligence/</link>
+      <pubDate>Fri, 31 May 2024 13:30:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/bayesian-machine-learning-for-embodied-artificial-intelligence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Natural AI for control and mobile robotics</title>
@@ -33,22 +49,6 @@
       <link>https://wmkouw.github.io/publication/intent-mp/</link>
       <pubDate>Tue, 02 Apr 2024 09:00:00 +0200</pubDate>
       <guid>https://wmkouw.github.io/publication/intent-mp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Message passing-based Bayesian control of a Cart-Pole system</title>
-      <link>https://wmkouw.github.io/publication/cartpole/</link>
-      <pubDate>Thu, 14 Mar 2024 09:00:00 +0200</pubDate>
-      <guid>https://wmkouw.github.io/publication/cartpole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian grey-box identification of convection effects in heat transfer dynamics</title>
-      <link>https://wmkouw.github.io/publication/greybox-heat/</link>
-      <pubDate>Mon, 19 Feb 2024 12:00:00 +0200</pubDate>
-      <guid>https://wmkouw.github.io/publication/greybox-heat/</guid>
       <description></description>
     </item>
     
