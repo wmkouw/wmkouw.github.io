@@ -5,12 +5,36 @@
     <link>https://wmkouw.github.io/publication/</link>
       <atom:link href="https://wmkouw.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Tue, 04 Jun 2024 12:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Tue, 23 Jul 2024 12:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://wmkouw.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Coupled autoregressive active inference agents for control of multi-joint dynamical systems</title>
+      <link>https://wmkouw.github.io/publication/carx-efe/</link>
+      <pubDate>Tue, 23 Jul 2024 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/carx-efe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Message passing-based Bayesian control of a Cart-Pole system</title>
+      <link>https://wmkouw.github.io/publication/cartpole-mp/</link>
+      <pubDate>Tue, 23 Jul 2024 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/cartpole-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning to avoid ambiguous states through Gaussian approximations to non-linear sensors in active inference agents</title>
+      <link>https://wmkouw.github.io/publication/efe-nlamb/</link>
+      <pubDate>Tue, 23 Jul 2024 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/efe-nlamb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian grey-box identification of convection effects in heat transfer dynamics</title>
