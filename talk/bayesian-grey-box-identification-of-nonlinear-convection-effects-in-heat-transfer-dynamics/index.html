@@ -60,10 +60,10 @@
   
     
   
-  <meta name="description" content="We propose a variational message passing inference algorithm for online system identification using polynomial NARMAX models. We show empirically that our variational Bayesian estimator outperforms an online recursive least-squares estimator, most notably in small sample size settings and low noise regimes, and performs on par with an iterative least-squares estimator trained offline." />
+  <meta name="description" content="We propose a computational procedure for identifying convection in heat transfer dynamics based on a Gaussian process latent force model." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/talk/variational-message-passing-for-online-bayesian-narmax-identification/" />
+  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/talk/bayesian-grey-box-identification-of-nonlinear-convection-effects-in-heat-transfer-dynamics/" />
 
   
   
@@ -279,7 +279,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://wmkouw.github.io/talk/variational-message-passing-for-online-bayesian-narmax-identification/" />
+  <link rel="canonical" href="https://wmkouw.github.io/talk/bayesian-grey-box-identification-of-nonlinear-convection-effects-in-heat-transfer-dynamics/" />
 
   
   
@@ -302,18 +302,18 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="" />
-  <meta property="og:url" content="https://wmkouw.github.io/talk/variational-message-passing-for-online-bayesian-narmax-identification/" />
-  <meta property="og:title" content="Variational message passing for online Bayesian NARMAX identification | " />
-  <meta property="og:description" content="We propose a variational message passing inference algorithm for online system identification using polynomial NARMAX models. We show empirically that our variational Bayesian estimator outperforms an online recursive least-squares estimator, most notably in small sample size settings and low noise regimes, and performs on par with an iterative least-squares estimator trained offline." /><meta property="og:image" content="https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://wmkouw.github.io/talk/bayesian-grey-box-identification-of-nonlinear-convection-effects-in-heat-transfer-dynamics/" />
+  <meta property="og:title" content="Bayesian grey-box identification of nonlinear convection effects in heat transfer dynamics | " />
+  <meta property="og:description" content="We propose a computational procedure for identifying convection in heat transfer dynamics based on a Gaussian process latent force model." /><meta property="og:image" content="https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-06-08T09:00:00&#43;00:00"
+        content="2024-08-23T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-06-09T15:30:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-08-22T10:30:00&#43;00:00">
   
 
   
@@ -332,19 +332,19 @@
   "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://wmkouw.github.io/talk/variational-message-passing-for-online-bayesian-narmax-identification/"
+    "@id": "https://wmkouw.github.io/talk/bayesian-grey-box-identification-of-nonlinear-convection-effects-in-heat-transfer-dynamics/"
   },
-  "name": "Variational message passing for online Bayesian NARMAX identification",
+  "name": "Bayesian grey-box identification of nonlinear convection effects in heat transfer dynamics",
   
   "location": {
     "@type": "Place",
-    "name": "Atlanta, United States"
+    "name": "Newcastle-upon-Tyne, United Kingdom"
   },
   
   
-  "startDate": "2022-06-09T15:30:00Z",
+  "startDate": "2024-08-22T10:30:00Z",
   
-  "endDate": "2022-06-09T15:45:00Z",
+  "endDate": "2024-08-22T11:00:00Z",
   
   
   "performer": {
@@ -352,7 +352,7 @@
     "name": "Wouter Kouw"
   },
   
-  "description": "We propose a variational message passing inference algorithm for online system identification using polynomial NARMAX models. We show empirically that our variational Bayesian estimator outperforms an online recursive least-squares estimator, most notably in small sample size settings and low noise regimes, and performs on par with an iterative least-squares estimator trained offline."
+  "description": "We propose a computational procedure for identifying convection in heat transfer dynamics based on a Gaussian process latent force model."
 }
 </script>
 
@@ -366,11 +366,11 @@
 
 
 
-  <title>Variational message passing for online Bayesian NARMAX identification | </title>
+  <title>Bayesian grey-box identification of nonlinear convection effects in heat transfer dynamics | </title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="4eabdb39862e7f34071569589df48afe" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="1343296b24fd1666f2b8f8e0d085de0b" >
 
   
   
@@ -738,7 +738,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Variational message passing for online Bayesian NARMAX identification</h1>
+  <h1>Bayesian grey-box identification of nonlinear convection effects in heat transfer dynamics</h1>
 
   
 
@@ -803,19 +803,11 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="/talk/variational-message-passing-for-online-bayesian-narmax-identification/ACC2022Kouw-slides.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/talk/bayesian-grey-box-identification-of-nonlinear-convection-effects-in-heat-transfer-dynamics/Kouw2024CCTA.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
 
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://youtu.be/a3yRchne7XA" target="_blank" rel="noopener">
-  Video
-</a>
 
 
 
@@ -833,7 +825,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract">We propose a variational Bayesian inference procedure for online nonlinear system identification. For each output observation, a set of parameter posterior distributions is updated, which is then used to form a posterior predictive distribution for future outputs. We focus on the class of polynomial NARMAX models, which we cast into probabilistic form and represent in terms of a Forney-style factor graph. Inference in this graph is efficiently performed by a variational message passing algorithm. We show empirically that our variational Bayesian estimator outperforms an online recursive least-squares estimator, most notably in small sample size settings and low noise regimes, and performs on par with an iterative least-squares estimator trained offline.</p>
+      <p class="pub-abstract">We propose a computational procedure for identifying convection in heat transfer dynamics of motion control systems. The procedure is based on a Gaussian process latent force model, consisting of a white-box component (i.e., known physics) for the conduction and linear convection effects and a Gaussian process that acts as a black-box component for the nonlinear convection effects. States are inferred through Bayesian smoothing and we obtain approximate posterior distributions for the kernel covariance function’s hyperparameters using Laplace’s method. The nonlinear convection function is recovered from the Gaussian process states using a Bayesian regression model. We validate the procedure by simulation error using the identified nonlinear convection function, on both data from a simulated system and measurements from a physical assembly.</p>
     
 
     <div class="row">
@@ -842,7 +834,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-            9 Jun 2022 15:30 &mdash; 15:45
+            22 Aug 2024 10:30 &mdash; 11:00
           </div>
         </div>
       </div>
@@ -857,8 +849,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
-            <a href="https://acc2022.a2c2.org/" target="_blank" rel="noopener">
-            IEEE American Control Conference 2022
+            <a href="https://ccta2024.ieeecss.org/" target="_blank" rel="noopener">
+            IEEE Conference on Control Technology and Applications 2024
             </a>
           </div>
         </div>
@@ -874,7 +866,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Atlanta, United States</div>
+          <div class="col-12 col-md-9">Newcastle-upon-Tyne, United Kingdom</div>
           
         </div>
       </div>
@@ -902,8 +894,6 @@
   
   <a class="badge badge-light" href="/tag/system-identification/">system-identification</a>
   
-  <a class="badge badge-light" href="/tag/message-passing/">message-passing</a>
-  
 </div>
 
 
@@ -919,7 +909,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Variational%20message%20passing%20for%20online%20Bayesian%20NARMAX%20identification&amp;body=https://wmkouw.github.io/talk/variational-message-passing-for-online-bayesian-narmax-identification/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Bayesian%20grey-box%20identification%20of%20nonlinear%20convection%20effects%20in%20heat%20transfer%20dynamics&amp;body=https://wmkouw.github.io/talk/bayesian-grey-box-identification-of-nonlinear-convection-effects-in-heat-transfer-dynamics/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -932,7 +922,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://wmkouw.github.io/talk/variational-message-passing-for-online-bayesian-narmax-identification/&amp;text=Variational%20message%20passing%20for%20online%20Bayesian%20NARMAX%20identification" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://wmkouw.github.io/talk/bayesian-grey-box-identification-of-nonlinear-convection-effects-in-heat-transfer-dynamics/&amp;text=Bayesian%20grey-box%20identification%20of%20nonlinear%20convection%20effects%20in%20heat%20transfer%20dynamics" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -945,7 +935,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://wmkouw.github.io/talk/variational-message-passing-for-online-bayesian-narmax-identification/&amp;title=Variational%20message%20passing%20for%20online%20Bayesian%20NARMAX%20identification" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://wmkouw.github.io/talk/bayesian-grey-box-identification-of-nonlinear-convection-effects-in-heat-transfer-dynamics/&amp;title=Bayesian%20grey-box%20identification%20of%20nonlinear%20convection%20effects%20in%20heat%20transfer%20dynamics" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>

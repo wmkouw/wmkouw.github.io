@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/tag/system-identification/</link>
       <atom:link href="https://wmkouw.github.io/tag/system-identification/index.xml" rel="self" type="application/rss+xml" />
     <description>system-identification</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Fri, 12 Jul 2024 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Thu, 22 Aug 2024 10:30:00 +0000</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title>system-identification</title>
       <link>https://wmkouw.github.io/tag/system-identification/</link>
     </image>
+    
+    <item>
+      <title>Bayesian grey-box identification of nonlinear convection effects in heat transfer dynamics</title>
+      <link>https://wmkouw.github.io/talk/bayesian-grey-box-identification-of-nonlinear-convection-effects-in-heat-transfer-dynamics/</link>
+      <pubDate>Thu, 22 Aug 2024 10:30:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/bayesian-grey-box-identification-of-nonlinear-convection-effects-in-heat-transfer-dynamics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Information-seeking polynomial NARX model-predictive control through free energy minimization</title>
@@ -37,10 +45,10 @@
     </item>
     
     <item>
-      <title>Online system identification using free energy minimisation</title>
-      <link>https://wmkouw.github.io/talk/online-system-identification-using-free-energy-minimisation/</link>
+      <title>Online system identification in a Duffing oscillator using free energy minimisation</title>
+      <link>https://wmkouw.github.io/talk/online-system-identification-in-a-duffing-oscillator-using-free-energy-minimisation/</link>
       <pubDate>Sun, 13 Sep 2020 10:40:00 +0000</pubDate>
-      <guid>https://wmkouw.github.io/talk/online-system-identification-using-free-energy-minimisation/</guid>
+      <guid>https://wmkouw.github.io/talk/online-system-identification-in-a-duffing-oscillator-using-free-energy-minimisation/</guid>
       <description></description>
     </item>
     

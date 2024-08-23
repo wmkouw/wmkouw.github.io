@@ -5,12 +5,27 @@
     <link>https://wmkouw.github.io/project/</link>
       <atom:link href="https://wmkouw.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://wmkouw.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>ABIAS</title>
+      <link>https://wmkouw.github.io/project/abias/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/abias/</guid>
+      <description>&lt;p&gt;Not all data is equally useful. A major challenge in training artificially intelligent systems that learn from interactions with their environments (agents), is to acquire the most useful data points. For example, where should a robot look in order to pick up a cup? Active inference is a framework for designing agents that balance information-seeking and goal-seeking behaviour. This project will dive into the information-theoretic basis of this framework. We will attempt to answer questions such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How close to optimal is data acquisition based on maximizing information gain / minimizing expected free energy?&lt;/li&gt;
+&lt;li&gt;Under what conditions is the active inference agent a consistent parameter estimator?&lt;/li&gt;
+&lt;li&gt;Under what conditions is the active inference agent a stable controller?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This position is supported by the Sectorplan Techniek of the Dutch Ministry of Education, Culture and Science.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>FEPQuad</title>
@@ -21,6 +36,7 @@
 &lt;p&gt;Why Active Inference? It represents a series of technical advantages over the current state-of-the-art in AI methodologies. Deep learning is a popular framework with impressive applications, but is not without its limitations. Firstly, it requires huge amounts of data to “discover” structure. AIF is a hybrid of model-driven and data-driven learning, which means it can rely on prior knowledge when data is scarce. Crucially, deep learning methods only perform well after an experienced designer has extensively tuned the network’s architecture, regularized its complexity and tried various optimizers. In AIF, there are fewer model parameters, regularization arises naturally through prior distributions and optimization is not an issue. To train deep neural networks, you need expensive hardware (GPU) with a sizeable carbon footprint. AIF agents require less computation power and are more suited to embedded electronics. Last but not least, when deep learning is applied to control (deep reinforcement learning), the engineer must design a “reward function” that indicates the value of actions. This function is hard to design, leading to misbehaving agents. AIF agents do not suffer from this problem because rewards arise implicitly from the probabilistic model. These properties are all nice, but the most important argument for AIF is that it represents a principled way to design intelligent systems: instead of hacking something together based on task-specific cost functions, we now have a first-principle-based framework of perception, decision-making, planning and action.&lt;/p&gt;
 &lt;p&gt;Why quadrupedal walking robots? Because unlike wheeled robots, walkers can step over objects and climb stairs. Unlike drones, they can enter confined spaces and operate for extended periods of time. In theory, quadrupeds are highly agile. In practice, learning to walk is such a complex challenge that they often fail to live up to their potential. Modern AI has accelerated legged robotics to the point that quadrupeds now walk relatively smoothly. Companies such as Boston Dynamics, ANYbotics and Unitree are developing commercial products for semi-autonomous site inspection and maintenance. But their controllers still rely heavily on deep learning. Our AIF agent will make it much easier to teach legged robots to walk.&lt;/p&gt;
 &lt;p&gt;How will the proposed agent work? AIF agents are based on a probabilistic graphical model expressing the dependence of observed and unknown variables through conditional distributions. For dynamical systems, there are leaf nodes representing initial conditions that are specified as “prior beliefs”. One can estimate the posterior distributions for the unknowns (e.g. states, parameters, noises) through Bayesian inference, usually in the form of a message-passing algorithm. Sometimes, the integrals involved are intractable. Variational inference solves this by approximating the posteriors with a simpler “recognition model”. AIF agents are essentially a form of variational Bayesian inference on probabilistic graphical models of dynamic systems that alternate between solving a signal processing (perception) and a control (action) problem to reach a goal.&lt;/p&gt;
+&lt;p&gt;The position is supported by the Sectorplan Techniek of the Dutch Ministry of Education, Culture and Science and the Eindhoven Artificial Intelligence Systems Institute.&lt;/p&gt;
 </description>
     </item>
     
@@ -31,15 +47,20 @@
       <guid>https://wmkouw.github.io/project/bayesbrain/</guid>
       <description>&lt;p&gt;Computation in biological brain tissue consumes several orders of magnitude less power than silicon-based systems. Motivated by this fact, this project aims to develop the world’s first hybrid neuro-in-silico Artificial Intelligence (AI) computer, introducing a fundamentally new paradigm of AI computing. In this high-risk high-gain project, we will combine an in-silico Bayesian control agent (BCA) with neural tissue hosted by a microfluidic Brain-on-Chip (BoC) that together form a hybrid learning system capable of solving real-world AI problems.&lt;/p&gt;
 &lt;p&gt;All computation and communication inside and between the BCA and BoC will be governed by the Free Energy Principle, which is both the leading neuroscientific theory for describing biological neuronal processes and supports a variational Bayesian machine learning interpretation. We will start by developing a pure silicon-based BCA that learns to balance an inverted pendulum, implemented by free energy minimization on a factor graph. Next, we will replace successively larger parts of the factor graph with biological neural circuits of a microfluidic multi-compartment BoC device. The biological network will be trained by electrical stimulation orchestrated by the synthetic Bayesian agent. For the communication between these two units, we will design and realize a novel communication protocol making use of existing software being applied in readout and event sorting for Calcium imaging and multi-electrode array data, such as MEAViewer, CALIMA, NetCal and SpikeHunter. By upscaling the number of replaced sub-circuits, we aim to provide a proof-of-concept and to lay the basis for ultra-low power hybrid brain-on-chip AI computing.&lt;/p&gt;
+&lt;p&gt;This position is supported by the Exploratory Multidiscplinary AI Research Program of the Eindhoven Artificial Intelligence Systems Institute.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>BayesFilters</title>
-      <link>https://wmkouw.github.io/project/bayes-filters/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://wmkouw.github.io/project/bayes-filters/</guid>
-      <description>&lt;p&gt;We use Bayesian inference to tackle uncertainty in the design and development of signal processing systems. Recursive Bayesian estimation provides a principled mathematical approach to not only estimate states but also coefficients, noise levels and other parameters simultaneously. Our filters and smoothers are often cast to probabilistic graphical models, in particular Forney-style factor graphs. This provides a modular design framework with which standard models can be extended to hierarchical or time-varying versions without re-deriving update equations from scratch. Our toolboxes, &lt;a href=&#34;https://github.com/biaslab/ReactiveMP.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReactiveMP.jl&lt;/a&gt; and &lt;a href=&#34;https://github.com/biaslab/ForneyLab.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ForneyLab.jl&lt;/a&gt;, automatically generate message passing procedures given factor graph specifications. Using our message passing software, we have succesfully developed Bayesian filters and smoothers for audio signal processing, spectroscopy, radar object tracking, wireless communication, and system identification.&lt;/p&gt;
+      <title>SeqDAIS</title>
+      <link>https://wmkouw.github.io/project/seqdais/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/seqdais/</guid>
+      <description>&lt;p&gt;The capacity of supervised learning systems to generalize to new examples is inherently limited by the collected data. If it is not an accurate reﬂection of the population, then the system will not perform well. In particular, if the collected data is biased, which means that one observes certain examples more often than normal, then the system can be misled into thinking that certain outcomes are also more likely to occur. Although the system might make accurate diagnoses for new patients arriving to that particular hospital, it will make inaccurate diagnoses for patients arriving to 1a diﬀerent hospital. The diﬀerences between patient populations might be due to regional diﬀerences such as exercise culture, but the fact that one observes for instance older patients more than normal means that data collected from that hospital is biased with respect to the total human population.&lt;/p&gt;
+&lt;p&gt;Handling biased samples from populations is a problem that has long been studied in statistics and econometrics. Although a number of techniques have been proposed to improve supervised learning systems trained on biased data, things have changed with the tremendous increase in computational power in the last 20 years. The ﬁeld has advanced to the point where we ask the question whether it is possible to generalize to particular target populations as well. Can we adapt a supervised learning system trained on adult human heart disease patients to make accurate decisions for infant heart disease patients?&lt;/p&gt;
+&lt;p&gt;Work from the last 10 years has looked at incorporating unlabeled data from these target populations. With this additional information, systems can recognize changes in data properties, ﬁnd correspondences between populations and adapt their decisions accordingly. Successful adaptation is deﬁned as an improvement over the performance of the original system. Nonetheless, the analysis of this problem is not complete, and it is not clear which conditions have to be fulﬁlled in order for the system to perform well. It seems that in cases where it is diﬃcult to describe how two populations relate to each other, adaptive systems suﬀer from high variability. They are highly uncertain about their decisions and often wrong. However, it seems that the more similar the populations are, the likelier it is that the system adapts well. It would, for example, be easier for the system to adapt to predict heart disease in adolescents based on data from adults, then it would for the system to adapt to infants. However, here might lie a potentially crucial insight: can we design a system that ﬁrst adapts to the closest population and only then adapts to the ﬁnal target population?
+In other words, a system that sequentially adapts?&lt;/p&gt;
+&lt;p&gt;This position is supported by a Niels Stensen Fellowship grant, offered by the Niels Stensen Stichting.&lt;/p&gt;
 </description>
     </item>
     
