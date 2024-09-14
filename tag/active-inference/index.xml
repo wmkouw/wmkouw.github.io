@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/tag/active-inference/</link>
       <atom:link href="https://wmkouw.github.io/tag/active-inference/index.xml" rel="self" type="application/rss+xml" />
     <description>active-inference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Wed, 11 Sep 2024 10:40:00 +0000</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
       <title>active-inference</title>
       <link>https://wmkouw.github.io/tag/active-inference/</link>
     </image>
+    
+    <item>
+      <title>Planning to avoid ambiguous states through Gaussian approximations to non-linear sensors</title>
+      <link>https://wmkouw.github.io/talk/planning-to-avoid-ambiguous-states-through-gaussian-approximations-to-non-linear-sensors/</link>
+      <pubDate>Wed, 11 Sep 2024 10:40:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/planning-to-avoid-ambiguous-states-through-gaussian-approximations-to-non-linear-sensors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ABIAS</title>
