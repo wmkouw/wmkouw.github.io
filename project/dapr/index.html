@@ -1,0 +1,2551 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: January 4, 2025 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.e4b9d3e8ce28da563d74b4089f677743.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.88f387a8abe1c1e6f0f599ddb3753479.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Wouter M. Kouw" />
+
+
+
+
+
+  
+
+<meta name="description" content="Domain Adaptive Pattern Recognition explores the limits of generalization for a special case of statistical learning where training data and test data are differently biased samples of some underlying data-generating distribution." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/project/dapr/" />
+<link rel="canonical" href="https://wmkouw.github.io/project/dapr/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu10610163281689111336.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu17622894342994775836.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+
+  <meta property="twitter:site" content="@GetResearchDev" />
+  <meta property="twitter:creator" content="@GetResearchDev" />
+<meta property="twitter:image" content="https://wmkouw.github.io/project/dapr/featured.jpg" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Wouter M. Kouw" />
+<meta property="og:url" content="https://wmkouw.github.io/project/dapr/" />
+<meta property="og:title" content="DAPR | Wouter M. Kouw" />
+<meta property="og:description" content="Domain Adaptive Pattern Recognition explores the limits of generalization for a special case of statistical learning where training data and test data are differently biased samples of some underlying data-generating distribution." /><meta property="og:image" content="https://wmkouw.github.io/project/dapr/featured.jpg" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2014-09-01T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2014-09-01T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://wmkouw.github.io/project/dapr/"
+  },
+  "headline": "DAPR",
+  
+  "image": [
+    "https://wmkouw.github.io/project/dapr/featured.jpg"
+  ],
+  
+  "datePublished": "2014-09-01T00:00:00Z",
+  "dateModified": "2014-09-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Wouter M. Kouw"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Wouter M. Kouw",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://wmkouw.github.io/media/icon_hu8168636963508404236.png"
+    }
+  },
+  "description": "Domain Adaptive Pattern Recognition explores the limits of generalization for a special case of statistical learning where training data and test data are differently biased samples of some underlying data-generating distribution."
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>DAPR | Wouter M. Kouw</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="6c5f0a78251ba78a7e451df82624aed0" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link  active" href="/project"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/event"><span>Talks</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+<div class="article-container pt-3">
+  <h1>DAPR</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 1, 2014
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 432px;">
+  <div style="position: relative">
+    <img src="/project/dapr/featured_hu14250283757796469825.webp" width="720" height="432" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Artificial intelligence, in particular machine learning and pattern recognition, is concerned with teaching computer systems to perform tasks. Tasks such as autonomous driving, recognizing tumors in medical images, or detecting suspicious packages in airports. Such systems learn by observing examples, i.e. data, and forming a mathematical description of what types of variations occur, i.e. a statistical model. For new input, the system computes the most likely output and makes a decision accordingly. As a scientific field, it is situated between statistics and and algorithmics. As a technology, it has become a very powerful tool due to the massive amounts of data being collected and the drop in the cost of computation.</p>
+<p>However, obtaining <em>enough</em> data is still very difficult. There are often substantial financial, operational or ethical considerations in collecting data. The majority of research in machine learning deals with constraints on the amount, the labeling and the types of data that are available. One such constraint is that it is only possible to collect labeled data from one population, or domain, but the goal is to make decisions for another domain. It is unclear under which conditions this will be possible, which inspires the research question of this thesis: when and how can a classification algorithm generalize from a source domain to a target domain?</p>
+<p>My research has looked at different approaches to <em>domain adaptation</em>. Firstly, we have asked some critical questions on whether the standard approaches to model validation still hold in the context of different domains. As a result, we have proposed a means to reduce uncertainty in the validation risk estimator, but that does not solve the problem completely. Secondly, we modeled the transfer from source to target domain using parametric families of distributions, which works well in simple contexts such as feature dropout at test time. Thirdly, we looked at a more practical problem: tissue classifiers trained on data from one MRI scanner degrade when applied to data from another scanner due to acquisition-based variations. We tackled this problem by learning a representation for which detrimental variations are minimized while maintaining tissue contrast. Finally, considering that many approaches fail in practice because their assumptions are not met, we designed a parameter estimator that never performs worse than the naive non-adaptive classifier.</p>
+<p>Overall, research into domain-adaptive machine learning is still in its infancy, with many interesting challenges ahead. I hope that this work contributes to a better understanding of the problem and will inspire more researchers to tackle it.</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/domain-adaptation/">Domain-Adaptation</a>
+  
+  <a class="badge badge-light" href="/tag/transfer-learning/">Transfer-Learning</a>
+  
+  <a class="badge badge-light" href="/tag/machine-learning/">Machine Learning</a>
+  
+  <a class="badge badge-light" href="/tag/pattern-recognition/">Pattern-Recognition</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=DAPR&amp;body=https%3A%2F%2Fwmkouw.github.io%2Fproject%2Fdapr%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwmkouw.github.io%2Fproject%2Fdapr%2F&amp;text=DAPR" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwmkouw.github.io%2Fproject%2Fdapr%2F&amp;title=DAPR" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://wmkouw.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu14243947995913177195.jpg" alt="Wouter M. Kouw"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://wmkouw.github.io/">Wouter M. Kouw</a></h5>
+      <h6 class="card-subtitle">Assistant Professor</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.tue.nl/en/research/researchers/wouter-kouw/" target="_blank" rel="noopener">
+        <i class="fas fa-building-columns"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://biaslab.github.io/member/wouter/" target="_blank" rel="noopener">
+        <i class="fas fa-user-group"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.nl/citations?user=st1j2_EAAAAJ" target="_blank" rel="noopener">
+        <i class="fab fa-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/wmkouw" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/rdada/" >Robust domain-adaptive discriminant analysis</a>
+    </div>
+
+    
+    <a href="/publication/rdada/"  class="summary-link">
+      <div class="article-style">
+        Consider a domain-adaptive supervised learning setting, where a classifier learns from labeled data in a source domain and unlabeled …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Wouter M. Kouw</span>, <span >
+      Marco Loog</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0167865521001732/pdfft?md5=5fbbe784bc700ad2fc63dbe691d3e434&amp;pid=1-s2.0-S0167865521001732-main.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/rdada/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wmkouw/tcpr/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dapr/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1016/j.patrec.2021.05.005" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/trda/" >Target robust discriminant analysis</a>
+    </div>
+
+    
+    <a href="/publication/trda/"  class="summary-link">
+      <div class="article-style">
+        Often, in practice, the data distribution at test time differs, to a smaller or larger extent, from that of the original training data. …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Wouter M. Kouw</span>, <span >
+      Marco Loog</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1806.09463.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/trda/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wmkouw/tcpr/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dapr/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1007/978-3-030-73973-7_1" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/drc/" >The data representativeness criterion</a>
+    </div>
+
+    
+    <a href="/publication/drc/"  class="summary-link">
+      <div class="article-style">
+        In a broad range of fields it may be desirable to reuse a supervised classification algorithm and apply it to a new data set. However, …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Evelien Hart</span>, <span >
+      Rens Van De Schoot</span>, <span class="author-highlighted">
+      Wouter M. Kouw</span>, <span >
+      Duco Veen</span>, <span >
+      Adriënne Mendrik</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2002.12105.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/drc/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/eschat/DRC" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dapr/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1371/journal.pone.0237009" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/da-rev/" >A review of domain adaptation without target labels</a>
+    </div>
+
+    
+    <a href="/publication/da-rev/"  class="summary-link">
+      <div class="article-style">
+        Domain adaptation has become a prominent problem setting in machine learning and related fields. This review asks the question: how can …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Wouter M. Kouw</span>, <span >
+      Marco Loog</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1901.05335.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/da-rev/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wmkouw/survey-da" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/seqdais/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dapr/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1109/TPAMI.2019.2945942" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/covshift-rob/" >Robust importance-weighted cross-validation under sample selection bias</a>
+    </div>
+
+    
+    <a href="/publication/covshift-rob/"  class="summary-link">
+      <div class="article-style">
+        Cross-validation under sample selection bias can, in principle, be done by importance-weighting the empirical risk. However, the …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Wouter M. Kouw</span>, <span >
+      Marco Loog</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1710.06514.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/covshift-rob/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wmkouw/ctrl-iwxval" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dapr/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1109/MLSP.2019.8918731" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/mrai-net/" >Learning an MR acquisition-invariant representation using Siamese neural networks</a>
+    </div>
+
+    
+    <a href="/publication/mrai-net/"  class="summary-link">
+      <div class="article-style">
+        Generalization of voxelwise classifiers is hampered by differences between MRI-scanners, e.g. different acquisition protocols and field …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Wouter M. Kouw</span>, <span >
+      Marco Loog</span>, <span >
+      Wilbert Bartels</span>, <span >
+      Adriënne Mendrik</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1810.07430.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/mrai-net/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wmkouw/mrai-net" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dapr/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1109/ISBI.2019.8759281" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/covshift-skew/" >Effects of sampling skewness of the importance-weighted risk estimator on model selection</a>
+    </div>
+
+    
+    <a href="/publication/covshift-skew/"  class="summary-link">
+      <div class="article-style">
+        Importance-weighting is a popular and well-researched technique for dealing with sample selection bias and covariate shift. It has …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Wouter M. Kouw</span>, <span >
+      Marco Loog</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1804.07344.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/covshift-skew/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wmkouw/covshift-skewness" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dapr/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1109/ICPR.2018.8546186" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/tr-introda/" >An introduction to domain adaptation and transfer learning</a>
+    </div>
+
+    
+    <a href="/publication/tr-introda/"  class="summary-link">
+      <div class="article-style">
+        In machine learning, if the training data is an unbiased sample of an underlying distribution, then the learned classification function …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Wouter M. Kouw</span>, <span >
+      Marco Loog</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1812.11806.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/tr-introda/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dapr/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/http://dx.doi.org/10.13140/RG.2.2.33906.56004" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/covshift-reg/" >On regularization parameter estimation under covariate shift</a>
+    </div>
+
+    
+    <a href="/publication/covshift-reg/"  class="summary-link">
+      <div class="article-style">
+        This paper identifies a problem with the usual procedure for L2-regularization parameter estimation in a domain adaptation setting. In …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Wouter M. Kouw</span>, <span >
+      Marco Loog</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/1608.00250.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/covshift-reg/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wmkouw/covshift-l2reg" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dapr/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1109/ICPR.2016.7899671" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/flda/" >Feature-level domain adaptation</a>
+    </div>
+
+    
+    <a href="/publication/flda/"  class="summary-link">
+      <div class="article-style">
+        Domain adaptation has become a prominent problem setting in machine learning and related fields. This review asks the question: how can …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Wouter M. Kouw</span>, <span >
+      Laurens Van Der Maaten</span>, <span >
+      Jesse Krijthe</span>, <span >
+      Marco Loog</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.jmlr.org/papers/volume17/15-206/15-206.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/flda/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/wmkouw/flda" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dapr/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2025 Wouter M. Kouw. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.03ad7a035a0f0041929b2f0d65030b4d.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.abfe36939207af9cb82df4fe2604ba17.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

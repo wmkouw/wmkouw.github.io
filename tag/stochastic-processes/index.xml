@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stochastic-Processes | Wouter M. Kouw</title>
+    <link>https://wmkouw.github.io/tag/stochastic-processes/</link>
+      <atom:link href="https://wmkouw.github.io/tag/stochastic-processes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stochastic-Processes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wmkouw.github.io/media/icon_hu16822585919008292112.png</url>
+      <title>Stochastic-Processes</title>
+      <link>https://wmkouw.github.io/tag/stochastic-processes/</link>
+    </image>
+    
+    <item>
+      <title>TU/e 5EZC0</title>
+      <link>https://wmkouw.github.io/teaching/tue-5ezc0/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/teaching/tue-5ezc0/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://canvas.tue.nl/courses/30244&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5EZC0 Math 3 - Probability &amp;amp; Statistics&lt;/a&gt; is a core Bachelor&amp;rsquo;s course in the Electrical Engineering Bachelor Program of the TU Eindhoven.&lt;/p&gt;
+&lt;p&gt;Mathematics is the foundation upon which engineering sciences are built and is at the core of disciplines that drive technological developments and innovations in the digital age. This course introduces students to the mathematics of probability and statistics, indispensable in the fields of communication, signal processing, control, and machine learning, among others. The student will learn about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Random experiments and probability models (set theory, probability axioms, conditional probability, independence).&lt;/li&gt;
+&lt;li&gt;Discrete random variables (probability mass function, cumulative distribution function, families of discrete random variables, functions of random
+variables, expectation, variance).&lt;/li&gt;
+&lt;li&gt;Continuous random variables (probability density function, cumulative distribution function, families of continuous random variables, Gaussian
+random variables).&lt;/li&gt;
+&lt;li&gt;Multiple (two) random variables (joint distributions, marginal distributions, conditional distributions, covariance, correlation, independence,
+Bivariate Gaussian random vectors).&lt;/li&gt;
+&lt;li&gt;Stochastic processes (definitions, stationary processes, Poisson process, Gaussian process).&lt;/li&gt;
+&lt;li&gt;Statistical inference (posterior distribution, MAP rule, least mean squares estimation).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Wouter M. Kouw</title>
     <link>https://wmkouw.github.io/</link>
       <atom:link href="https://wmkouw.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description></description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Mon, 28 Oct 2024 09:00:00 +0200</lastBuildDate>
+    <description>Wouter M. Kouw</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
-      <title></title>
+      <url>https://wmkouw.github.io/media/icon_hu16822585919008292112.png</url>
+      <title>Wouter M. Kouw</title>
       <link>https://wmkouw.github.io/</link>
     </image>
+    
+    <item>
+      <title>TU/e 5EZC0</title>
+      <link>https://wmkouw.github.io/teaching/tue-5ezc0/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/teaching/tue-5ezc0/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://canvas.tue.nl/courses/30244&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5EZC0 Math 3 - Probability &amp;amp; Statistics&lt;/a&gt; is a core Bachelor&amp;rsquo;s course in the Electrical Engineering Bachelor Program of the TU Eindhoven.&lt;/p&gt;
+&lt;p&gt;Mathematics is the foundation upon which engineering sciences are built and is at the core of disciplines that drive technological developments and innovations in the digital age. This course introduces students to the mathematics of probability and statistics, indispensable in the fields of communication, signal processing, control, and machine learning, among others. The student will learn about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Random experiments and probability models (set theory, probability axioms, conditional probability, independence).&lt;/li&gt;
+&lt;li&gt;Discrete random variables (probability mass function, cumulative distribution function, families of discrete random variables, functions of random
+variables, expectation, variance).&lt;/li&gt;
+&lt;li&gt;Continuous random variables (probability density function, cumulative distribution function, families of continuous random variables, Gaussian
+random variables).&lt;/li&gt;
+&lt;li&gt;Multiple (two) random variables (joint distributions, marginal distributions, conditional distributions, covariance, correlation, independence,
+Bivariate Gaussian random vectors).&lt;/li&gt;
+&lt;li&gt;Stochastic processes (definitions, stationary processes, Poisson process, Gaussian process).&lt;/li&gt;
+&lt;li&gt;Statistical inference (posterior distribution, MAP rule, least mean squares estimation).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CONTACT-AI</title>
+      <link>https://wmkouw.github.io/project/contact-ai/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/contact-ai/</guid>
+      <description>&lt;p&gt;A major challenge in artificial intelligence (AI) is physical interaction with the real world. CONTACT-AI explores novel probabilistic machine learning techniques, grounded in computational neuroscience, to let legged robots explore with touch when visual perception remains ambiguous. Using explainable models, we will enable an intelligent agent to learn and switch dynamics when facing external uncertainties (e.g., obstacle). The proposed implementation (Bayesian machine learning through message passing on factor graphs) is computationally efficient enough to run on cheap single-board computers on-board miniature robots. CONTACT-AI provides uncertainty-based embodied AI methods that improve robustness and autonomy in the multimillion market for legged robots.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Multiple variational Kalman-GRU for ship trajectory prediction with uncertainty</title>
@@ -145,7 +175,7 @@
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://wmkouw.github.io/teaching/tue-5xif0/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://canvas.tue.nl/courses/23398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5XIF0 Neuro Computation&lt;/a&gt; is an elective course in the Electrical Engineering Bachelor Program of the TU Eindhoven and a core course in the Neuro System Design package of the Neuro Engineering track.&lt;/p&gt;
-&lt;p&gt;The human brain and other biological neural systems are incredibly efficient at processing information, can handle complex and noisy data inputs, learn quickly, and adapt to new situations while operating in a highly parallel and distributed manner. This is very different than the current artificial intelligence approach, which requires too much power and does not scale. Thus, efforts are underway to develop artificial neural networks that can approach the efficiency and effectiveness of biological neural systems. These efforts include research in neurocomputing and include the development of new theories, methods, and algorithms in designing more specialized &amp;lsquo;neuromorphic&amp;rsquo; hardware architectures that support bio-inspired neural networks.&lt;/p&gt;
+&lt;p&gt;The human brain and other biological neural systems are incredibly efficient at processing information, can handle complex and noisy data inputs, learn quickly, and adapt to new situations while operating in a highly parallel and distributed manner. This is very different than the current artificial intelligence approach, which requires too much power and does not scale. Thus, efforts are underway to develop artificial neural networks that can approach the efficiency and effectiveness of biological neural systems. These efforts include research in neurocomputing and include the development of new theories, methods, and algorithms in designing more specialized &amp;rsquo;neuromorphic&amp;rsquo; hardware architectures that support bio-inspired neural networks.&lt;/p&gt;
 &lt;p&gt;In 5XIF0 Neuro Computation you will have the opportunity to learn the computational properties of neurobiological systems and you will learn to design spiking neural networks using mixed-signal &amp;ldquo;neuromorphic&amp;rdquo; electronic circuits. Similar to their biological counterparts, these neuromorphic implementations operate in continuous time in a massively parallel way, are extremely efficient, and represent the third generation of neural networks.&lt;/p&gt;
 </description>
     </item>
@@ -216,13 +246,17 @@
       <link>https://wmkouw.github.io/publication/rdada/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       <guid>https://wmkouw.github.io/publication/rdada/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
@@ -267,13 +301,17 @@
       <link>https://wmkouw.github.io/publication/trda/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://wmkouw.github.io/publication/trda/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
@@ -304,13 +342,17 @@
       <link>https://wmkouw.github.io/publication/nsi-duff/</link>
       <pubDate>Tue, 01 Sep 2020 12:00:00 +0200</pubDate>
       <guid>https://wmkouw.github.io/publication/nsi-duff/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
@@ -333,13 +375,17 @@
       <link>https://wmkouw.github.io/publication/vmphar/</link>
       <pubDate>Sun, 21 Jun 2020 12:00:00 +0200</pubDate>
       <guid>https://wmkouw.github.io/publication/vmphar/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
@@ -354,13 +400,17 @@
       <link>https://wmkouw.github.io/publication/vmpar-hgf/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://wmkouw.github.io/publication/vmpar-hgf/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
@@ -426,13 +476,17 @@
       <link>https://wmkouw.github.io/publication/covshift-rob/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://wmkouw.github.io/publication/covshift-rob/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
@@ -498,11 +552,10 @@
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
 &lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
@@ -512,19 +565,18 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   One 
+  One
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   **Two** 
+  &lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   Three 
+  Three
 &lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -535,12 +587,11 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
 &lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
@@ -574,21 +625,19 @@ $$&lt;/p&gt;
 
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
@@ -608,13 +657,17 @@ $$&lt;/p&gt;
       <link>https://wmkouw.github.io/publication/ct-boneseg/</link>
       <pubDate>Sat, 01 Dec 2018 12:00:00 +0200</pubDate>
       <guid>https://wmkouw.github.io/publication/ct-boneseg/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
@@ -637,13 +690,17 @@ $$&lt;/p&gt;
       <link>https://wmkouw.github.io/publication/covshift-skew/</link>
       <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://wmkouw.github.io/publication/covshift-skew/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
@@ -683,25 +740,21 @@ In other words, a system that sequentially adapts?&lt;/p&gt;
     </item>
     
     <item>
-      <title>Variance reduction techniques for importance-weighted cross-validation</title>
-      <link>https://wmkouw.github.io/talk/variance-reduction-techniques-for-importance-weighted-cross-validation/</link>
-      <pubDate>Thu, 09 Mar 2017 16:00:00 +0000</pubDate>
-      <guid>https://wmkouw.github.io/talk/variance-reduction-techniques-for-importance-weighted-cross-validation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An introduction to domain adaptation and transfer learning</title>
       <link>https://wmkouw.github.io/publication/tr-introda/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://wmkouw.github.io/publication/tr-introda/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
@@ -709,6 +762,14 @@ In other words, a system that sequentially adapts?&lt;/p&gt;
  --&gt;
 &lt;!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Variance reduction techniques for importance-weighted cross-validation</title>
+      <link>https://wmkouw.github.io/talk/variance-reduction-techniques-for-importance-weighted-cross-validation/</link>
+      <pubDate>Thu, 09 Mar 2017 16:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/variance-reduction-techniques-for-importance-weighted-cross-validation/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -724,13 +785,17 @@ In other words, a system that sequentially adapts?&lt;/p&gt;
       <link>https://wmkouw.github.io/publication/covshift-reg/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://wmkouw.github.io/publication/covshift-reg/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
@@ -773,10 +838,22 @@ In other words, a system that sequentially adapts?&lt;/p&gt;
     </item>
     
     <item>
+      <title>DAPR</title>
+      <link>https://wmkouw.github.io/project/dapr/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/dapr/</guid>
+      <description>&lt;p&gt;Artificial intelligence, in particular machine learning and pattern recognition, is concerned with teaching computer systems to perform tasks. Tasks such as autonomous driving, recognizing tumors in medical images, or detecting suspicious packages in airports. Such systems learn by observing examples, i.e. data, and forming a mathematical description of what types of variations occur, i.e. a statistical model. For new input, the system computes the most likely output and makes a decision accordingly. As a scientific field, it is situated between statistics and and algorithmics. As a technology, it has become a very powerful tool due to the massive amounts of data being collected and the drop in the cost of computation.&lt;/p&gt;
+&lt;p&gt;However, obtaining &lt;em&gt;enough&lt;/em&gt; data is still very difficult. There are often substantial financial, operational or ethical considerations in collecting data. The majority of research in machine learning deals with constraints on the amount, the labeling and the types of data that are available. One such constraint is that it is only possible to collect labeled data from one population, or domain, but the goal is to make decisions for another domain. It is unclear under which conditions this will be possible, which inspires the research question of this thesis: when and how can a classification algorithm generalize from a source domain to a target domain?&lt;/p&gt;
+&lt;p&gt;My research has looked at different approaches to &lt;em&gt;domain adaptation&lt;/em&gt;. Firstly, we have asked some critical questions on whether the standard approaches to model validation still hold in the context of different domains. As a result, we have proposed a means to reduce uncertainty in the validation risk estimator, but that does not solve the problem completely. Secondly, we modeled the transfer from source to target domain using parametric families of distributions, which works well in simple contexts such as feature dropout at test time. Thirdly, we looked at a more practical problem: tissue classifiers trained on data from one MRI scanner degrade when applied to data from another scanner due to acquisition-based variations. We tackled this problem by learning a representation for which detrimental variations are minimized while maintaining tissue contrast. Finally, considering that many approaches fail in practice because their assumptions are not met, we designed a parameter estimator that never performs worse than the naive non-adaptive classifier.&lt;/p&gt;
+&lt;p&gt;Overall, research into domain-adaptive machine learning is still in its infancy, with many interesting challenges ahead. I hope that this work contributes to a better understanding of the problem and will inspire more researchers to tackle it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>https://wmkouw.github.io/admin/config.yml</link>
+      <link>https://wmkouw.github.io/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wmkouw.github.io/admin/config.yml</guid>
+      <guid>https://wmkouw.github.io/admin/</guid>
       <description></description>
     </item>
     

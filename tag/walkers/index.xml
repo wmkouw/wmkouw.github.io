@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>walkers | </title>
-    <link>https://wmkouw.github.io/tag/walkers/</link>
-      <atom:link href="https://wmkouw.github.io/tag/walkers/index.xml" rel="self" type="application/rss+xml" />
-    <description>walkers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <title>Walkers | Wouter M. Kouw</title>
+    <link>http://localhost:1313/tag/walkers/</link>
+      <atom:link href="http://localhost:1313/tag/walkers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Walkers</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
-      <title>walkers</title>
-      <link>https://wmkouw.github.io/tag/walkers/</link>
+      <url>http://localhost:1313/media/icon_hu16822585919008292112.png</url>
+      <title>Walkers</title>
+      <link>http://localhost:1313/tag/walkers/</link>
     </image>
     
     <item>
       <title>FEPQuad</title>
-      <link>https://wmkouw.github.io/project/fep-quad/</link>
+      <link>http://localhost:1313/project/fep-quad/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://wmkouw.github.io/project/fep-quad/</guid>
+      <guid>http://localhost:1313/project/fep-quad/</guid>
       <description>&lt;p&gt;We will design an artificially intelligent autonomous system for quadrupedal robot locomotion, using a novel paradigm from theoretical neuroscience called Active Inference (AIF). “Active” refers to selecting actions that reduce uncertainty within the probabilistic model of the world and “inference” refers to the use of variational Bayesian inference to update beliefs over unobserved variables in the model (e.g. parameters, states, noise, controls). AIF is a novel perspective on neural information processing and is intended to model cognition, for instance how rats explore small mazes in search of food. But it can also serve as a design principle for artificially intelligent autonomous systems (agents). These can be applied to signal processing systems (e.g. adaptively calibrating hearing aids), control systems (e.g. identifying electro-mechanical systems) or robotics (e.g. learning to grasp). However, bringing AIF to engineering is far from trivial. There are many technical challenges, such as how to account for strong non-linearities, how to deal with high degrees of freedom of moving parts or how to include practical constraints to avoid breaking hardware.&lt;/p&gt;
 &lt;p&gt;Why Active Inference? It represents a series of technical advantages over the current state-of-the-art in AI methodologies. Deep learning is a popular framework with impressive applications, but is not without its limitations. Firstly, it requires huge amounts of data to “discover” structure. AIF is a hybrid of model-driven and data-driven learning, which means it can rely on prior knowledge when data is scarce. Crucially, deep learning methods only perform well after an experienced designer has extensively tuned the network’s architecture, regularized its complexity and tried various optimizers. In AIF, there are fewer model parameters, regularization arises naturally through prior distributions and optimization is not an issue. To train deep neural networks, you need expensive hardware (GPU) with a sizeable carbon footprint. AIF agents require less computation power and are more suited to embedded electronics. Last but not least, when deep learning is applied to control (deep reinforcement learning), the engineer must design a “reward function” that indicates the value of actions. This function is hard to design, leading to misbehaving agents. AIF agents do not suffer from this problem because rewards arise implicitly from the probabilistic model. These properties are all nice, but the most important argument for AIF is that it represents a principled way to design intelligent systems: instead of hacking something together based on task-specific cost functions, we now have a first-principle-based framework of perception, decision-making, planning and action.&lt;/p&gt;
 &lt;p&gt;Why quadrupedal walking robots? Because unlike wheeled robots, walkers can step over objects and climb stairs. Unlike drones, they can enter confined spaces and operate for extended periods of time. In theory, quadrupeds are highly agile. In practice, learning to walk is such a complex challenge that they often fail to live up to their potential. Modern AI has accelerated legged robotics to the point that quadrupeds now walk relatively smoothly. Companies such as Boston Dynamics, ANYbotics and Unitree are developing commercial products for semi-autonomous site inspection and maintenance. But their controllers still rely heavily on deep learning. Our AIF agent will make it much easier to teach legged robots to walk.&lt;/p&gt;

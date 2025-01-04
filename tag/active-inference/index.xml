@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>active-inference | </title>
+    <title>Active-Inference | Wouter M. Kouw</title>
     <link>https://wmkouw.github.io/tag/active-inference/</link>
       <atom:link href="https://wmkouw.github.io/tag/active-inference/index.xml" rel="self" type="application/rss+xml" />
-    <description>active-inference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Wed, 11 Sep 2024 10:40:00 +0000</lastBuildDate>
+    <description>Active-Inference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
-      <title>active-inference</title>
+      <url>https://wmkouw.github.io/media/icon_hu16822585919008292112.png</url>
+      <title>Active-Inference</title>
       <link>https://wmkouw.github.io/tag/active-inference/</link>
     </image>
+    
+    <item>
+      <title>CONTACT-AI</title>
+      <link>https://wmkouw.github.io/project/contact-ai/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/contact-ai/</guid>
+      <description>&lt;p&gt;A major challenge in artificial intelligence (AI) is physical interaction with the real world. CONTACT-AI explores novel probabilistic machine learning techniques, grounded in computational neuroscience, to let legged robots explore with touch when visual perception remains ambiguous. Using explainable models, we will enable an intelligent agent to learn and switch dynamics when facing external uncertainties (e.g., obstacle). The proposed implementation (Bayesian machine learning through message passing on factor graphs) is computationally efficient enough to run on cheap single-board computers on-board miniature robots. CONTACT-AI provides uncertainty-based embodied AI methods that improve robustness and autonomy in the multimillion market for legged robots.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Planning to avoid ambiguous states through Gaussian approximations to non-linear sensors</title>

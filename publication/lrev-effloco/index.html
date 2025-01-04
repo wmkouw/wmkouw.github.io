@@ -1,14 +1,16 @@
-<!DOCTYPE html><html lang="en-us" >
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: January 4, 2025 --><html lang="en-us" >
 
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   
   
   
-    <meta name="generator" content="Wowchemy 5.4.0 for Hugo" />
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
   
 
   
@@ -22,7 +24,25 @@
 
 
 
+
+
+
   
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
 
 
 
@@ -44,279 +64,271 @@
 
   
   
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+
   
   
   
     
     
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
     
   
+
   
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" disabled>
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" >
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
 
   <meta name="author" content="Wouter Kouw" />
 
-  
-  
-  
-    
-  
-  <meta name="description" content="We review approaches to enhancing sample efficiency, such as off-policy, model-based, and step-based learning, and provide examples using several popular reinforcement learning agents applied to a quadruped in simulation." />
 
-  
-  <link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/publication/lrev-effloco/" />
-
-  
-  
-  
-    <meta name="theme-color" content="#1565c0" />
-  
-
-  
-  
-    
-    <script src="/js/mathjax-config.js"></script>
-  
-
-  
-
-  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
-
-  
-  
-  
-    
-    
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
-    
-
-    
-    
-    
-    
-      
-      
-    
-    
-    
-
-    
-    
-    
-      
-    
-    
-      
-      
-        
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
-        
-      
-    
-
-    
-    
-    
-
-    
-
-    
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
-    
-  
-
-  
-  
-  
-  
-  
-  <link rel="stylesheet" href="/css/wowchemy.246129d782c938a644fe2d653d8a976f.css" />
-
-  
 
 
 
   
 
-  
+<meta name="description" content="" />
 
-  
+
+
+<link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/lrev-effloco/" />
+<link rel="canonical" href="http://localhost:1313/publication/lrev-effloco/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu10610163281689111336.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu17622894342994775836.png" />
+
+<meta name="theme-color" content="#bbdefb" />
+
+
+
+
+
+
 
 
 
 
   
   
-  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="http://localhost:1313/media/icon_hu16822585919008292112.png" />
+
+
 
   
 
-  
-    <link rel="manifest" href="/manifest.webmanifest" />
-  
-
-  <link rel="icon" type="image/png" href="/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_180x180_fill_lanczos_center_3.png" />
-
-  <link rel="canonical" href="https://wmkouw.github.io/publication/lrev-effloco/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="" />
+<meta property="og:url" content="http://localhost:1313/publication/lrev-effloco/" />
+<meta property="og:title" content="" />
+<meta property="og:description" content="" /><meta property="og:image" content="http://localhost:1313/media/icon_hu16822585919008292112.png" /><meta property="og:locale" content="en-us" />
 
   
   
-  
-  
-  
-  
-  
-  
-    
-    
-  
-  
 
-  
-  
-    
-    
-  
-  <meta property="twitter:card" content="summary" />
-  
-  <meta property="og:site_name" content="" />
-  <meta property="og:url" content="https://wmkouw.github.io/publication/lrev-effloco/" />
-  <meta property="og:title" content="Insights into sample efficient quadrupedal robot locomotion | " />
-  <meta property="og:description" content="We review approaches to enhancing sample efficiency, such as off-policy, model-based, and step-based learning, and provide examples using several popular reinforcement learning agents applied to a quadruped in simulation." /><meta property="og:image" content="https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
-  
-    
-      <meta
-        property="article:published_time"
-        content="2024-04-04T00:00:00&#43;00:00"
-      />
-    
-    <meta property="article:modified_time" content="2024-04-04T09:00:00&#43;02:00">
-  
 
-  
+
+
 
 
     
@@ -335,16 +347,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://wmkouw.github.io/publication/lrev-effloco/"
+    "@id": "http://localhost:1313/publication/lrev-effloco/"
   },
-  "headline": "Insights into sample efficient quadrupedal robot locomotion",
+  "headline": "",
   
-  "datePublished": "2024-04-04T00:00:00Z",
-  "dateModified": "2024-04-04T09:00:00+02:00",
+  "datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Tim Nisslbeck"
+    "name": "Wouter Kouw"
   },
   
   "publisher": {
@@ -352,10 +364,10 @@
     "name": "",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_192x192_fill_lanczos_center_3.png"
+      "url": "http://localhost:1313/media/icon_hu8168636963508404236.png"
     }
   },
-  "description": "We review approaches to enhancing sample efficiency, such as off-policy, model-based, and step-based learning, and provide examples using several popular reinforcement learning agents applied to a quadruped in simulation."
+  "description": "\u003c!-- ---\ntitle: \"Insights into sample efficient quadrupedal robot locomotion\"\n\n# Authors\n# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here \n# and it will be replaced with their full name and linked to their profile.\nauthors:\n- Tim Nisslbeck\n- admin\n\n# Author notes (optional)\n# author_notes:\n# - \"Equal contribution\"\n# - \"Equal contribution\"\n\ndate: \"2024-04-04T09:00:00+02:00\"\ndoi: \"\"\n\n# Schedule page publish date (NOT publication's date).\npublishDate: \"2024-04-04T00:00:00Z\"\n\n# Publication type.\n# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;\n# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;\n# 7 = Thesis; 8 = Patent\npublication_types: [\"2\"]\n\n# Publication name and optional abbreviated publication name.\npublication: Under review\npublication_short: Under review\n\nabstract: Autonomous quadrupedal robot locomotion is challenging. Traditional approaches require expert knowledge of robot mechanics and contact dynamics, but modern machine learning-based methods, such as reinforcement learning and imitation learning, can find locomotion policies purely from interactions with the environment. Unfortunately, these methods typically require many samples and trials to learn, particularly in high-dimensional systems. This makes them unable to quickly adapt to changing environments, thus limiting their practical utility. We review approaches to enhancing sample efficiency, including choices of reward, action and observation spaces, as well as off-policy, model-based, and step-based learning. We provide examples of these principles using several popular reinforcement learning agents applied to a quadruped in simulation. Finally, we discuss unexplored avenues to further improve sample efficiency.\n\n# Summary. An optional shortened abstract.\nsummary: We review approaches to enhancing sample efficiency, such as off-policy, model-based, and step-based learning, and provide examples using several popular reinforcement learning agents applied to a quadruped in simulation.\n\ntags: []\n\n# Display this page in the Featured widget?\nfeatured: false\n\n# Custom links (uncomment lines below)\n# links:\n# - name: Custom Link\n#   url: http://example.org\n\nurl_pdf: ''\nurl_code: 'https://github.com/biaslab/2024-FRAI-efficientlocomotion/'\nurl_dataset: ''\nurl_poster: ''\nurl_project: ''\nurl_slides: ''\nurl_source: ''\nurl_video: ''\n\n\n# Featured image\n# To use, add an image named `featured.jpg/png` to your page's folder. \nimage:\n  caption: ''\n  focal_point: \"\"\n  preview_only: false\n\n# Associated Projects (optional).\n#   Associate this publication with one or more of your projects.\n#   Simply enter your project's folder or file name without extension.\n#   E.g. `internal-project` references `content/project/internal-project/index.md`.\n#   Otherwise, set `projects: []`.\nprojects:\n- fep-quad\n\n# Slides (optional).\n#   Associate this publication with Markdown slides.\n#   Simply enter your slide deck's filename without extension.\n#   E.g. `slides: \"example\"` references `content/slides/example/index.md`.\n#   Otherwise, set `slides: \"\"`.\nslides: \"\"\n--- --\u003e"
 }
 </script>
 
@@ -363,19 +375,41 @@
 
   
 
+
+
+
+  
+  
+  
+
+  
   
 
   
 
 
+  
+  <title></title>
+
+  
+  
+  
+  
 
 
 
-  <title>Insights into sample efficient quadrupedal robot locomotion | </title>
+
+
+
+
+
+
+
+
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="dd420574bf7b346da151d4d922eface4" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="dd420574bf7b346da151d4d922eface4" >
 
   
   
@@ -386,52 +420,19 @@
   
   
   
-  <script src="/js/wowchemy-init.min.8f76bdc9e086322ed5147724ebba3d06.js"></script>
+  <script src="/js/wowchemy-init.min.js"></script>
 
   
 
 
-<aside class="search-modal" id="search">
-  <div class="container">
-    <section class="search-header">
-
-      <div class="row no-gutters justify-content-between mb-3">
-        <div class="col-6">
-          <h1>Search</h1>
-        </div>
-        <div class="col-6 col-search-close">
-          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
-        </div>
-      </div>
-
-      <div id="search-box">
-        
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
-        aria-label="Search...">
-        
-      </div>
-
-      
-      
-
-      
-
-    </section>
-    <section class="section-search-results">
-
-      <div id="search-hits">
-        
-      </div>
-
-    </section>
-  </div>
-</aside>
 
 
-
-  <div class="page-header">
-    
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
 
 
 
@@ -444,7 +445,7 @@
 
 
 
-<header class="header--fixed">
+<header>
   <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
     <div class="container-xl">
 
@@ -684,29 +685,10 @@
 
         
         
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
         
 
         
         
-        <li class="nav-item dropdown theme-dropdown">
-          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
-            <i class="fas fa-moon" aria-hidden="true"></i>
-          </a>
-          <div class="dropdown-menu">
-            <a href="#" class="dropdown-item js-set-theme-light">
-              <span>Light</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-dark">
-              <span>Dark</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-auto">
-              <span>Automatic</span>
-            </a>
-          </div>
-        </li>
         
 
         
@@ -723,11 +705,10 @@
 
   <div class="page-body">
     
+    
+    
 
-
-
-
-
+    
 
 
 
@@ -746,13 +727,14 @@
 
 
 
+
   
 
   
   
   
 <div class="article-container pt-3">
-  <h1>Insights into sample efficient quadrupedal robot locomotion</h1>
+  <h1></h1>
 
   
 
@@ -764,17 +746,6 @@
 
   
   
-  
-  
-  <div>
-    
-
-  <span >
-      Tim Nisslbeck</span>, <span class="author-highlighted">
-      Wouter Kouw</span>
-  </div>
-  
-  
 
   
   <span class="article-date">
@@ -782,7 +753,7 @@
     
       
     
-    April 2024
+    January 0001
   </span>
   
 
@@ -794,8 +765,6 @@
   
   
   
-  
-  
 
   
   
@@ -806,53 +775,6 @@
 
 
 
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/biaslab/2024-FRAI-efficientlocomotion/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary btn-page-header" href="/project/fep-quad/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-</div>
 
 
   
@@ -863,49 +785,95 @@
   <div class="article-container">
 
     
-    <h3>Abstract</h3>
-    <p class="pub-abstract">Autonomous quadrupedal robot locomotion is challenging. Traditional approaches require expert knowledge of robot mechanics and contact dynamics, but modern machine learning-based methods, such as reinforcement learning and imitation learning, can find locomotion policies purely from interactions with the environment. Unfortunately, these methods typically require many samples and trials to learn, particularly in high-dimensional systems. This makes them unable to quickly adapt to changing environments, thus limiting their practical utility. We review approaches to enhancing sample efficiency, including choices of reward, action and observation spaces, as well as off-policy, model-based, and step-based learning. We provide examples of these principles using several popular reinforcement learning agents applied to a quadruped in simulation. Finally, we discuss unexplored avenues to further improve sample efficiency.</p>
-    
 
     
     
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            <a href="/publication/#2">
-              Journal article
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
 
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Under review</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
     
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style"><!-- ---
+title: "Insights into sample efficient quadrupedal robot locomotion"
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- Tim Nisslbeck
+- admin
+
+# Author notes (optional)
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+
+date: "2024-04-04T09:00:00+02:00"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2024-04-04T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: Under review
+publication_short: Under review
+
+abstract: Autonomous quadrupedal robot locomotion is challenging. Traditional approaches require expert knowledge of robot mechanics and contact dynamics, but modern machine learning-based methods, such as reinforcement learning and imitation learning, can find locomotion policies purely from interactions with the environment. Unfortunately, these methods typically require many samples and trials to learn, particularly in high-dimensional systems. This makes them unable to quickly adapt to changing environments, thus limiting their practical utility. We review approaches to enhancing sample efficiency, including choices of reward, action and observation spaces, as well as off-policy, model-based, and step-based learning. We provide examples of these principles using several popular reinforcement learning agents applied to a quadruped in simulation. Finally, we discuss unexplored avenues to further improve sample efficiency.
+
+# Summary. An optional shortened abstract.
+summary: We review approaches to enhancing sample efficiency, such as off-policy, model-based, and step-based learning, and provide examples using several popular reinforcement learning agents applied to a quadruped in simulation.
+
+tags: []
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: 'https://github.com/biaslab/2024-FRAI-efficientlocomotion/'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- fep-quad
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+--- -->
+</div>
 
     
-
 
 
 
@@ -923,8 +891,14 @@
       
       
       
+      
+      
+      
+      
+        
+      
       <li>
-        <a href="mailto:?subject=Insights%20into%20sample%20efficient%20quadrupedal%20robot%20locomotion&amp;body=https://wmkouw.github.io/publication/lrev-effloco/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Flrev-effloco%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -936,8 +910,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://wmkouw.github.io/publication/lrev-effloco/&amp;text=Insights%20into%20sample%20efficient%20quadrupedal%20robot%20locomotion" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Flrev-effloco%2F&amp;text=" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -949,8 +927,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://wmkouw.github.io/publication/lrev-effloco/&amp;title=Insights%20into%20sample%20efficient%20quadrupedal%20robot%20locomotion" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Flrev-effloco%2F&amp;title=" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -970,13 +952,6 @@
 
   
   
-    
-
-
-
-
-  
-    
 
 
 
@@ -990,11 +965,11 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://wmkouw.github.io"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu39683db5b6cbd862ca9d05553aae8559_566470_270x270_fill_q90_lanczos_center.jpg" alt="Wouter Kouw"></a>
+      <a href="http://localhost:1313/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu14243947995913177195.jpg" alt="Wouter Kouw"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://wmkouw.github.io">Wouter Kouw</a></h5>
+      <h5 class="card-title"><a href="http://localhost:1313/">Wouter Kouw</a></h5>
       <h6 class="card-subtitle">Assistant Professor</h6>
       
       <ul class="network-icon" aria-hidden="true">
@@ -1054,9 +1029,6 @@
   </div>
 
 
-  
-
-
 
 
 
@@ -1087,25 +1059,40 @@
 
 
 
+
+
+
+
+
+
+
+
+
   
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 
-  
+
+
+
+
   <p class="powered-by">
-    © 2024 Wouter M. Kouw
-  </p>
-  
-
-  
-  
-
-
-
-
-
-
-  <p class="powered-by">
     
     
     
@@ -1115,7 +1102,7 @@
       
       
       
-      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
     
   </p>
 </footer>
@@ -1123,6 +1110,82 @@
     </div>
     
   </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+<script src="/en/js/wowchemy.min.js"></script>
+
+
+
+
+
+
 
   
 <div id="modal" class="modal fade" role="dialog">
@@ -1135,7 +1198,8 @@
         </button>
       </div>
       <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
+        
+        <pre><code></code></pre>
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
@@ -1150,111 +1214,20 @@
   </div>
 </div>
 
-      
 
-    
-    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+  <script src="/js/wowchemy-publication.js" type="module"></script>
 
-    
-    
-    
-      
-      
-        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
-      
 
-      
-      
 
-      
-        <script src="https://cdn.jsdelivr.net/gh/mermaid-js/mermaid@v8.8.4/dist/mermaid.min.js" integrity="sha512-+TNmhaRJf3jyYHTpzEq/5I6b+aGyhzWb21mGdHAjxSGSYwxN9Grug3Y3B9qVxWfKKY8MscE/6mr9walWvFLFvQ==" crossorigin="anonymous" title="mermaid"></script>
-      
 
-      
-        
-        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
-        
-        
-        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/julia.min.js" crossorigin="anonymous"></script>
-        
-        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js" crossorigin="anonymous"></script>
-        
-      
 
-    
 
-    
-    
-    
 
-    
-    
 
-    
-    
-    
-      
-      <script id="search-hit-fuse-template" type="text/x-template">
-        <div class="search-hit" id="summary-{{key}}">
-          <div class="search-hit-content">
-            <div class="search-hit-name">
-              <a href="{{relpermalink}}">{{title}}</a>
-              <div class="article-metadata search-hit-type">{{type}}</div>
-              <p class="search-hit-description">{{snippet}}</p>
-            </div>
-          </div>
-        </div>
-      </script>
-      
-        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
-      
-    
 
-    
-    
 
-    
-    
-    
-    
 
-    
-    
-      
-      
-      
-      
-      
-      
-      
-    
 
-    
-
-    
-    
-    
-    <script id="page-data" type="application/json">{"use_headroom":true}</script>
-
-    
-    
-      <script src="/js/wowchemy-headroom.1cb9e2fc8399acee94eab837265b73bf.js" type="module"></script>
-    
-    
-    
-    
-    
-    
-    
-      
-      
-    
-    
-    <script src="/en/js/wowchemy.min.247fd8f54253895301106e3006f53f38.js"></script>
-
-    
 
 
 

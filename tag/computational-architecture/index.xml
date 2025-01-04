@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computational architecture | </title>
+    <title>Computational Architecture | Wouter M. Kouw</title>
     <link>https://wmkouw.github.io/tag/computational-architecture/</link>
       <atom:link href="https://wmkouw.github.io/tag/computational-architecture/index.xml" rel="self" type="application/rss+xml" />
-    <description>Computational architecture</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <description>Computational Architecture</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
-      <title>Computational architecture</title>
+      <url>https://wmkouw.github.io/media/icon_hu16822585919008292112.png</url>
+      <title>Computational Architecture</title>
       <link>https://wmkouw.github.io/tag/computational-architecture/</link>
     </image>
     
@@ -18,7 +18,7 @@
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://wmkouw.github.io/teaching/tue-5xif0/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://canvas.tue.nl/courses/23398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5XIF0 Neuro Computation&lt;/a&gt; is an elective course in the Electrical Engineering Bachelor Program of the TU Eindhoven and a core course in the Neuro System Design package of the Neuro Engineering track.&lt;/p&gt;
-&lt;p&gt;The human brain and other biological neural systems are incredibly efficient at processing information, can handle complex and noisy data inputs, learn quickly, and adapt to new situations while operating in a highly parallel and distributed manner. This is very different than the current artificial intelligence approach, which requires too much power and does not scale. Thus, efforts are underway to develop artificial neural networks that can approach the efficiency and effectiveness of biological neural systems. These efforts include research in neurocomputing and include the development of new theories, methods, and algorithms in designing more specialized &amp;lsquo;neuromorphic&amp;rsquo; hardware architectures that support bio-inspired neural networks.&lt;/p&gt;
+&lt;p&gt;The human brain and other biological neural systems are incredibly efficient at processing information, can handle complex and noisy data inputs, learn quickly, and adapt to new situations while operating in a highly parallel and distributed manner. This is very different than the current artificial intelligence approach, which requires too much power and does not scale. Thus, efforts are underway to develop artificial neural networks that can approach the efficiency and effectiveness of biological neural systems. These efforts include research in neurocomputing and include the development of new theories, methods, and algorithms in designing more specialized &amp;rsquo;neuromorphic&amp;rsquo; hardware architectures that support bio-inspired neural networks.&lt;/p&gt;
 &lt;p&gt;In 5XIF0 Neuro Computation you will have the opportunity to learn the computational properties of neurobiological systems and you will learn to design spiking neural networks using mixed-signal &amp;ldquo;neuromorphic&amp;rdquo; electronic circuits. Similar to their biological counterparts, these neuromorphic implementations operate in continuous time in a massively parallel way, are extremely efficient, and represent the third generation of neural networks.&lt;/p&gt;
 </description>
     </item>

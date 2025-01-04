@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>domain-adaptation | </title>
+    <title>Domain-Adaptation | Wouter M. Kouw</title>
     <link>https://wmkouw.github.io/tag/domain-adaptation/</link>
       <atom:link href="https://wmkouw.github.io/tag/domain-adaptation/index.xml" rel="self" type="application/rss+xml" />
-    <description>domain-adaptation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Thu, 21 Jan 2021 12:30:00 +0000</lastBuildDate>
+    <description>Domain-Adaptation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jan 2021 12:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
-      <title>domain-adaptation</title>
+      <url>https://wmkouw.github.io/media/icon_hu16822585919008292112.png</url>
+      <title>Domain-Adaptation</title>
       <link>https://wmkouw.github.io/tag/domain-adaptation/</link>
     </image>
     
@@ -87,6 +87,18 @@ In other words, a system that sequentially adapts?&lt;/p&gt;
       <pubDate>Tue, 17 Mar 2015 16:00:00 +0000</pubDate>
       <guid>https://wmkouw.github.io/talk/feature-absence-regularization-for-domain-adaptive-learning/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>DAPR</title>
+      <link>https://wmkouw.github.io/project/dapr/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/dapr/</guid>
+      <description>&lt;p&gt;Artificial intelligence, in particular machine learning and pattern recognition, is concerned with teaching computer systems to perform tasks. Tasks such as autonomous driving, recognizing tumors in medical images, or detecting suspicious packages in airports. Such systems learn by observing examples, i.e. data, and forming a mathematical description of what types of variations occur, i.e. a statistical model. For new input, the system computes the most likely output and makes a decision accordingly. As a scientific field, it is situated between statistics and and algorithmics. As a technology, it has become a very powerful tool due to the massive amounts of data being collected and the drop in the cost of computation.&lt;/p&gt;
+&lt;p&gt;However, obtaining &lt;em&gt;enough&lt;/em&gt; data is still very difficult. There are often substantial financial, operational or ethical considerations in collecting data. The majority of research in machine learning deals with constraints on the amount, the labeling and the types of data that are available. One such constraint is that it is only possible to collect labeled data from one population, or domain, but the goal is to make decisions for another domain. It is unclear under which conditions this will be possible, which inspires the research question of this thesis: when and how can a classification algorithm generalize from a source domain to a target domain?&lt;/p&gt;
+&lt;p&gt;My research has looked at different approaches to &lt;em&gt;domain adaptation&lt;/em&gt;. Firstly, we have asked some critical questions on whether the standard approaches to model validation still hold in the context of different domains. As a result, we have proposed a means to reduce uncertainty in the validation risk estimator, but that does not solve the problem completely. Secondly, we modeled the transfer from source to target domain using parametric families of distributions, which works well in simple contexts such as feature dropout at test time. Thirdly, we looked at a more practical problem: tissue classifiers trained on data from one MRI scanner degrade when applied to data from another scanner due to acquisition-based variations. We tackled this problem by learning a representation for which detrimental variations are minimized while maintaining tissue contrast. Finally, considering that many approaches fail in practice because their assumptions are not met, we designed a parameter estimator that never performs worse than the naive non-adaptive classifier.&lt;/p&gt;
+&lt;p&gt;Overall, research into domain-adaptive machine learning is still in its infancy, with many interesting challenges ahead. I hope that this work contributes to a better understanding of the problem and will inspire more researchers to tackle it.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
