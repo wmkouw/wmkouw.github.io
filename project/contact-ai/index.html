@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: January 4, 2025 --><html lang="en-us" >
+<!-- Last Published: January 7, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -282,7 +282,7 @@
 
   
 
-<meta name="description" content="CONTACT-AI explores novel probabilistic machine learning techniques, grounded in computational neuroscience, to let legged robots explore with touch when visual perception remains ambiguous." />
+<meta name="description" content="CONTACT-AI aims to transform legged robots into contact-rich explorers, where legs are used to walk but also to cautiously manipulate the environment to resolve ambiguities in visual perception and navigate unknown terrain." />
 
 
 
@@ -330,7 +330,7 @@
 <meta property="og:site_name" content="Wouter M. Kouw" />
 <meta property="og:url" content="https://wmkouw.github.io/project/contact-ai/" />
 <meta property="og:title" content="CONTACT-AI | Wouter M. Kouw" />
-<meta property="og:description" content="CONTACT-AI explores novel probabilistic machine learning techniques, grounded in computational neuroscience, to let legged robots explore with touch when visual perception remains ambiguous." /><meta property="og:image" content="https://wmkouw.github.io/project/contact-ai/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="CONTACT-AI aims to transform legged robots into contact-rich explorers, where legs are used to walk but also to cautiously manipulate the environment to resolve ambiguities in visual perception and navigate unknown terrain." /><meta property="og:image" content="https://wmkouw.github.io/project/contact-ai/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -387,7 +387,7 @@
       "url": "https://wmkouw.github.io/media/icon_hu8168636963508404236.png"
     }
   },
-  "description": "CONTACT-AI explores novel probabilistic machine learning techniques, grounded in computational neuroscience, to let legged robots explore with touch when visual perception remains ambiguous."
+  "description": "CONTACT-AI aims to transform legged robots into contact-rich explorers, where legs are used to walk but also to cautiously manipulate the environment to resolve ambiguities in visual perception and navigate unknown terrain."
 }
 </script>
 
@@ -422,6 +422,15 @@
 
 
 
+
+  
+    
+      
+      <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+      
+    
+  
 
 
 
@@ -866,7 +875,71 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>A major challenge in artificial intelligence (AI) is physical interaction with the real world. CONTACT-AI explores novel probabilistic machine learning techniques, grounded in computational neuroscience, to let legged robots explore with touch when visual perception remains ambiguous. Using explainable models, we will enable an intelligent agent to learn and switch dynamics when facing external uncertainties (e.g., obstacle). The proposed implementation (Bayesian machine learning through message passing on factor graphs) is computationally efficient enough to run on cheap single-board computers on-board miniature robots. CONTACT-AI provides uncertainty-based embodied AI methods that improve robustness and autonomy in the multimillion market for legged robots.</p>
+      <p><strong>Challenge</strong>. The International Labour Organisation reports over 300 million work-related accidents and diseases per year, with nearly 3 million being fatal (<a href="https://www.ilo.org/resource/news/nearly-3-million-people-die-work-related-accidents-and-diseases" target="_blank" rel="noopener">ILO report</a>). Embodied Artificially Intelligent (EAI) agents can reduce this drastically, by for example
+inspecting construction sites or transporting cargo through hazardous areas. However, autonomously navigating unknown environments is difficult and requires adaptive decision-making. Suppose the agent detects a visually ambiguous obstacle: is it a crate that can be pushed away? Or a fence that needs to be navigated around? Rule-based algorithms and task-priority controllers could yield unsafe situations, while reinforcement learning (RL) requires enormous amounts of trial-and-error, potentially breaking the robot during training. The challenge is to design an EAI agent that cautiously and efficiently explores using multiple sensory modalities to find the best path through unknown terrain.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-figure-1-upon-detection-of-an-obstacle-external-uncertainty-vision-increases-this-uncertainty-will-be-transferred-to-internal-uncertainty-kinematic-the-agent-then-minimizes-kinematic-uncertainty-by-making-contact-with-the-obstacle">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Figure 1. Upon detection of an obstacle, external uncertainty (vision) increases. This uncertainty will be transferred to internal uncertainty (kinematic). The agent then minimizes kinematic uncertainty by making contact with the obstacle." srcset="
+               /project/contact-ai/CONTACTAI-uncertainty_hu249773977959943578.webp 400w,
+               /project/contact-ai/CONTACTAI-uncertainty_hu12047273454414734811.webp 760w,
+               /project/contact-ai/CONTACTAI-uncertainty_hu7236652256273062793.webp 1200w"
+               src="/project/contact-ai/CONTACTAI-uncertainty_hu249773977959943578.webp"
+               width="760"
+               height="144"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Figure 1. Upon detection of an obstacle, external uncertainty (vision) increases. This uncertainty will be transferred to internal uncertainty (kinematic). The agent then minimizes kinematic uncertainty by making contact with the obstacle.
+    </figcaption></figure>
+</p>
+<p><strong>Solution framework</strong>: brain-inspired multi-modal switching dynamics. We believe an agent should use touch for exploration when vision cannot resolve ambiguity in its environment (Figure 1). Mechanically, we envision an agent that transfers visual uncertainty about the external world (what is this obstacle in front of me?) to kinematic uncertainty internally (what will happen if I move my leg?), and then reacts with actions that minimize uncertainty (e.g., gently push object with leg). To create such an agent, we take inspiration from natural embodied intelligence and computational neuroscience, specifically Active Inference. An active inference agent operates on beliefs (probability distributions over unknown variables) and updates these using variational Bayesian inference when new data is observed. Using quantified uncertainty, actions are balanced between exploration (maximizing information gain during data acquisition) and exploitation (reaching a goal). It has been demonstrated to be a powerful framework for planning and navigation. Uncertainty also leads to caution: slow careful movements when uncertainty is high and rapid targeted movements when uncertainty is low.</p>
+<p>We propose to design an active inference agent for a quadrupedal robot that incorporates visual perception, planning, decision-making and sensorimotor control (Figure 2). The active inference module learns two sets of dynamics: loco-motion and loco-manipulation. Visual perception is passed as a belief, expressed in terms of a factorized probability distribution, to the active inference module. Visual uncertainty is merged with the uncertainty in the loco-manipulation dynamics, akin to sensor fusion. When that uncertainty becomes large, the agent favours actions that minimize it in the future, such as manipulating the unknown object with its leg. Since the initial uncertainty will be high, the agent will make contact cautiously. Uncertainty shrinks with contact and a stronger action, such as pushing the object away, will be chosen, leading to a potentially improved locomotion path. In summary, the proposed active inference agent will use multiple modalities (vision, touch) to cautiously resolve ambiguity in the world and navigate the environment more robustly.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-figure-2-active-inference-agent-overview-vision-based-uncertainty-about-the-world-affects-kinematic-uncertainty-and-triggers-a-switch-to-loco-manipulation-exploring-the-world-through-cautious-touch-planning-implemented-as-message-passing-on-a-forney-style-factor-graph-edges-are-random-variables-nodes-are-operations-of-switching-autoregressive-models">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Figure 2. Active inference agent overview. Vision-based uncertainty about the world affects kinematic uncertainty and triggers a switch to loco-manipulation, exploring the world through cautious touch. Planning implemented as message passing on a Forney-style factor graph (edges are random variables, nodes are operations) of switching autoregressive models." srcset="
+               /project/contact-ai/CONTACTAI-system_hu8715408971905319591.webp 400w,
+               /project/contact-ai/CONTACTAI-system_hu4927058474752986207.webp 760w,
+               /project/contact-ai/CONTACTAI-system_hu13055276274776185799.webp 1200w"
+               src="/project/contact-ai/CONTACTAI-system_hu8715408971905319591.webp"
+               width="760"
+               height="221"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Figure 2. Active inference agent overview. Vision-based uncertainty about the world affects kinematic uncertainty and triggers a switch to loco-manipulation, exploring the world through cautious touch. Planning implemented as message passing on a Forney-style factor graph (edges are random variables, nodes are operations) of switching autoregressive models.
+    </figcaption></figure>
+</p>
+<p><strong>Implementation</strong>. The agent will have a vision, a control and a decision-making module (Figure 2). The vision module runs a simultaneous localization and mapping algorithm as well as rudimentary object detection. The planning and navigation module will switch between locomotion and loco-manipulation. During locomotion, it generates targets for a gait controller and guides the robot along the planned path. During loco-manipulation, it plans a series of cautious contact-rich policies that maximize information gain on the object and whether it can be pushed away. We will use switching autoregressive models, that are explainable in terms of the effect of input sources on output prediction, and for which information gain can be calculated analytically. Computations are distributed by means of reactive message passing on a Forney-style factor graph. This ensures computation cost is small enough to run in-situ (e.g., Raspberry Pi + NVIDIA Jetson) on a low-cost quadrupedal robot platform (e.g., Petoi Bittle), which we aim to demonstrate as proof-of-concept.</p>
 
     </div>
 

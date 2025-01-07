@@ -38,7 +38,71 @@ Bivariate Gaussian random vectors).&lt;/li&gt;
       <link>https://wmkouw.github.io/project/contact-ai/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://wmkouw.github.io/project/contact-ai/</guid>
-      <description>&lt;p&gt;A major challenge in artificial intelligence (AI) is physical interaction with the real world. CONTACT-AI explores novel probabilistic machine learning techniques, grounded in computational neuroscience, to let legged robots explore with touch when visual perception remains ambiguous. Using explainable models, we will enable an intelligent agent to learn and switch dynamics when facing external uncertainties (e.g., obstacle). The proposed implementation (Bayesian machine learning through message passing on factor graphs) is computationally efficient enough to run on cheap single-board computers on-board miniature robots. CONTACT-AI provides uncertainty-based embodied AI methods that improve robustness and autonomy in the multimillion market for legged robots.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt;. The International Labour Organisation reports over 300 million work-related accidents and diseases per year, with nearly 3 million being fatal (&lt;a href=&#34;https://www.ilo.org/resource/news/nearly-3-million-people-die-work-related-accidents-and-diseases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ILO report&lt;/a&gt;). Embodied Artificially Intelligent (EAI) agents can reduce this drastically, by for example
+inspecting construction sites or transporting cargo through hazardous areas. However, autonomously navigating unknown environments is difficult and requires adaptive decision-making. Suppose the agent detects a visually ambiguous obstacle: is it a crate that can be pushed away? Or a fence that needs to be navigated around? Rule-based algorithms and task-priority controllers could yield unsafe situations, while reinforcement learning (RL) requires enormous amounts of trial-and-error, potentially breaking the robot during training. The challenge is to design an EAI agent that cautiously and efficiently explores using multiple sensory modalities to find the best path through unknown terrain.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-upon-detection-of-an-obstacle-external-uncertainty-vision-increases-this-uncertainty-will-be-transferred-to-internal-uncertainty-kinematic-the-agent-then-minimizes-kinematic-uncertainty-by-making-contact-with-the-obstacle&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Upon detection of an obstacle, external uncertainty (vision) increases. This uncertainty will be transferred to internal uncertainty (kinematic). The agent then minimizes kinematic uncertainty by making contact with the obstacle.&#34; srcset=&#34;
+               /project/contact-ai/CONTACTAI-uncertainty_hu249773977959943578.webp 400w,
+               /project/contact-ai/CONTACTAI-uncertainty_hu12047273454414734811.webp 760w,
+               /project/contact-ai/CONTACTAI-uncertainty_hu7236652256273062793.webp 1200w&#34;
+               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-uncertainty_hu249773977959943578.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;144&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1. Upon detection of an obstacle, external uncertainty (vision) increases. This uncertainty will be transferred to internal uncertainty (kinematic). The agent then minimizes kinematic uncertainty by making contact with the obstacle.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Solution framework&lt;/strong&gt;: brain-inspired multi-modal switching dynamics. We believe an agent should use touch for exploration when vision cannot resolve ambiguity in its environment (Figure 1). Mechanically, we envision an agent that transfers visual uncertainty about the external world (what is this obstacle in front of me?) to kinematic uncertainty internally (what will happen if I move my leg?), and then reacts with actions that minimize uncertainty (e.g., gently push object with leg). To create such an agent, we take inspiration from natural embodied intelligence and computational neuroscience, specifically Active Inference. An active inference agent operates on beliefs (probability distributions over unknown variables) and updates these using variational Bayesian inference when new data is observed. Using quantified uncertainty, actions are balanced between exploration (maximizing information gain during data acquisition) and exploitation (reaching a goal). It has been demonstrated to be a powerful framework for planning and navigation. Uncertainty also leads to caution: slow careful movements when uncertainty is high and rapid targeted movements when uncertainty is low.&lt;/p&gt;
+&lt;p&gt;We propose to design an active inference agent for a quadrupedal robot that incorporates visual perception, planning, decision-making and sensorimotor control (Figure 2). The active inference module learns two sets of dynamics: loco-motion and loco-manipulation. Visual perception is passed as a belief, expressed in terms of a factorized probability distribution, to the active inference module. Visual uncertainty is merged with the uncertainty in the loco-manipulation dynamics, akin to sensor fusion. When that uncertainty becomes large, the agent favours actions that minimize it in the future, such as manipulating the unknown object with its leg. Since the initial uncertainty will be high, the agent will make contact cautiously. Uncertainty shrinks with contact and a stronger action, such as pushing the object away, will be chosen, leading to a potentially improved locomotion path. In summary, the proposed active inference agent will use multiple modalities (vision, touch) to cautiously resolve ambiguity in the world and navigate the environment more robustly.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-active-inference-agent-overview-vision-based-uncertainty-about-the-world-affects-kinematic-uncertainty-and-triggers-a-switch-to-loco-manipulation-exploring-the-world-through-cautious-touch-planning-implemented-as-message-passing-on-a-forney-style-factor-graph-edges-are-random-variables-nodes-are-operations-of-switching-autoregressive-models&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2. Active inference agent overview. Vision-based uncertainty about the world affects kinematic uncertainty and triggers a switch to loco-manipulation, exploring the world through cautious touch. Planning implemented as message passing on a Forney-style factor graph (edges are random variables, nodes are operations) of switching autoregressive models.&#34; srcset=&#34;
+               /project/contact-ai/CONTACTAI-system_hu8715408971905319591.webp 400w,
+               /project/contact-ai/CONTACTAI-system_hu4927058474752986207.webp 760w,
+               /project/contact-ai/CONTACTAI-system_hu13055276274776185799.webp 1200w&#34;
+               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-system_hu8715408971905319591.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;221&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2. Active inference agent overview. Vision-based uncertainty about the world affects kinematic uncertainty and triggers a switch to loco-manipulation, exploring the world through cautious touch. Planning implemented as message passing on a Forney-style factor graph (edges are random variables, nodes are operations) of switching autoregressive models.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Implementation&lt;/strong&gt;. The agent will have a vision, a control and a decision-making module (Figure 2). The vision module runs a simultaneous localization and mapping algorithm as well as rudimentary object detection. The planning and navigation module will switch between locomotion and loco-manipulation. During locomotion, it generates targets for a gait controller and guides the robot along the planned path. During loco-manipulation, it plans a series of cautious contact-rich policies that maximize information gain on the object and whether it can be pushed away. We will use switching autoregressive models, that are explainable in terms of the effect of input sources on output prediction, and for which information gain can be calculated analytically. Computations are distributed by means of reactive message passing on a Forney-style factor graph. This ensures computation cost is small enough to run in-situ (e.g., Raspberry Pi + NVIDIA Jetson) on a low-cost quadrupedal robot platform (e.g., Petoi Bittle), which we aim to demonstrate as proof-of-concept.&lt;/p&gt;
 </description>
     </item>
     
@@ -843,9 +907,8 @@ In other words, a system that sequentially adapts?&lt;/p&gt;
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       <guid>https://wmkouw.github.io/project/dapr/</guid>
       <description>&lt;p&gt;Artificial intelligence, in particular machine learning and pattern recognition, is concerned with teaching computer systems to perform tasks. Tasks such as autonomous driving, recognizing tumors in medical images, or detecting suspicious packages in airports. Such systems learn by observing examples, i.e. data, and forming a mathematical description of what types of variations occur, i.e. a statistical model. For new input, the system computes the most likely output and makes a decision accordingly. As a scientific field, it is situated between statistics and and algorithmics. As a technology, it has become a very powerful tool due to the massive amounts of data being collected and the drop in the cost of computation.&lt;/p&gt;
-&lt;p&gt;However, obtaining &lt;em&gt;enough&lt;/em&gt; data is still very difficult. There are often substantial financial, operational or ethical considerations in collecting data. The majority of research in machine learning deals with constraints on the amount, the labeling and the types of data that are available. One such constraint is that it is only possible to collect labeled data from one population, or domain, but the goal is to make decisions for another domain. It is unclear under which conditions this will be possible, which inspires the research question of this thesis: when and how can a classification algorithm generalize from a source domain to a target domain?&lt;/p&gt;
-&lt;p&gt;My research has looked at different approaches to &lt;em&gt;domain adaptation&lt;/em&gt;. Firstly, we have asked some critical questions on whether the standard approaches to model validation still hold in the context of different domains. As a result, we have proposed a means to reduce uncertainty in the validation risk estimator, but that does not solve the problem completely. Secondly, we modeled the transfer from source to target domain using parametric families of distributions, which works well in simple contexts such as feature dropout at test time. Thirdly, we looked at a more practical problem: tissue classifiers trained on data from one MRI scanner degrade when applied to data from another scanner due to acquisition-based variations. We tackled this problem by learning a representation for which detrimental variations are minimized while maintaining tissue contrast. Finally, considering that many approaches fail in practice because their assumptions are not met, we designed a parameter estimator that never performs worse than the naive non-adaptive classifier.&lt;/p&gt;
-&lt;p&gt;Overall, research into domain-adaptive machine learning is still in its infancy, with many interesting challenges ahead. I hope that this work contributes to a better understanding of the problem and will inspire more researchers to tackle it.&lt;/p&gt;
+&lt;p&gt;However, obtaining &lt;em&gt;enough&lt;/em&gt; data is still very difficult. There are often substantial financial, operational or ethical considerations in collecting data. The majority of research in machine learning deals with constraints on the amount, the labeling and the types of data that are available. One such constraint is that it is only possible to collect labeled data from one population, or domain, but the goal is to make decisions for another domain. It is unclear under which conditions this will be possible, which inspires the research question: when and how can a classification algorithm generalize from a source domain to a target domain?&lt;/p&gt;
+&lt;p&gt;My research has looked at different approaches to domain adaptation. Firstly, we have asked some critical questions on whether the standard approaches to model validation still hold in the context of different domains. As a result, we have proposed a means to reduce uncertainty in the validation risk estimator, but that does not solve the problem completely. Secondly, we modeled the transfer from source to target domain using parametric families of distributions, which works well in simple contexts such as feature dropout at test time. Thirdly, we looked at a more practical problem: tissue classifiers trained on data from one MRI scanner degrade when applied to data from another scanner due to acquisition-based variations. We tackled this problem by learning a representation for which detrimental variations are minimized while maintaining tissue contrast. Finally, considering that many approaches fail in practice because their assumptions are not met, we designed a parameter estimator that never performs worse than the naive non-adaptive classifier.&lt;/p&gt;
 </description>
     </item>
     
