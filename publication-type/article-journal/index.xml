@@ -5,7 +5,7 @@
     <link>https://wmkouw.github.io/publication-type/article-journal/</link>
       <atom:link href="https://wmkouw.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 09:00:00 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2024 09:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu16822585919008292112.png</url>
       <title>Article-Journal</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Multiple variational Kalman-GRU for ship trajectory prediction with uncertainty</title>
       <link>https://wmkouw.github.io/publication/kalman-gru/</link>
-      <pubDate>Mon, 28 Oct 2024 09:00:00 +0200</pubDate>
+      <pubDate>Mon, 04 Nov 2024 09:00:00 +0200</pubDate>
       <guid>https://wmkouw.github.io/publication/kalman-gru/</guid>
       <description></description>
     </item>

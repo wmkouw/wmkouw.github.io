@@ -30,6 +30,30 @@
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://wmkouw.github.io/publication/carx-efe/</loc>
+    <lastmod>2024-12-31T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/cartpole-mp/</loc>
+    <lastmod>2024-12-31T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication-type/paper-conference/</loc>
+    <lastmod>2024-12-31T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/efe-nlamb/</loc>
+    <lastmod>2024-12-31T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication_types/</loc>
+    <lastmod>2024-12-31T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/</loc>
+    <lastmod>2024-12-31T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wmkouw.github.io/tag/active-inference/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -51,19 +75,11 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication-type/article-journal/</loc>
-    <lastmod>2024-10-28T09:00:00+02:00</lastmod>
+    <lastmod>2024-11-04T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication/kalman-gru/</loc>
-    <lastmod>2024-10-28T09:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication_types/</loc>
-    <lastmod>2024-10-28T09:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication/</loc>
-    <lastmod>2024-10-28T09:00:00+02:00</lastmod>
+    <lastmod>2024-11-04T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/tag/artificial-intelligence/</loc>
@@ -90,6 +106,10 @@
     <lastmod>2024-09-11T10:40:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://wmkouw.github.io/publication/greybox-heat/</loc>
+    <lastmod>2024-09-11T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wmkouw.github.io/talk/bayesian-grey-box-identification-of-nonlinear-convection-effects-in-heat-transfer-dynamics/</loc>
     <lastmod>2024-08-22T10:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -110,28 +130,8 @@
     <lastmod>2024-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/publication/carx-efe/</loc>
-    <lastmod>2024-07-23T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication/cartpole-mp/</loc>
-    <lastmod>2024-07-23T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication-type/paper-conference/</loc>
-    <lastmod>2024-07-23T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication/efe-nlamb/</loc>
-    <lastmod>2024-07-23T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wmkouw.github.io/talk/information-seeking-polynomial-narx-model-predictive-control-through-free-energy-minimization/</loc>
     <lastmod>2024-07-12T14:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication/greybox-heat/</loc>
-    <lastmod>2024-06-04T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/talk/bayesian-machine-learning-for-embodied-artificial-intelligence/</loc>
