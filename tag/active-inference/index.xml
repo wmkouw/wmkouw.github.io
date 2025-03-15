@@ -7,7 +7,7 @@
     <description>Active-Inference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://wmkouw.github.io/media/icon_hu16822585919008292112.png</url>
+      <url>https://wmkouw.github.io/media/icon_hu_3ae30e9b79d035f5.png</url>
       <title>Active-Inference</title>
       <link>https://wmkouw.github.io/tag/active-inference/</link>
     </image>
@@ -38,10 +38,10 @@ inspecting construction sites or transporting cargo through hazardous areas. How
 &lt;figure  id=&#34;figure-figure-1-upon-detection-of-an-obstacle-external-uncertainty-vision-increases-this-uncertainty-will-be-transferred-to-internal-uncertainty-kinematic-the-agent-then-minimizes-kinematic-uncertainty-by-making-contact-with-the-obstacle&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Upon detection of an obstacle, external uncertainty (vision) increases. This uncertainty will be transferred to internal uncertainty (kinematic). The agent then minimizes kinematic uncertainty by making contact with the obstacle.&#34; srcset=&#34;
-               /project/contact-ai/CONTACTAI-uncertainty_hu249773977959943578.webp 400w,
-               /project/contact-ai/CONTACTAI-uncertainty_hu12047273454414734811.webp 760w,
-               /project/contact-ai/CONTACTAI-uncertainty_hu7236652256273062793.webp 1200w&#34;
-               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-uncertainty_hu249773977959943578.webp&#34;
+               /project/contact-ai/CONTACTAI-uncertainty_hu_8dabb471d4a8d77a.webp 400w,
+               /project/contact-ai/CONTACTAI-uncertainty_hu_743ee25080b61b50.webp 760w,
+               /project/contact-ai/CONTACTAI-uncertainty_hu_23f95b37ed84a16b.webp 1200w&#34;
+               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-uncertainty_hu_8dabb471d4a8d77a.webp&#34;
                width=&#34;760&#34;
                height=&#34;144&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -70,10 +70,10 @@ inspecting construction sites or transporting cargo through hazardous areas. How
 &lt;figure  id=&#34;figure-figure-2-active-inference-agent-overview-vision-based-uncertainty-about-the-world-affects-kinematic-uncertainty-and-triggers-a-switch-to-loco-manipulation-exploring-the-world-through-cautious-touch-planning-implemented-as-message-passing-on-a-forney-style-factor-graph-edges-are-random-variables-nodes-are-operations-of-switching-autoregressive-models&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2. Active inference agent overview. Vision-based uncertainty about the world affects kinematic uncertainty and triggers a switch to loco-manipulation, exploring the world through cautious touch. Planning implemented as message passing on a Forney-style factor graph (edges are random variables, nodes are operations) of switching autoregressive models.&#34; srcset=&#34;
-               /project/contact-ai/CONTACTAI-system_hu8715408971905319591.webp 400w,
-               /project/contact-ai/CONTACTAI-system_hu4927058474752986207.webp 760w,
-               /project/contact-ai/CONTACTAI-system_hu13055276274776185799.webp 1200w&#34;
-               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-system_hu8715408971905319591.webp&#34;
+               /project/contact-ai/CONTACTAI-system_hu_cf0cec2cf0b899c9.webp 400w,
+               /project/contact-ai/CONTACTAI-system_hu_fd6a8499ff6b0cd4.webp 760w,
+               /project/contact-ai/CONTACTAI-system_hu_29b8043979863b1.webp 1200w&#34;
+               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-system_hu_cf0cec2cf0b899c9.webp&#34;
                width=&#34;760&#34;
                height=&#34;221&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

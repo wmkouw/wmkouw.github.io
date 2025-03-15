@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/</link>
       <atom:link href="https://wmkouw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Wouter M. Kouw</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Mar 2025 12:00:00 +0200</lastBuildDate>
     <image>
-      <url>https://wmkouw.github.io/media/icon_hu16822585919008292112.png</url>
+      <url>https://wmkouw.github.io/media/icon_hu_3ae30e9b79d035f5.png</url>
       <title>Wouter M. Kouw</title>
       <link>https://wmkouw.github.io/</link>
     </image>
+    
+    <item>
+      <title>Online Bayesian system identification in multivariate autoregressive models via message passing</title>
+      <link>https://wmkouw.github.io/publication/marx-mp/</link>
+      <pubDate>Fri, 07 Mar 2025 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/marx-mp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TU/e 5EZC0</title>
@@ -83,10 +91,10 @@ inspecting construction sites or transporting cargo through hazardous areas. How
 &lt;figure  id=&#34;figure-figure-1-upon-detection-of-an-obstacle-external-uncertainty-vision-increases-this-uncertainty-will-be-transferred-to-internal-uncertainty-kinematic-the-agent-then-minimizes-kinematic-uncertainty-by-making-contact-with-the-obstacle&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Upon detection of an obstacle, external uncertainty (vision) increases. This uncertainty will be transferred to internal uncertainty (kinematic). The agent then minimizes kinematic uncertainty by making contact with the obstacle.&#34; srcset=&#34;
-               /project/contact-ai/CONTACTAI-uncertainty_hu249773977959943578.webp 400w,
-               /project/contact-ai/CONTACTAI-uncertainty_hu12047273454414734811.webp 760w,
-               /project/contact-ai/CONTACTAI-uncertainty_hu7236652256273062793.webp 1200w&#34;
-               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-uncertainty_hu249773977959943578.webp&#34;
+               /project/contact-ai/CONTACTAI-uncertainty_hu_8dabb471d4a8d77a.webp 400w,
+               /project/contact-ai/CONTACTAI-uncertainty_hu_743ee25080b61b50.webp 760w,
+               /project/contact-ai/CONTACTAI-uncertainty_hu_23f95b37ed84a16b.webp 1200w&#34;
+               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-uncertainty_hu_8dabb471d4a8d77a.webp&#34;
                width=&#34;760&#34;
                height=&#34;144&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -115,10 +123,10 @@ inspecting construction sites or transporting cargo through hazardous areas. How
 &lt;figure  id=&#34;figure-figure-2-active-inference-agent-overview-vision-based-uncertainty-about-the-world-affects-kinematic-uncertainty-and-triggers-a-switch-to-loco-manipulation-exploring-the-world-through-cautious-touch-planning-implemented-as-message-passing-on-a-forney-style-factor-graph-edges-are-random-variables-nodes-are-operations-of-switching-autoregressive-models&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2. Active inference agent overview. Vision-based uncertainty about the world affects kinematic uncertainty and triggers a switch to loco-manipulation, exploring the world through cautious touch. Planning implemented as message passing on a Forney-style factor graph (edges are random variables, nodes are operations) of switching autoregressive models.&#34; srcset=&#34;
-               /project/contact-ai/CONTACTAI-system_hu8715408971905319591.webp 400w,
-               /project/contact-ai/CONTACTAI-system_hu4927058474752986207.webp 760w,
-               /project/contact-ai/CONTACTAI-system_hu13055276274776185799.webp 1200w&#34;
-               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-system_hu8715408971905319591.webp&#34;
+               /project/contact-ai/CONTACTAI-system_hu_cf0cec2cf0b899c9.webp 400w,
+               /project/contact-ai/CONTACTAI-system_hu_fd6a8499ff6b0cd4.webp 760w,
+               /project/contact-ai/CONTACTAI-system_hu_29b8043979863b1.webp 1200w&#34;
+               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-system_hu_cf0cec2cf0b899c9.webp&#34;
                width=&#34;760&#34;
                height=&#34;221&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -690,7 +698,7 @@ $$&lt;/p&gt;
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;ni&#34;&gt;#0000FF&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
