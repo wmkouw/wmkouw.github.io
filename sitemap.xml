@@ -487,5 +487,8 @@
   </url><url>
     <loc>https://wmkouw.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/software/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
