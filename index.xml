@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/</link>
       <atom:link href="https://wmkouw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Wouter M. Kouw</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jun 2025 12:00:00 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Aug 2025 12:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu_3ae30e9b79d035f5.png</url>
       <title>Wouter M. Kouw</title>
       <link>https://wmkouw.github.io/</link>
     </image>
+    
+    <item>
+      <title>Message passing-based inference in an autoregressive active inference agent</title>
+      <link>https://wmkouw.github.io/publication/marxefe-mp/</link>
+      <pubDate>Fri, 15 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/marxefe-mp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Factor graph-based online Bayesian identification and component evaluation for multivariate autoregressive exogenous input models</title>

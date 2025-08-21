@@ -282,12 +282,12 @@
 
   
 
-<meta name="description" content="Personal website detailing research and teaching efforts." />
+<meta name="description" content="We present the design of an autoregressive active inference agent in the form of message passing on a factor graph." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/tag/pattern-recognition/" />
-<link rel="canonical" href="https://wmkouw.github.io/tag/pattern-recognition/" />
+<link rel="alternate" hreflang="en-us" href="https://wmkouw.github.io/publication/marxefe-mp/" />
+<link rel="canonical" href="https://wmkouw.github.io/publication/marxefe-mp/" />
 
 
 
@@ -310,56 +310,106 @@
 
 
   
-  
 
 
 
 
 
 
-<meta property="twitter:card" content="summary" />
+<meta property="twitter:card" content="summary_large_image" />
 
   <meta property="twitter:site" content="@GetResearchDev" />
   <meta property="twitter:creator" content="@GetResearchDev" />
-<meta property="twitter:image" content="https://wmkouw.github.io/media/icon_hu_3ae30e9b79d035f5.png" />
+<meta property="twitter:image" content="https://wmkouw.github.io/publication/marxefe-mp/featured.png" />
 
 
 
   
 
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
 <meta property="og:site_name" content="Wouter M. Kouw" />
-<meta property="og:url" content="https://wmkouw.github.io/tag/pattern-recognition/" />
-<meta property="og:title" content="Pattern-Recognition | Wouter M. Kouw" />
-<meta property="og:description" content="Personal website detailing research and teaching efforts." /><meta property="og:image" content="https://wmkouw.github.io/media/icon_hu_3ae30e9b79d035f5.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://wmkouw.github.io/publication/marxefe-mp/" />
+<meta property="og:title" content="Message passing-based inference in an autoregressive active inference agent | Wouter M. Kouw" />
+<meta property="og:description" content="We present the design of an autoregressive active inference agent in the form of message passing on a factor graph." /><meta property="og:image" content="https://wmkouw.github.io/publication/marxefe-mp/featured.png" /><meta property="og:locale" content="en-us" />
 
   
-    <meta property="og:updated_time" content="2014-09-01T00:00:00&#43;00:00" />
-  
-
-
-
-
-
-
-
-
-
-
+    <meta
+      property="article:published_time"
+      content="2025-08-15T00:00:00&#43;00:00"
+    />
   
   
-  
-
-  
-  
-    <link rel="alternate" href="/tag/pattern-recognition/index.xml" type="application/rss+xml" title="Wouter M. Kouw" />
-  
-
+    <meta property="article:modified_time" content="2025-08-15T12:00:00&#43;02:00">
   
 
 
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://wmkouw.github.io/publication/marxefe-mp/"
+  },
+  "headline": "Message passing-based inference in an autoregressive active inference agent",
   
-  <title>Pattern-Recognition | Wouter M. Kouw</title>
+  "image": [
+    "https://wmkouw.github.io/publication/marxefe-mp/featured.png"
+  ],
+  
+  "datePublished": "2025-08-15T00:00:00Z",
+  "dateModified": "2025-08-15T12:00:00+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Wouter M. Kouw"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Wouter M. Kouw",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://wmkouw.github.io/media/icon_hu_51bee7c902618d58.png"
+    }
+  },
+  "description": "We present the design of an autoregressive active inference agent in the form of message passing on a factor graph."
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Message passing-based inference in an autoregressive active inference agent | Wouter M. Kouw</title>
 
   
   
@@ -388,7 +438,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="acd3d8c6aa0655bd273030aa991582f1" >
 
   
   
@@ -545,7 +595,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/publication"><span>Publications</span></a>
+            <a class="nav-link  active" href="/publication"><span>Publications</span></a>
           </li>
 
           
@@ -740,6 +790,26 @@
     
 
 
+  
+    
+    
+  
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -752,93 +822,383 @@
 
 
   
+  
+
+
+
+<div class="article-container pt-3">
+  <h1>Message passing-based inference in an autoregressive active inference agent</h1>
 
   
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      Wouter M. Kouw</span>, <span >
+      Tim Nisslbeck</span>, <span >
+      Wouter Nuijten</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    August, 2025
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/marxefe-mp/cite.bib">
+  Cite
+</a>
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Pattern-Recognition</h1>
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/biaslab/IWAI2025-MARXEFE-MP" target="_blank" rel="noopener">
+  Code
+</a>
 
+
+
+
+  
+    
   
 
   
+  <a class="btn btn-outline-primary btn-page-header" href="/project/fep-quad/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 689px; max-height: 351px;">
+  <div style="position: relative">
+    <img src="/publication/marxefe-mp/featured_hu_f6b383f44151de5d.webp" width="689" height="351" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
 
-<div class="universal-wrapper">
-  
-
-
-  
-
-  
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/dapr/" >DAPR</a>
-    </div>
+  <div class="article-container">
 
     
-    <a href="/project/dapr/"  class="summary-link">
-      <div class="article-style">
-        Domain Adaptive Pattern Recognition explores the limits of generalization for a special case of statistical learning where training data and test data are differently biased samples of some underlying data-generating distribution.
+    <h3>Abstract</h3>
+    <p class="pub-abstract">We present the design of an autoregressive active inference agent in the form of message passing on a factor graph. Expected free energy is derived and distributed across a planning graph. The proposed agent is validated on a robot navigation task, demonstrating exploration and exploitation in a continuous-valued observation space with bounded continuous-valued actions. Compared to a classical controller, the agent modulates action based on predictive uncertainty, arriving later but with a better model of the robot’s dynamics.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#paper-conference">
+              Conference paper
+            </a>
+          </div>
+        </div>
       </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">International Workshop on Active Inference</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
-  </div>
-  <div class="ml-3">
-    
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
     
       
       
-      <a href="/project/dapr/" >
-        <img src="/project/dapr/featured_hu_9f487498d27c166f.webp" height="90" width="150"
-            alt="DAPR" loading="lazy">
-      </a>
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=Message%20passing-based%20inference%20in%20an%20autoregressive%20active%20inference%20agent&amp;body=https%3A%2F%2Fwmkouw.github.io%2Fpublication%2Fmarxefe-mp%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
-  </div>
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwmkouw.github.io%2Fpublication%2Fmarxefe-mp%2F&amp;text=Message&#43;passing-based&#43;inference&#43;in&#43;an&#43;autoregressive&#43;active&#43;inference&#43;agent" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwmkouw.github.io%2Fpublication%2Fmarxefe-mp%2F&amp;title=Message&#43;passing-based&#43;inference&#43;in&#43;an&#43;autoregressive&#43;active&#43;inference&#43;agent" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+  </ul>
 </div>
 
+
+
+
+
+
+
+
+
+
+
   
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://wmkouw.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu_cc2cdc0969e64977.jpg" alt="Wouter M. Kouw"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://wmkouw.github.io/">Wouter M. Kouw</a></h5>
+      <h6 class="card-subtitle">Assistant Professor</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.tue.nl/en/research/researchers/wouter-kouw/" target="_blank" rel="noopener">
+        <i class="fas fa-building-columns"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://biaslab.github.io/member/wouter/" target="_blank" rel="noopener">
+        <i class="fas fa-user-group"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.nl/citations?user=st1j2_EAAAAJ" target="_blank" rel="noopener">
+        <i class="fab fa-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/wmkouw" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
 
   
 
-  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
   </div>
 
