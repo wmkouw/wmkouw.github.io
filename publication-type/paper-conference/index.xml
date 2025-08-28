@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Effects of dynamic goal prior specification on grid-world agent trajectories</title>
+      <link>https://wmkouw.github.io/publication/goal-prior-spec/</link>
+      <pubDate>Fri, 15 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/goal-prior-spec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Message passing-based inference in an autoregressive active inference agent</title>
       <link>https://wmkouw.github.io/publication/marxefe-mp/</link>
       <pubDate>Fri, 15 Aug 2025 12:00:00 +0200</pubDate>
       <guid>https://wmkouw.github.io/publication/marxefe-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spike-timing dependent plasticity for Bernoulli message passing</title>
+      <link>https://wmkouw.github.io/publication/snn-bern-mp/</link>
+      <pubDate>Fri, 15 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/snn-bern-mp/</guid>
       <description></description>
     </item>
     

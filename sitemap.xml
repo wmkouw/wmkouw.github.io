@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wmkouw.github.io/publication/goal-prior-spec/</loc>
+    <lastmod>2025-08-15T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wmkouw.github.io/publication/marxefe-mp/</loc>
     <lastmod>2025-08-15T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15,6 +19,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication/</loc>
+    <lastmod>2025-08-15T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/snn-bern-mp/</loc>
     <lastmod>2025-08-15T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
