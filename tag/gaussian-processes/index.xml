@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaussian-Processes | Wouter M. Kouw</title>
+    <link>https://wmkouw.github.io/tag/gaussian-processes/</link>
+      <atom:link href="https://wmkouw.github.io/tag/gaussian-processes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gaussian-Processes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wmkouw.github.io/media/icon_hu_3ae30e9b79d035f5.png</url>
+      <title>Gaussian-Processes</title>
+      <link>https://wmkouw.github.io/tag/gaussian-processes/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian autoregression to optimize temporal Matérn kernel Gaussian process hyperparameters</title>
+      <link>https://wmkouw.github.io/talk/bayesian-autoregression-to-optimize-temporal-matern-kernel-gaussian-process-hyperparameters/</link>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/bayesian-autoregression-to-optimize-temporal-matern-kernel-gaussian-process-hyperparameters/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

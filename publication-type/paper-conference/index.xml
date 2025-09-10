@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/publication-type/paper-conference/</link>
       <atom:link href="https://wmkouw.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Aug 2025 12:00:00 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 12:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu_3ae30e9b79d035f5.png</url>
       <title>Paper-Conference</title>
       <link>https://wmkouw.github.io/publication-type/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>Bayesian autoregression to optimize temporal Matérn-kernel Gaussian process hyperparameters</title>
+      <link>https://wmkouw.github.io/publication/hopt-bar/</link>
+      <pubDate>Mon, 01 Sep 2025 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/hopt-bar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effects of dynamic goal prior specification on grid-world agent trajectories</title>
@@ -33,14 +41,6 @@
       <link>https://wmkouw.github.io/publication/snn-bern-mp/</link>
       <pubDate>Fri, 15 Aug 2025 12:00:00 +0200</pubDate>
       <guid>https://wmkouw.github.io/publication/snn-bern-mp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian autoregression to optimize temporal Matérn-kernel Gaussian process hyperparameters</title>
-      <link>https://wmkouw.github.io/publication/hopt-bar/</link>
-      <pubDate>Thu, 22 May 2025 12:00:00 +0200</pubDate>
-      <guid>https://wmkouw.github.io/publication/hopt-bar/</guid>
       <description></description>
     </item>
     

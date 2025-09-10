@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wmkouw.github.io/publication/hopt-bar/</loc>
+    <lastmod>2025-09-01T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication-type/paper-conference/</loc>
+    <lastmod>2025-09-01T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication_types/</loc>
+    <lastmod>2025-09-01T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/</loc>
+    <lastmod>2025-09-01T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/</loc>
+    <lastmod>2025-09-01T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/autoregressive-models/</loc>
+    <lastmod>2025-09-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/talk/bayesian-autoregression-to-optimize-temporal-matern-kernel-gaussian-process-hyperparameters/</loc>
+    <lastmod>2025-09-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/gaussian-processes/</loc>
+    <lastmod>2025-09-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/probabilistic-numerics/</loc>
+    <lastmod>2025-09-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tags/</loc>
+    <lastmod>2025-09-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/event/</loc>
+    <lastmod>2025-09-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wmkouw.github.io/publication/goal-prior-spec/</loc>
     <lastmod>2025-08-15T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,23 +54,7 @@
     <lastmod>2025-08-15T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/publication-type/paper-conference/</loc>
-    <lastmod>2025-08-15T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication_types/</loc>
-    <lastmod>2025-08-15T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication/</loc>
-    <lastmod>2025-08-15T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wmkouw.github.io/publication/snn-bern-mp/</loc>
-    <lastmod>2025-08-15T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/</loc>
     <lastmod>2025-08-15T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -36,10 +64,6 @@
   </url><url>
     <loc>https://wmkouw.github.io/publication/marx-modeleval/</loc>
     <lastmod>2025-06-23T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication/hopt-bar/</loc>
-    <lastmod>2025-05-22T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication/marx-mp/</loc>
@@ -59,10 +83,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/tag/stochastic-processes/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/tags/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -115,10 +135,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/tag/free-energy/</loc>
-    <lastmod>2024-09-19T16:20:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/event/</loc>
     <lastmod>2024-09-19T16:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -498,9 +514,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/software/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
