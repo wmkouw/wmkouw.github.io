@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wmkouw.github.io/tag/active-inference/</loc>
+    <lastmod>2025-10-17T10:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/talk/message-passing-based-inference-in-autoregressive-active-inference-agent/</loc>
+    <lastmod>2025-10-17T10:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/message-passing/</loc>
+    <lastmod>2025-10-17T10:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/planning/</loc>
+    <lastmod>2025-10-17T10:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tags/</loc>
+    <lastmod>2025-10-17T10:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/event/</loc>
+    <lastmod>2025-10-17T10:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/</loc>
+    <lastmod>2025-10-17T10:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wmkouw.github.io/publication/hopt-bar/</loc>
     <lastmod>2025-09-01T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,10 +46,6 @@
     <lastmod>2025-09-01T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/</loc>
-    <lastmod>2025-09-01T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wmkouw.github.io/tag/autoregressive-models/</loc>
     <lastmod>2025-09-01T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -35,14 +59,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/tag/probabilistic-numerics/</loc>
-    <lastmod>2025-09-01T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/tags/</loc>
-    <lastmod>2025-09-01T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/event/</loc>
     <lastmod>2025-09-01T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -98,10 +114,6 @@
     <lastmod>2024-12-31T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/tag/active-inference/</loc>
-    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wmkouw.github.io/project/contact-ai/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -132,10 +144,6 @@
   </url><url>
     <loc>https://wmkouw.github.io/tag/free-energy/</loc>
     <lastmod>2024-09-19T16:20:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/tag/planning/</loc>
-    <lastmod>2024-09-11T10:40:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/talk/planning-to-avoid-ambiguous-states-through-gaussian-approximations-to-non-linear-sensors/</loc>
@@ -216,10 +224,6 @@
   </url><url>
     <loc>https://wmkouw.github.io/publication/rsot-st/</loc>
     <lastmod>2022-08-01T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/tag/message-passing/</loc>
-    <lastmod>2022-06-09T15:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/talk/variational-message-passing-for-online-bayesian-narmax-identification/</loc>
