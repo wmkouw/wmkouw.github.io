@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/tag/message-passing/</link>
       <atom:link href="https://wmkouw.github.io/tag/message-passing/index.xml" rel="self" type="application/rss+xml" />
     <description>Message-Passing</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Oct 2025 10:45:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu_3ae30e9b79d035f5.png</url>
       <title>Message-Passing</title>
       <link>https://wmkouw.github.io/tag/message-passing/</link>
     </image>
+    
+    <item>
+      <title>On deriving efficient information-seeking behaviour for intelligent autonomous systems</title>
+      <link>https://wmkouw.github.io/talk/on-deriving-efficient-information-seeking-behaviour-for-intelligent-autonomous-systems/</link>
+      <pubDate>Mon, 20 Oct 2025 16:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/on-deriving-efficient-information-seeking-behaviour-for-intelligent-autonomous-systems/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Message passing-based inference in autoregressive active inference agent</title>
