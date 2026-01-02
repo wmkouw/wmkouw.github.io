@@ -5,12 +5,59 @@
     <link>https://wmkouw.github.io/</link>
       <atom:link href="https://wmkouw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Wouter M. Kouw</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 16:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu_3ae30e9b79d035f5.png</url>
       <title>Wouter M. Kouw</title>
       <link>https://wmkouw.github.io/</link>
     </image>
+    
+    <item>
+      <title>AIM-TT</title>
+      <link>https://wmkouw.github.io/project/aim-tt/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/aim-tt/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/aim-tt/aimtt-logo-tag_hu_dfb7e040b95a37f1.webp 400w,
+               /project/aim-tt/aimtt-logo-tag_hu_b29dd60a9d115a69.webp 760w,
+               /project/aim-tt/aimtt-logo-tag_hu_b867d75cfb48513e.webp 1200w&#34;
+               src=&#34;https://wmkouw.github.io/project/aim-tt/aimtt-logo-tag_hu_dfb7e040b95a37f1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;146&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AiMTT aims to cultivate a highly skilled and diverse AI talent pool equipped to address the opportunities and challenges of AI in mobility, transport, and logistics. By combining real-world case studies with knowledge development, this initiative fosters deep expertise in the field.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mobility, transport, and logistics face a multitude of challenges: traffic congestion, livability concerns, conflicts between user, operator, and public interests, space constraints, and safety risks during large-scale events. These challenges are further complicated by their deep interconnections, making them particularly difficult to resolve.&lt;/p&gt;
+&lt;p&gt;While such complexities can be overwhelming for the human mind, they offer ideal use cases for artificial intelligence (AI). AI can process vast amounts of data in real time, provide accurate network assessments, calculate impacts in future scenarios, and optimize interventions. It also enhances our understanding of human behavior and the mobility system as a whole.&lt;/p&gt;
+&lt;p&gt;Given these advantages, leveraging AI to address mobility challenges is a logical next step. Through AiMTT, we embrace a “learning by doing” approach to develop responsible, AI-driven solutions.&lt;/p&gt;
+&lt;h2 id=&#34;vision-and-ambition&#34;&gt;Vision and Ambition&lt;/h2&gt;
+&lt;p&gt;AiMTT stands for AI Learning Initiative for Multi-modal Traffic and Transportation. It operates under the umbrella of &lt;a href=&#34;https://aic4nl.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AIC4NL&lt;/a&gt;, an organization dedicated to the responsible development and application of AI in the Netherlands. Ensuring responsible AI development is essential, as concerns about fairness, inclusivity, privacy, and human oversight continue to grow. Will AI-generated outcomes be equitable? Can privacy be safeguarded? How do we ensure that humans remain in control?&lt;/p&gt;
+&lt;p&gt;AiMTT aims to address these critical questions by fostering a collaborative learning community that brings together experts from &lt;a href=&#34;https://aimtt.nl/about/partners&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;academia, industry, and government&lt;/a&gt;. Project partners will build, test, and refine AI applications, with ethical considerations—such as fairness, privacy, and human autonomy—at the forefront.&lt;/p&gt;
+&lt;h2 id=&#34;learning-process&#34;&gt;Learning Process&lt;/h2&gt;
+&lt;p&gt;AiMTT’s approach is grounded in practical application. AI solutions will be developed through &lt;a href=&#34;https://aimtt.nl/about/use-cases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;seven real-world use cases&lt;/a&gt;, each designed to create tangible tools that can be directly implemented. Equally important is the learning process itself: identifying best practices, analyzing challenges, and refining AI applications based on real-world insights.&lt;/p&gt;
+&lt;p&gt;To support this, the project will offer workshops, training programs, and co-creation sessions—ensuring continuous knowledge exchange and improvement.&lt;/p&gt;
+&lt;p&gt;Through AiMTT, we are shaping the future of urban mobility by responsibly integrating AI to create smarter, safer, and more efficient transportation systems.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On deriving efficient information-seeking behaviour for intelligent autonomous systems</title>
@@ -295,6 +342,14 @@ inspecting construction sites or transporting cargo through hazardous areas. How
       <link>https://wmkouw.github.io/publication/intent-mp/</link>
       <pubDate>Tue, 02 Apr 2024 09:00:00 +0200</pubDate>
       <guid>https://wmkouw.github.io/publication/intent-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Variational Inference with Non-Gaussian Factors for State Estimation</title>
+      <link>https://wmkouw.github.io/publication/esgvi-uwb/</link>
+      <pubDate>Sun, 31 Dec 2023 09:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/esgvi-uwb/</guid>
       <description></description>
     </item>
     
