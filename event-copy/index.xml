@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks &amp; Poster Presentations | Wouter M. Kouw</title>
+    <link>http://localhost:1313/event-copy/</link>
+      <atom:link href="http://localhost:1313/event-copy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks &amp; Poster Presentations</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2024 16:20:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_3ae30e9b79d035f5.png</url>
+      <title>Talks &amp; Poster Presentations</title>
+      <link>http://localhost:1313/event-copy/</link>
+    </image>
+    
+    <item>
+      <title>Embodied artificial intelligence through free energy minimization</title>
+      <link>http://localhost:1313/event-copy/eaisicafe2024/</link>
+      <pubDate>Thu, 19 Sep 2024 16:20:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/eaisicafe2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian grey-box identification of nonlinear convection effects in heat transfer dynamics</title>
+      <link>http://localhost:1313/event-copy/ccta2024/</link>
+      <pubDate>Thu, 22 Aug 2024 10:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/ccta2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-seeking polynomial NARX model-predictive control through free energy minimization</title>
+      <link>http://localhost:1313/event-copy/acc2024/</link>
+      <pubDate>Fri, 12 Jul 2024 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/acc2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural AI for control and mobile robotics</title>
+      <link>http://localhost:1313/event-copy/crt&#43;amsterdamai2024/</link>
+      <pubDate>Mon, 15 Apr 2024 13:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/crt&#43;amsterdamai2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational message passing for online Bayesian NARMAX identification</title>
+      <link>http://localhost:1313/event-copy/acc2022/</link>
+      <pubDate>Thu, 09 Jun 2022 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/acc2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On cross-validation under covariate shift</title>
+      <link>http://localhost:1313/event-copy/icpr2016/</link>
+      <pubDate>Sat, 10 Dec 2016 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/icpr2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

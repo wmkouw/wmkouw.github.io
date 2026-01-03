@@ -26,6 +26,22 @@
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://wmkouw.github.io/publication-type/article-journal/</loc>
+    <lastmod>2025-12-31T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/esgvi-uwb/</loc>
+    <lastmod>2025-12-31T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication_types/</loc>
+    <lastmod>2025-12-31T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/</loc>
+    <lastmod>2025-12-31T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wmkouw.github.io/tag/message-passing/</loc>
     <lastmod>2025-10-20T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -54,14 +70,6 @@
     <lastmod>2025-09-01T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/publication_types/</loc>
-    <lastmod>2025-09-01T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication/</loc>
-    <lastmod>2025-09-01T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wmkouw.github.io/tag/autoregressive-models/</loc>
     <lastmod>2025-09-01T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -84,10 +92,6 @@
   </url><url>
     <loc>https://wmkouw.github.io/publication/snn-bern-mp/</loc>
     <lastmod>2025-08-15T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication-type/article-journal/</loc>
-    <lastmod>2025-06-23T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication/marx-modeleval/</loc>
@@ -178,14 +182,6 @@
     <lastmod>2024-08-22T10:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/project/abias/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/tag/information-theory/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wmkouw.github.io/talk/information-seeking-polynomial-narx-model-predictive-control-through-free-energy-minimization/</loc>
     <lastmod>2024-07-12T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -204,10 +200,6 @@
   </url><url>
     <loc>https://wmkouw.github.io/publication/intent-mp/</loc>
     <lastmod>2024-04-02T09:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication/esgvi-uwb/</loc>
-    <lastmod>2023-12-31T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication/narx-efe/</loc>
@@ -426,14 +418,6 @@
     <lastmod>2019-03-06T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wmkouw.github.io/publication/mrai-net/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -524,9 +508,6 @@
   </url><url>
     <loc>https://wmkouw.github.io/tag/transfer-learning/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/categories/</loc>

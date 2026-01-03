@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information-Theory | Wouter M. Kouw</title>
-    <link>https://wmkouw.github.io/tag/information-theory/</link>
-      <atom:link href="https://wmkouw.github.io/tag/information-theory/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/information-theory/</link>
+      <atom:link href="http://localhost:1313/tag/information-theory/index.xml" rel="self" type="application/rss+xml" />
     <description>Information-Theory</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://wmkouw.github.io/media/icon_hu_3ae30e9b79d035f5.png</url>
+      <url>http://localhost:1313/media/icon_hu_3ae30e9b79d035f5.png</url>
       <title>Information-Theory</title>
-      <link>https://wmkouw.github.io/tag/information-theory/</link>
+      <link>http://localhost:1313/tag/information-theory/</link>
     </image>
     
     <item>
       <title>ABIAS</title>
-      <link>https://wmkouw.github.io/project/abias/</link>
+      <link>http://localhost:1313/project/abias/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://wmkouw.github.io/project/abias/</guid>
+      <guid>http://localhost:1313/project/abias/</guid>
       <description>&lt;p&gt;Not all data is equally useful. A major challenge in training artificially intelligent systems that learn from interactions with their environments (agents), is to acquire the most useful data points. For example, where should a robot look in order to pick up a cup? Active inference is a framework for designing agents that balance information-seeking and goal-seeking behaviour. This project will dive into the information-theoretic basis of this framework. We will attempt to answer questions such as:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;How close to optimal is data acquisition based on maximizing information gain / minimizing expected free energy?&lt;/li&gt;

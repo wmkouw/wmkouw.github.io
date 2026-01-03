@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/publication/</link>
       <atom:link href="https://wmkouw.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 12:00:00 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 2025 09:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu_3ae30e9b79d035f5.png</url>
       <title>Publications</title>
       <link>https://wmkouw.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Gaussian Variational Inference with Non-Gaussian Factors for State Estimation</title>
+      <link>https://wmkouw.github.io/publication/esgvi-uwb/</link>
+      <pubDate>Wed, 31 Dec 2025 09:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/esgvi-uwb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian autoregression to optimize temporal Matérn-kernel Gaussian process hyperparameters</title>
@@ -114,14 +122,6 @@
       <link>https://wmkouw.github.io/publication/intent-mp/</link>
       <pubDate>Tue, 02 Apr 2024 09:00:00 +0200</pubDate>
       <guid>https://wmkouw.github.io/publication/intent-mp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaussian Variational Inference with Non-Gaussian Factors for State Estimation</title>
-      <link>https://wmkouw.github.io/publication/esgvi-uwb/</link>
-      <pubDate>Sun, 31 Dec 2023 09:00:00 +0200</pubDate>
-      <guid>https://wmkouw.github.io/publication/esgvi-uwb/</guid>
       <description></description>
     </item>
     
