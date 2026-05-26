@@ -2,23 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wmkouw.github.io/publication-type/article-journal/</loc>
-    <lastmod>2026-01-12T09:00:00+02:00</lastmod>
+    <loc>https://wmkouw.github.io/publication/snn-mp/</loc>
+    <lastmod>2026-05-22T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/publication/esgvi-uwb/</loc>
-    <lastmod>2026-01-12T09:00:00+02:00</lastmod>
+    <loc>https://wmkouw.github.io/publication-type/article-journal/</loc>
+    <lastmod>2026-05-22T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication_types/</loc>
-    <lastmod>2026-01-12T09:00:00+02:00</lastmod>
+    <lastmod>2026-05-22T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication/</loc>
-    <lastmod>2026-01-12T09:00:00+02:00</lastmod>
+    <lastmod>2026-05-22T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/</loc>
+    <lastmod>2026-05-22T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/composing-ffg/</loc>
+    <lastmod>2026-05-21T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication-type/paper-conference/</loc>
+    <lastmod>2026-05-21T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/esgvi-uwb/</loc>
     <lastmod>2026-01-12T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -43,10 +55,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication/priors-marxefe/</loc>
-    <lastmod>2025-12-06T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication-type/paper-conference/</loc>
     <lastmod>2025-12-06T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -88,6 +96,18 @@
   </url><url>
     <loc>https://wmkouw.github.io/tag/probabilistic-numerics/</loc>
     <lastmod>2025-09-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/chips/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/project/deltas/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/manufacturing/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication/marxefe-mp/</loc>

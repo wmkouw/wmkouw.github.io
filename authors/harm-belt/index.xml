@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harm Belt | Wouter M. Kouw</title>
+    <link>http://localhost:1313/authors/harm-belt/</link>
+      <atom:link href="http://localhost:1313/authors/harm-belt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Harm Belt</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_3ab2f3126993021b.png</url>
+      <title>Harm Belt</title>
+      <link>http://localhost:1313/authors/harm-belt/</link>
+    </image>
+    
+    <item>
+      <title>DELTAS</title>
+      <link>http://localhost:1313/project/deltas/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/deltas/</guid>
+      <description>&lt;p&gt;DELTAS is a public-private partnership between TU Eindhoven and ASML B.V. This work package is headed by Ruud van Sloun and focuses on deep generative models for metrology and lithography. Esther van Pelt is doing her PhD under this project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

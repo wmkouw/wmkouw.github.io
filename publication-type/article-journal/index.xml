@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/publication-type/article-journal/</link>
       <atom:link href="https://wmkouw.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jan 2026 09:00:00 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2026 09:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu_3ab2f3126993021b.png</url>
       <title>Article-Journal</title>
       <link>https://wmkouw.github.io/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>A spiking neural network implementation of Gaussian belief propagation</title>
+      <link>https://wmkouw.github.io/publication/snn-mp/</link>
+      <pubDate>Fri, 22 May 2026 09:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/snn-mp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gaussian variational inference with non-Gaussian factors for state estimation</title>

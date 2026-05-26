@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wouter M. Kouw</title>
+    <link>http://localhost:1313/authors/admin/</link>
+      <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wouter M. Kouw</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2026 09:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_3ab2f3126993021b.png</url>
+      <title>Wouter M. Kouw</title>
+      <link>http://localhost:1313/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>A spiking neural network implementation of Gaussian belief propagation</title>
+      <link>http://localhost:1313/publication/snn-mp/</link>
+      <pubDate>Fri, 22 May 2026 09:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/snn-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composing non-conjugate factor graphs with closed-form variational inference</title>
+      <link>http://localhost:1313/publication/composing-ffg/</link>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/composing-ffg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian variational inference with non-Gaussian factors for state estimation</title>
+      <link>http://localhost:1313/publication/esgvi-uwb/</link>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/esgvi-uwb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of priors on epistemic uncertainty in autoregressive active inference</title>
+      <link>http://localhost:1313/publication/priors-marxefe/</link>
+      <pubDate>Sat, 06 Dec 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/priors-marxefe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian autoregression to optimize temporal Matérn-kernel Gaussian process hyperparameters</title>
+      <link>http://localhost:1313/publication/hopt-bar/</link>
+      <pubDate>Mon, 01 Sep 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/hopt-bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Message passing-based inference in an autoregressive active inference agent</title>
+      <link>http://localhost:1313/publication/marxefe-mp/</link>
+      <pubDate>Fri, 15 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/marxefe-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spike-timing dependent plasticity for Bernoulli message passing</title>
+      <link>http://localhost:1313/publication/snn-bern-mp/</link>
+      <pubDate>Fri, 15 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/snn-bern-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factor graph-based online Bayesian identification and component evaluation for multivariate autoregressive exogenous input models</title>
+      <link>http://localhost:1313/publication/marx-modeleval/</link>
+      <pubDate>Mon, 23 Jun 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/marx-modeleval/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Bayesian system identification in multivariate autoregressive models via message passing</title>
+      <link>http://localhost:1313/publication/marx-mp/</link>
+      <pubDate>Fri, 07 Mar 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/marx-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled autoregressive active inference agents for control of multi-joint dynamical systems</title>
+      <link>http://localhost:1313/publication/carx-efe/</link>
+      <pubDate>Tue, 31 Dec 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/carx-efe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Message passing-based Bayesian control of a cart-pole system</title>
+      <link>http://localhost:1313/publication/cartpole-mp/</link>
+      <pubDate>Tue, 31 Dec 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/cartpole-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning to avoid ambiguous states through Gaussian approximations to non-linear sensors in active inference agents</title>
+      <link>http://localhost:1313/publication/efe-nlamb/</link>
+      <pubDate>Tue, 31 Dec 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/efe-nlamb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple variational Kalman-GRU for ship trajectory prediction with uncertainty</title>
+      <link>http://localhost:1313/publication/kalman-gru/</link>
+      <pubDate>Mon, 04 Nov 2024 09:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/kalman-gru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian grey-box identification of convection effects in heat transfer dynamics</title>
+      <link>http://localhost:1313/publication/greybox-heat/</link>
+      <pubDate>Wed, 11 Sep 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/greybox-heat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference of collision avoidance intent during ship encounters</title>
+      <link>http://localhost:1313/publication/intent-mp/</link>
+      <pubDate>Tue, 02 Apr 2024 09:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/intent-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-seeking polynomial NARX model-predictive control through expected free energy minimization</title>
+      <link>http://localhost:1313/publication/narx-efe/</link>
+      <pubDate>Mon, 25 Dec 2023 09:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/narx-efe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Message-passing-based system identification for NARMAX models</title>
+      <link>http://localhost:1313/publication/ln-narmax/</link>
+      <pubDate>Fri, 05 Aug 2022 09:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/ln-narmax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Bayes for robust radar single object tracking</title>
+      <link>http://localhost:1313/publication/rsot-st/</link>
+      <pubDate>Mon, 01 Aug 2022 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/rsot-st/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational message passing for online polynomial NARMAX identification</title>
+      <link>http://localhost:1313/publication/vmpnarmax/</link>
+      <pubDate>Tue, 01 Feb 2022 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/vmpnarmax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On epistemics in expected free energy for linear Gaussian state space models</title>
+      <link>http://localhost:1313/publication/efe-glds/</link>
+      <pubDate>Wed, 24 Nov 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/efe-glds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Message passing-based inference for time-varying autoregressive models</title>
+      <link>http://localhost:1313/publication/tvar/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tvar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust domain-adaptive discriminant analysis</title>
+      <link>http://localhost:1313/publication/rdada/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rdada/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Target robust discriminant analysis</title>
+      <link>http://localhost:1313/publication/trda/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/trda/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online system identification in a Duffing oscillator by free energy minimisation</title>
+      <link>http://localhost:1313/publication/nsi-duff/</link>
+      <pubDate>Tue, 01 Sep 2020 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/nsi-duff/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The data representativeness criterion</title>
+      <link>http://localhost:1313/publication/drc/</link>
+      <pubDate>Tue, 11 Aug 2020 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/drc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online variational message passing in hierarchical autoregressive models</title>
+      <link>http://localhost:1313/publication/vmphar/</link>
+      <pubDate>Sun, 21 Jun 2020 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/vmphar/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian joint state and parameter tracking in autoregressive models</title>
+      <link>http://localhost:1313/publication/vmpar-hgf/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vmpar-hgf/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Back to the future - temporal adaptation of text representations</title>
+      <link>http://localhost:1313/publication/sa-nlp/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sa-nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review of domain adaptation without target labels</title>
+      <link>http://localhost:1313/publication/da-rev/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/da-rev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust importance-weighted cross-validation under sample selection bias</title>
+      <link>http://localhost:1313/publication/covshift-rob/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/covshift-rob/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A cross-center smoothness prior for variational Bayesian brain tissue segmentation</title>
+      <link>http://localhost:1313/publication/infpp/</link>
+      <pubDate>Wed, 06 Mar 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/infpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning an MR acquisition-invariant representation using Siamese neural networks</title>
+      <link>http://localhost:1313/publication/mrai-net/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mrai-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CT image segmentation of bone for medical additive manufacturing using a CNN</title>
+      <link>http://localhost:1313/publication/ct-boneseg/</link>
+      <pubDate>Sat, 01 Dec 2018 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/ct-boneseg/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of sampling skewness of the importance-weighted risk estimator on model selection</title>
+      <link>http://localhost:1313/publication/covshift-skew/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/covshift-skew/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An introduction to domain adaptation and transfer learning</title>
+      <link>http://localhost:1313/publication/tr-introda/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tr-introda/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On regularization parameter estimation under covariate shift</title>
+      <link>http://localhost:1313/publication/covshift-reg/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/covshift-reg/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary no tes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feature-level domain adaptation</title>
+      <link>http://localhost:1313/publication/flda/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/flda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

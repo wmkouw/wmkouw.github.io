@@ -5,12 +5,20 @@
     <link>https://wmkouw.github.io/publication-type/paper-conference/</link>
       <atom:link href="https://wmkouw.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Dec 2025 12:00:00 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2026 12:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu_3ab2f3126993021b.png</url>
       <title>Paper-Conference</title>
       <link>https://wmkouw.github.io/publication-type/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>Composing non-conjugate factor graphs with closed-form variational inference</title>
+      <link>https://wmkouw.github.io/publication/composing-ffg/</link>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/composing-ffg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effects of priors on epistemic uncertainty in autoregressive active inference</title>

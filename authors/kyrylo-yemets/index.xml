@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyrylo Yemets | Wouter M. Kouw</title>
+    <link>http://localhost:1313/authors/kyrylo-yemets/</link>
+      <atom:link href="http://localhost:1313/authors/kyrylo-yemets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kyrylo Yemets</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2026 12:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_3ab2f3126993021b.png</url>
+      <title>Kyrylo Yemets</title>
+      <link>http://localhost:1313/authors/kyrylo-yemets/</link>
+    </image>
+    
+    <item>
+      <title>Composing non-conjugate factor graphs with closed-form variational inference</title>
+      <link>http://localhost:1313/publication/composing-ffg/</link>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publication/composing-ffg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
