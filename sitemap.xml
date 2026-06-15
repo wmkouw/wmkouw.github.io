@@ -1,25 +1,28 @@
-
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wmkouw.github.io/publication/snn-mp/</loc>
-    <lastmod>2026-05-22T09:00:00+02:00</lastmod>
+    <loc>https://wmkouw.github.io/publication-type/article-journal/</loc>
+    <lastmod>2026-06-11T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/publication-type/article-journal/</loc>
-    <lastmod>2026-05-22T09:00:00+02:00</lastmod>
+    <loc>https://wmkouw.github.io/publication/efe-bo/</loc>
+    <lastmod>2026-06-11T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication_types/</loc>
-    <lastmod>2026-05-22T09:00:00+02:00</lastmod>
+    <lastmod>2026-06-11T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication/</loc>
-    <lastmod>2026-05-22T09:00:00+02:00</lastmod>
+    <lastmod>2026-06-11T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/</loc>
+    <lastmod>2026-06-11T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/snn-mp/</loc>
     <lastmod>2026-05-22T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
