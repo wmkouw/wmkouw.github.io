@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning | Wouter M. Kouw</title>
+    <title>Machine-Learning | Wouter M. Kouw</title>
     <link>https://wmkouw.github.io/tag/machine-learning/</link>
       <atom:link href="https://wmkouw.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Machine Learning</description>
+    <description>Machine-Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu_34c5569f2b272810.png</url>
-      <title>Machine Learning</title>
+      <title>Machine-Learning</title>
       <link>https://wmkouw.github.io/tag/machine-learning/</link>
     </image>
     

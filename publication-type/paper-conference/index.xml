@@ -5,12 +5,60 @@
     <link>https://wmkouw.github.io/publication-type/paper-conference/</link>
       <atom:link href="https://wmkouw.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2026 12:00:00 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2026 12:00:00 +0200</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu_34c5569f2b272810.png</url>
       <title>Paper-Conference</title>
       <link>https://wmkouw.github.io/publication-type/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>Expected free energy as an information constraint on the Bethe Lagrangian</title>
+      <link>https://wmkouw.github.io/publication/efe-as-cbfe/</link>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/efe-as-cbfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing time and precision with active sensor selection and positioning</title>
+      <link>https://wmkouw.github.io/publication/multimodal-aif-sensing/</link>
+      <pubDate>Sun, 02 Aug 2026 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/multimodal-aif-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expected free energy planning with learned external-camera measurement reliability</title>
+      <link>https://wmkouw.github.io/publication/externalnav-gpvis/</link>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/externalnav-gpvis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expected free energy-based informative path planning for robotic mars exploration</title>
+      <link>https://wmkouw.github.io/publication/efe-ipp-robot/</link>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/efe-ipp-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A factor graph approach to scalable multi-output Gaussian process regression</title>
+      <link>https://wmkouw.github.io/publication/ssm-mogp/</link>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/ssm-mogp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spike-based belief propagation in nonlinear dynamical systems</title>
+      <link>https://wmkouw.github.io/publication/snn-cartpole/</link>
+      <pubDate>Sat, 25 Jul 2026 12:00:00 +0200</pubDate>
+      <guid>https://wmkouw.github.io/publication/snn-cartpole/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Composing non-conjugate factor graphs with closed-form variational inference</title>

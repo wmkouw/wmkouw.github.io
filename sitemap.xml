@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wmkouw.github.io/publication/efe-as-cbfe/</loc>
+    <lastmod>2026-08-03T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication-type/paper-conference/</loc>
+    <lastmod>2026-08-03T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication_types/</loc>
+    <lastmod>2026-08-03T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/</loc>
+    <lastmod>2026-08-03T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/</loc>
+    <lastmod>2026-08-03T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/multimodal-aif-sensing/</loc>
+    <lastmod>2026-08-02T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/externalnav-gpvis/</loc>
+    <lastmod>2026-08-01T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/efe-ipp-robot/</loc>
+    <lastmod>2026-08-01T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/ssm-mogp/</loc>
+    <lastmod>2026-07-29T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/publication/snn-cartpole/</loc>
+    <lastmod>2026-07-25T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wmkouw.github.io/publication-type/article-journal/</loc>
     <lastmod>2026-06-11T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,27 +50,11 @@
     <lastmod>2026-06-11T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/publication_types/</loc>
-    <lastmod>2026-06-11T09:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication/</loc>
-    <lastmod>2026-06-11T09:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/</loc>
-    <lastmod>2026-06-11T09:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication/snn-mp/</loc>
+    <loc>https://wmkouw.github.io/publication/snn-gauss-mp/</loc>
     <lastmod>2026-05-22T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication/composing-ffg/</loc>
-    <lastmod>2026-05-21T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/publication-type/paper-conference/</loc>
     <lastmod>2026-05-21T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
