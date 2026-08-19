@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adaptation | Wouter M. Kouw</title>
+    <link>https://wmkouw.github.io/tag/adaptation/</link>
+      <atom:link href="https://wmkouw.github.io/tag/adaptation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adaptation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wmkouw.github.io/media/icon_hu_34c5569f2b272810.png</url>
+      <title>Adaptation</title>
+      <link>https://wmkouw.github.io/tag/adaptation/</link>
+    </image>
+    
+    <item>
+      <title>CONTACT-AI</title>
+      <link>https://wmkouw.github.io/project/contact-ai/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/contact-ai/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt;. The International Labour Organisation reports over 300 million work-related accidents and diseases per year, with nearly 3 million being fatal (&lt;a href=&#34;https://www.ilo.org/resource/news/nearly-3-million-people-die-work-related-accidents-and-diseases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ILO report&lt;/a&gt;). Embodied Artificially Intelligent (EAI) agents can reduce this drastically, by for example
+inspecting construction sites or transporting cargo through hazardous areas. However, autonomously navigating unknown environments is difficult and requires adaptive decision-making. Suppose the agent detects a visually ambiguous obstacle: is it a crate that can be pushed away? Or a fence that needs to be navigated around? Rule-based algorithms and task-priority controllers could yield unsafe situations, while reinforcement learning (RL) requires enormous amounts of trial-and-error, potentially breaking the robot during training. The challenge is to design an EAI agent that cautiously and efficiently explores using multiple sensory modalities to find the best path through unknown terrain.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-upon-detection-of-an-obstacle-external-uncertainty-vision-increases-this-uncertainty-will-be-transferred-to-internal-uncertainty-kinematic-the-agent-then-minimizes-kinematic-uncertainty-by-making-contact-with-the-obstacle&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Upon detection of an obstacle, external uncertainty (vision) increases. This uncertainty will be transferred to internal uncertainty (kinematic). The agent then minimizes kinematic uncertainty by making contact with the obstacle.&#34; srcset=&#34;
+               /project/contact-ai/CONTACTAI-uncertainty_hu_89eaf0f391bc36eb.webp 400w,
+               /project/contact-ai/CONTACTAI-uncertainty_hu_6d7d325fdabb4dd.webp 760w,
+               /project/contact-ai/CONTACTAI-uncertainty_hu_ae5e7952448c6b36.webp 1200w&#34;
+               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-uncertainty_hu_89eaf0f391bc36eb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;144&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1. Upon detection of an obstacle, external uncertainty (vision) increases. This uncertainty will be transferred to internal uncertainty (kinematic). The agent then minimizes kinematic uncertainty by making contact with the obstacle.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Solution framework&lt;/strong&gt;: brain-inspired multi-modal switching dynamics. We believe an agent should use touch for exploration when vision cannot resolve ambiguity in its environment (Figure 1). Mechanically, we envision an agent that transfers visual uncertainty about the external world (what is this obstacle in front of me?) to kinematic uncertainty internally (what will happen if I move my leg?), and then reacts with actions that minimize uncertainty (e.g., gently push object with leg). To create such an agent, we take inspiration from natural embodied intelligence and computational neuroscience, specifically Active Inference. An active inference agent operates on beliefs (probability distributions over unknown variables) and updates these using variational Bayesian inference when new data is observed. Using quantified uncertainty, actions are balanced between exploration (maximizing information gain during data acquisition) and exploitation (reaching a goal). It has been demonstrated to be a powerful framework for planning and navigation. Uncertainty also leads to caution: slow careful movements when uncertainty is high and rapid targeted movements when uncertainty is low.&lt;/p&gt;
+&lt;p&gt;We propose to design an active inference agent for a quadrupedal robot that incorporates visual perception, planning, decision-making and sensorimotor control (Figure 2). The active inference module learns two sets of dynamics: loco-motion and loco-manipulation. Visual perception is passed as a belief, expressed in terms of a factorized probability distribution, to the active inference module. Visual uncertainty is merged with the uncertainty in the loco-manipulation dynamics, akin to sensor fusion. When that uncertainty becomes large, the agent favours actions that minimize it in the future, such as manipulating the unknown object with its leg. Since the initial uncertainty will be high, the agent will make contact cautiously. Uncertainty shrinks with contact and a stronger action, such as pushing the object away, will be chosen, leading to a potentially improved locomotion path. In summary, the proposed active inference agent will use multiple modalities (vision, touch) to cautiously resolve ambiguity in the world and navigate the environment more robustly.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-active-inference-agent-overview-vision-based-uncertainty-about-the-world-affects-kinematic-uncertainty-and-triggers-a-switch-to-loco-manipulation-exploring-the-world-through-cautious-touch-planning-implemented-as-message-passing-on-a-forney-style-factor-graph-edges-are-random-variables-nodes-are-operations-of-switching-autoregressive-models&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2. Active inference agent overview. Vision-based uncertainty about the world affects kinematic uncertainty and triggers a switch to loco-manipulation, exploring the world through cautious touch. Planning implemented as message passing on a Forney-style factor graph (edges are random variables, nodes are operations) of switching autoregressive models.&#34; srcset=&#34;
+               /project/contact-ai/CONTACTAI-system_hu_543ec0a1ab48e9a1.webp 400w,
+               /project/contact-ai/CONTACTAI-system_hu_ec12212ffa9d2968.webp 760w,
+               /project/contact-ai/CONTACTAI-system_hu_8a410e1213c5821d.webp 1200w&#34;
+               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-system_hu_543ec0a1ab48e9a1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;221&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2. Active inference agent overview. Vision-based uncertainty about the world affects kinematic uncertainty and triggers a switch to loco-manipulation, exploring the world through cautious touch. Planning implemented as message passing on a Forney-style factor graph (edges are random variables, nodes are operations) of switching autoregressive models.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Implementation&lt;/strong&gt;. The agent will have a vision, a control and a decision-making module (Figure 2). The vision module runs a simultaneous localization and mapping algorithm as well as rudimentary object detection. The planning and navigation module will switch between locomotion and loco-manipulation. During locomotion, it generates targets for a gait controller and guides the robot along the planned path. During loco-manipulation, it plans a series of cautious contact-rich policies that maximize information gain on the object and whether it can be pushed away. We will use switching autoregressive models, that are explainable in terms of the effect of input sources on output prediction, and for which information gain can be calculated analytically. Computations are distributed by means of reactive message passing on a Forney-style factor graph. This ensures computation cost is small enough to run in-situ (e.g., Raspberry Pi + NVIDIA Jetson) on a low-cost quadrupedal robot platform (e.g., Petoi Bittle), which we aim to demonstrate as proof-of-concept.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SeqDAIS</title>
+      <link>https://wmkouw.github.io/project/seqdais/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/seqdais/</guid>
+      <description>&lt;p&gt;The capacity of supervised learning systems to generalize to new examples is inherently limited by the collected data. If it is not an accurate reﬂection of the population, then the system will not perform well. In particular, if the collected data is biased, which means that one observes certain examples more often than normal, then the system can be misled into thinking that certain outcomes are also more likely to occur. Although the system might make accurate diagnoses for new patients arriving to that particular hospital, it will make inaccurate diagnoses for patients arriving to 1a diﬀerent hospital. The diﬀerences between patient populations might be due to regional diﬀerences such as exercise culture, but the fact that one observes for instance older patients more than normal means that data collected from that hospital is biased with respect to the total human population.&lt;/p&gt;
+&lt;p&gt;Handling biased samples from populations is a problem that has long been studied in statistics and econometrics. Although a number of techniques have been proposed to improve supervised learning systems trained on biased data, things have changed with the tremendous increase in computational power in the last 20 years. The ﬁeld has advanced to the point where we ask the question whether it is possible to generalize to particular target populations as well. Can we adapt a supervised learning system trained on adult human heart disease patients to make accurate decisions for infant heart disease patients?&lt;/p&gt;
+&lt;p&gt;Work from the last 10 years has looked at incorporating unlabeled data from these target populations. With this additional information, systems can recognize changes in data properties, ﬁnd correspondences between populations and adapt their decisions accordingly. Successful adaptation is deﬁned as an improvement over the performance of the original system. Nonetheless, the analysis of this problem is not complete, and it is not clear which conditions have to be fulﬁlled in order for the system to perform well. It seems that in cases where it is diﬃcult to describe how two populations relate to each other, adaptive systems suﬀer from high variability. They are highly uncertain about their decisions and often wrong. However, it seems that the more similar the populations are, the likelier it is that the system adapts well. It would, for example, be easier for the system to adapt to predict heart disease in adolescents based on data from adults, then it would for the system to adapt to infants. However, here might lie a potentially crucial insight: can we design a system that ﬁrst adapts to the closest population and only then adapts to the ﬁnal target population?
+In other words, a system that sequentially adapts?&lt;/p&gt;
+&lt;p&gt;This position is supported by a Niels Stensen Fellowship grant, offered by the Niels Stensen Stichting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DAPR</title>
+      <link>https://wmkouw.github.io/project/dapr/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/dapr/</guid>
+      <description>&lt;p&gt;Artificial intelligence, in particular machine learning and pattern recognition, is concerned with teaching computer systems to perform tasks. Tasks such as autonomous driving, recognizing tumors in medical images, or detecting suspicious packages in airports. Such systems learn by observing examples, i.e. data, and forming a mathematical description of what types of variations occur, i.e. a statistical model. For new input, the system computes the most likely output and makes a decision accordingly. As a scientific field, it is situated between statistics and and algorithmics. As a technology, it has become a very powerful tool due to the massive amounts of data being collected and the drop in the cost of computation.&lt;/p&gt;
+&lt;p&gt;However, obtaining &lt;em&gt;enough&lt;/em&gt; data is still very difficult. There are often substantial financial, operational or ethical considerations in collecting data. The majority of research in machine learning deals with constraints on the amount, the labeling and the types of data that are available. One such constraint is that it is only possible to collect labeled data from one population, or domain, but the goal is to make decisions for another domain. It is unclear under which conditions this will be possible, which inspires the research question: when and how can a classification algorithm generalize from a source domain to a target domain?&lt;/p&gt;
+&lt;p&gt;My research has looked at different approaches to domain adaptation. Firstly, we have asked some critical questions on whether the standard approaches to model validation still hold in the context of different domains. As a result, we have proposed a means to reduce uncertainty in the validation risk estimator, but that does not solve the problem completely. Secondly, we modeled the transfer from source to target domain using parametric families of distributions, which works well in simple contexts such as feature dropout at test time. Thirdly, we looked at a more practical problem: tissue classifiers trained on data from one MRI scanner degrade when applied to data from another scanner due to acquisition-based variations. We tackled this problem by learning a representation for which detrimental variations are minimized while maintaining tissue contrast. Finally, considering that many approaches fail in practice because their assumptions are not met, we designed a parameter estimator that never performs worse than the naive non-adaptive classifier.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agents | Wouter M. Kouw</title>
+    <link>https://wmkouw.github.io/tag/agents/</link>
+      <atom:link href="https://wmkouw.github.io/tag/agents/index.xml" rel="self" type="application/rss+xml" />
+    <description>Agents</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wmkouw.github.io/media/icon_hu_34c5569f2b272810.png</url>
+      <title>Agents</title>
+      <link>https://wmkouw.github.io/tag/agents/</link>
+    </image>
+    
+    <item>
+      <title>AIM-TT</title>
+      <link>https://wmkouw.github.io/project/aim-tt/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/aim-tt/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/aim-tt/aimtt-logo-tag_hu_3942cd5af8a941e2.webp 400w,
+               /project/aim-tt/aimtt-logo-tag_hu_28bbadd6f033bc09.webp 760w,
+               /project/aim-tt/aimtt-logo-tag_hu_9dbbb103812482c0.webp 1200w&#34;
+               src=&#34;https://wmkouw.github.io/project/aim-tt/aimtt-logo-tag_hu_3942cd5af8a941e2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;146&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AiMTT aims to cultivate a highly skilled and diverse AI talent pool equipped to address the opportunities and challenges of AI in mobility, transport, and logistics. By combining real-world case studies with knowledge development, this initiative fosters deep expertise in the field.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mobility, transport, and logistics face a multitude of challenges: traffic congestion, livability concerns, conflicts between user, operator, and public interests, space constraints, and safety risks during large-scale events. These challenges are further complicated by their deep interconnections, making them particularly difficult to resolve.&lt;/p&gt;
+&lt;p&gt;While such complexities can be overwhelming for the human mind, they offer ideal use cases for artificial intelligence (AI). AI can process vast amounts of data in real time, provide accurate network assessments, calculate impacts in future scenarios, and optimize interventions. It also enhances our understanding of human behavior and the mobility system as a whole.&lt;/p&gt;
+&lt;p&gt;Given these advantages, leveraging AI to address mobility challenges is a logical next step. Through AiMTT, we embrace a “learning by doing” approach to develop responsible, AI-driven solutions.&lt;/p&gt;
+&lt;h2 id=&#34;vision-and-ambition&#34;&gt;Vision and Ambition&lt;/h2&gt;
+&lt;p&gt;AiMTT stands for AI Learning Initiative for Multi-modal Traffic and Transportation. It operates under the umbrella of &lt;a href=&#34;https://aic4nl.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AIC4NL&lt;/a&gt;, an organization dedicated to the responsible development and application of AI in the Netherlands. Ensuring responsible AI development is essential, as concerns about fairness, inclusivity, privacy, and human oversight continue to grow. Will AI-generated outcomes be equitable? Can privacy be safeguarded? How do we ensure that humans remain in control?&lt;/p&gt;
+&lt;p&gt;AiMTT aims to address these critical questions by fostering a collaborative learning community that brings together experts from &lt;a href=&#34;https://aimtt.nl/about/partners&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;academia, industry, and government&lt;/a&gt;. Project partners will build, test, and refine AI applications, with ethical considerations—such as fairness, privacy, and human autonomy—at the forefront.&lt;/p&gt;
+&lt;h2 id=&#34;learning-process&#34;&gt;Learning Process&lt;/h2&gt;
+&lt;p&gt;AiMTT’s approach is grounded in practical application. AI solutions will be developed through &lt;a href=&#34;https://aimtt.nl/about/use-cases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;seven real-world use cases&lt;/a&gt;, each designed to create tangible tools that can be directly implemented. Equally important is the learning process itself: identifying best practices, analyzing challenges, and refining AI applications based on real-world insights.&lt;/p&gt;
+&lt;p&gt;To support this, the project will offer workshops, training programs, and co-creation sessions—ensuring continuous knowledge exchange and improvement.&lt;/p&gt;
+&lt;p&gt;Through AiMTT, we are shaping the future of urban mobility by responsibly integrating AI to create smarter, safer, and more efficient transportation systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CONTACT-AI</title>
+      <link>https://wmkouw.github.io/project/contact-ai/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/contact-ai/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt;. The International Labour Organisation reports over 300 million work-related accidents and diseases per year, with nearly 3 million being fatal (&lt;a href=&#34;https://www.ilo.org/resource/news/nearly-3-million-people-die-work-related-accidents-and-diseases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ILO report&lt;/a&gt;). Embodied Artificially Intelligent (EAI) agents can reduce this drastically, by for example
+inspecting construction sites or transporting cargo through hazardous areas. However, autonomously navigating unknown environments is difficult and requires adaptive decision-making. Suppose the agent detects a visually ambiguous obstacle: is it a crate that can be pushed away? Or a fence that needs to be navigated around? Rule-based algorithms and task-priority controllers could yield unsafe situations, while reinforcement learning (RL) requires enormous amounts of trial-and-error, potentially breaking the robot during training. The challenge is to design an EAI agent that cautiously and efficiently explores using multiple sensory modalities to find the best path through unknown terrain.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-upon-detection-of-an-obstacle-external-uncertainty-vision-increases-this-uncertainty-will-be-transferred-to-internal-uncertainty-kinematic-the-agent-then-minimizes-kinematic-uncertainty-by-making-contact-with-the-obstacle&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Upon detection of an obstacle, external uncertainty (vision) increases. This uncertainty will be transferred to internal uncertainty (kinematic). The agent then minimizes kinematic uncertainty by making contact with the obstacle.&#34; srcset=&#34;
+               /project/contact-ai/CONTACTAI-uncertainty_hu_89eaf0f391bc36eb.webp 400w,
+               /project/contact-ai/CONTACTAI-uncertainty_hu_6d7d325fdabb4dd.webp 760w,
+               /project/contact-ai/CONTACTAI-uncertainty_hu_ae5e7952448c6b36.webp 1200w&#34;
+               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-uncertainty_hu_89eaf0f391bc36eb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;144&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1. Upon detection of an obstacle, external uncertainty (vision) increases. This uncertainty will be transferred to internal uncertainty (kinematic). The agent then minimizes kinematic uncertainty by making contact with the obstacle.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Solution framework&lt;/strong&gt;: brain-inspired multi-modal switching dynamics. We believe an agent should use touch for exploration when vision cannot resolve ambiguity in its environment (Figure 1). Mechanically, we envision an agent that transfers visual uncertainty about the external world (what is this obstacle in front of me?) to kinematic uncertainty internally (what will happen if I move my leg?), and then reacts with actions that minimize uncertainty (e.g., gently push object with leg). To create such an agent, we take inspiration from natural embodied intelligence and computational neuroscience, specifically Active Inference. An active inference agent operates on beliefs (probability distributions over unknown variables) and updates these using variational Bayesian inference when new data is observed. Using quantified uncertainty, actions are balanced between exploration (maximizing information gain during data acquisition) and exploitation (reaching a goal). It has been demonstrated to be a powerful framework for planning and navigation. Uncertainty also leads to caution: slow careful movements when uncertainty is high and rapid targeted movements when uncertainty is low.&lt;/p&gt;
+&lt;p&gt;We propose to design an active inference agent for a quadrupedal robot that incorporates visual perception, planning, decision-making and sensorimotor control (Figure 2). The active inference module learns two sets of dynamics: loco-motion and loco-manipulation. Visual perception is passed as a belief, expressed in terms of a factorized probability distribution, to the active inference module. Visual uncertainty is merged with the uncertainty in the loco-manipulation dynamics, akin to sensor fusion. When that uncertainty becomes large, the agent favours actions that minimize it in the future, such as manipulating the unknown object with its leg. Since the initial uncertainty will be high, the agent will make contact cautiously. Uncertainty shrinks with contact and a stronger action, such as pushing the object away, will be chosen, leading to a potentially improved locomotion path. In summary, the proposed active inference agent will use multiple modalities (vision, touch) to cautiously resolve ambiguity in the world and navigate the environment more robustly.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-active-inference-agent-overview-vision-based-uncertainty-about-the-world-affects-kinematic-uncertainty-and-triggers-a-switch-to-loco-manipulation-exploring-the-world-through-cautious-touch-planning-implemented-as-message-passing-on-a-forney-style-factor-graph-edges-are-random-variables-nodes-are-operations-of-switching-autoregressive-models&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2. Active inference agent overview. Vision-based uncertainty about the world affects kinematic uncertainty and triggers a switch to loco-manipulation, exploring the world through cautious touch. Planning implemented as message passing on a Forney-style factor graph (edges are random variables, nodes are operations) of switching autoregressive models.&#34; srcset=&#34;
+               /project/contact-ai/CONTACTAI-system_hu_543ec0a1ab48e9a1.webp 400w,
+               /project/contact-ai/CONTACTAI-system_hu_ec12212ffa9d2968.webp 760w,
+               /project/contact-ai/CONTACTAI-system_hu_8a410e1213c5821d.webp 1200w&#34;
+               src=&#34;https://wmkouw.github.io/project/contact-ai/CONTACTAI-system_hu_543ec0a1ab48e9a1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;221&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2. Active inference agent overview. Vision-based uncertainty about the world affects kinematic uncertainty and triggers a switch to loco-manipulation, exploring the world through cautious touch. Planning implemented as message passing on a Forney-style factor graph (edges are random variables, nodes are operations) of switching autoregressive models.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Implementation&lt;/strong&gt;. The agent will have a vision, a control and a decision-making module (Figure 2). The vision module runs a simultaneous localization and mapping algorithm as well as rudimentary object detection. The planning and navigation module will switch between locomotion and loco-manipulation. During locomotion, it generates targets for a gait controller and guides the robot along the planned path. During loco-manipulation, it plans a series of cautious contact-rich policies that maximize information gain on the object and whether it can be pushed away. We will use switching autoregressive models, that are explainable in terms of the effect of input sources on output prediction, and for which information gain can be calculated analytically. Computations are distributed by means of reactive message passing on a Forney-style factor graph. This ensures computation cost is small enough to run in-situ (e.g., Raspberry Pi + NVIDIA Jetson) on a low-cost quadrupedal robot platform (e.g., Petoi Bittle), which we aim to demonstrate as proof-of-concept.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FEPQuad</title>
+      <link>https://wmkouw.github.io/project/fep-quad/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/fep-quad/</guid>
+      <description>&lt;p&gt;We will design an artificially intelligent autonomous system for quadrupedal robot locomotion, using a novel paradigm from theoretical neuroscience called Active Inference (AIF). “Active” refers to selecting actions that reduce uncertainty within the probabilistic model of the world and “inference” refers to the use of variational Bayesian inference to update beliefs over unobserved variables in the model (e.g. parameters, states, noise, controls). AIF is a novel perspective on neural information processing and is intended to model cognition, for instance how rats explore small mazes in search of food. But it can also serve as a design principle for artificially intelligent autonomous systems (agents). These can be applied to signal processing systems (e.g. adaptively calibrating hearing aids), control systems (e.g. identifying electro-mechanical systems) or robotics (e.g. learning to grasp). However, bringing AIF to engineering is far from trivial. There are many technical challenges, such as how to account for strong non-linearities, how to deal with high degrees of freedom of moving parts or how to include practical constraints to avoid breaking hardware.&lt;/p&gt;
+&lt;p&gt;Why Active Inference? It represents a series of technical advantages over the current state-of-the-art in AI methodologies. Deep learning is a popular framework with impressive applications, but is not without its limitations. Firstly, it requires huge amounts of data to “discover” structure. AIF is a hybrid of model-driven and data-driven learning, which means it can rely on prior knowledge when data is scarce. Crucially, deep learning methods only perform well after an experienced designer has extensively tuned the network’s architecture, regularized its complexity and tried various optimizers. In AIF, there are fewer model parameters, regularization arises naturally through prior distributions and optimization is not an issue. To train deep neural networks, you need expensive hardware (GPU) with a sizeable carbon footprint. AIF agents require less computation power and are more suited to embedded electronics. Last but not least, when deep learning is applied to control (deep reinforcement learning), the engineer must design a “reward function” that indicates the value of actions. This function is hard to design, leading to misbehaving agents. AIF agents do not suffer from this problem because rewards arise implicitly from the probabilistic model. These properties are all nice, but the most important argument for AIF is that it represents a principled way to design intelligent systems: instead of hacking something together based on task-specific cost functions, we now have a first-principle-based framework of perception, decision-making, planning and action.&lt;/p&gt;
+&lt;p&gt;Why quadrupedal walking robots? Because unlike wheeled robots, walkers can step over objects and climb stairs. Unlike drones, they can enter confined spaces and operate for extended periods of time. In theory, quadrupeds are highly agile. In practice, learning to walk is such a complex challenge that they often fail to live up to their potential. Modern AI has accelerated legged robotics to the point that quadrupeds now walk relatively smoothly. Companies such as Boston Dynamics, ANYbotics and Unitree are developing commercial products for semi-autonomous site inspection and maintenance. But their controllers still rely heavily on deep learning. Our AIF agent will make it much easier to teach legged robots to walk.&lt;/p&gt;
+&lt;p&gt;How will the proposed agent work? AIF agents are based on a probabilistic graphical model expressing the dependence of observed and unknown variables through conditional distributions. For dynamical systems, there are leaf nodes representing initial conditions that are specified as “prior beliefs”. One can estimate the posterior distributions for the unknowns (e.g. states, parameters, noises) through Bayesian inference, usually in the form of a message-passing algorithm. Sometimes, the integrals involved are intractable. Variational inference solves this by approximating the posteriors with a simpler “recognition model”. AIF agents are essentially a form of variational Bayesian inference on probabilistic graphical models of dynamic systems that alternate between solving a signal processing (perception) and a control (action) problem to reach a goal.&lt;/p&gt;
+&lt;p&gt;The position is supported by the Sectorplan Techniek of the Dutch Ministry of Education, Culture and Science and the Eindhoven Artificial Intelligence Systems Institute.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
