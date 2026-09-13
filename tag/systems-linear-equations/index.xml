@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systems-Linear-Equations | Wouter M. Kouw</title>
+    <link>https://wmkouw.github.io/tag/systems-linear-equations/</link>
+      <atom:link href="https://wmkouw.github.io/tag/systems-linear-equations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Systems-Linear-Equations</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2026 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wmkouw.github.io/media/icon_hu_3493f95431143977.png</url>
+      <title>Systems-Linear-Equations</title>
+      <link>https://wmkouw.github.io/tag/systems-linear-equations/</link>
+    </image>
+    
+    <item>
+      <title>ProbNum Tutorial: Probabilistic numerics at scale by distributed inference</title>
+      <link>https://wmkouw.github.io/talk/probnum-tutorial-probabilistic-numerics-at-scale-by-distributed-inference/</link>
+      <pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/probnum-tutorial-probabilistic-numerics-at-scale-by-distributed-inference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

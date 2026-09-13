@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wmkouw.github.io/tag/belief-propagation/</loc>
+    <lastmod>2026-09-10T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/probabilistic-numerics/</loc>
+    <lastmod>2026-09-10T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/talk/probnum-tutorial-probabilistic-numerics-at-scale-by-distributed-inference/</loc>
+    <lastmod>2026-09-10T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/systems-linear-equations/</loc>
+    <lastmod>2026-09-10T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tags/</loc>
+    <lastmod>2026-09-10T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/event/</loc>
+    <lastmod>2026-09-10T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/</loc>
+    <lastmod>2026-09-10T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wmkouw.github.io/publication/efe-as-cbfe/</loc>
     <lastmod>2026-08-03T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15,10 +43,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/publication/</loc>
-    <lastmod>2026-08-03T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/</loc>
     <lastmod>2026-08-03T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -86,10 +110,6 @@
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/tags/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wmkouw.github.io/publication/priors-marxefe/</loc>
     <lastmod>2025-12-06T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -103,10 +123,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/tag/planning/</loc>
-    <lastmod>2025-10-20T16:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/event/</loc>
     <lastmod>2025-10-20T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -127,10 +143,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/tag/gaussian-processes/</loc>
-    <lastmod>2025-09-01T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/tag/probabilistic-numerics/</loc>
     <lastmod>2025-09-01T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
