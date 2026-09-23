@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wmkouw.github.io/talk/bayesian-system-identification-by-message-passing-on-factor-graphs/</loc>
+    <lastmod>2026-09-23T08:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/message-passing/</loc>
+    <lastmod>2026-09-23T08:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/system-identification/</loc>
+    <lastmod>2026-09-23T08:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tags/</loc>
+    <lastmod>2026-09-23T08:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/event/</loc>
+    <lastmod>2026-09-23T08:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/</loc>
+    <lastmod>2026-09-23T08:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/active-inference/</loc>
+    <lastmod>2026-09-15T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/talk/expected-free-energy-as-an-information-constraint/</loc>
+    <lastmod>2026-09-15T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://wmkouw.github.io/tag/free-energy/</loc>
+    <lastmod>2026-09-15T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://wmkouw.github.io/tag/belief-propagation/</loc>
     <lastmod>2026-09-10T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15,18 +51,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/tag/systems-linear-equations/</loc>
-    <lastmod>2026-09-10T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/tags/</loc>
-    <lastmod>2026-09-10T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/event/</loc>
-    <lastmod>2026-09-10T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/</loc>
     <lastmod>2026-09-10T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -86,10 +110,6 @@
     <lastmod>2026-01-12T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/tag/active-inference/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wmkouw.github.io/tag/agents/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,10 +132,6 @@
   </url><url>
     <loc>https://wmkouw.github.io/publication/priors-marxefe/</loc>
     <lastmod>2025-12-06T12:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/tag/message-passing/</loc>
-    <lastmod>2025-10-20T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/talk/on-deriving-efficient-information-seeking-behaviour-for-intelligent-autonomous-systems/</loc>
@@ -230,10 +246,6 @@
     <lastmod>2024-09-19T16:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://wmkouw.github.io/tag/free-energy/</loc>
-    <lastmod>2024-09-19T16:20:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://wmkouw.github.io/talk/planning-to-avoid-ambiguous-states-through-gaussian-approximations-to-non-linear-sensors/</loc>
     <lastmod>2024-09-11T10:40:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -247,10 +259,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://wmkouw.github.io/tag/bayesian-filtering/</loc>
-    <lastmod>2024-08-22T10:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://wmkouw.github.io/tag/system-identification/</loc>
     <lastmod>2024-08-22T10:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

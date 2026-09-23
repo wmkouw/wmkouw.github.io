@@ -5,12 +5,28 @@
     <link>https://wmkouw.github.io/tag/message-passing/</link>
       <atom:link href="https://wmkouw.github.io/tag/message-passing/index.xml" rel="self" type="application/rss+xml" />
     <description>Message-Passing</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 16:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Sep 2026 08:30:00 +0000</lastBuildDate>
     <image>
       <url>https://wmkouw.github.io/media/icon_hu_3493f95431143977.png</url>
       <title>Message-Passing</title>
       <link>https://wmkouw.github.io/tag/message-passing/</link>
     </image>
+    
+    <item>
+      <title>Bayesian system identification by message passing on factor graphs</title>
+      <link>https://wmkouw.github.io/talk/bayesian-system-identification-by-message-passing-on-factor-graphs/</link>
+      <pubDate>Wed, 23 Sep 2026 08:30:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/bayesian-system-identification-by-message-passing-on-factor-graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expected free energy as an information constraint</title>
+      <link>https://wmkouw.github.io/talk/expected-free-energy-as-an-information-constraint/</link>
+      <pubDate>Tue, 15 Sep 2026 14:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/expected-free-energy-as-an-information-constraint/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On deriving efficient information-seeking behaviour for intelligent autonomous systems</title>
